@@ -87,7 +87,8 @@ The service is delivered digitally. **No physical goods are shipped.**
 - We confirm within **1 business day** and process within **3 business days**. Refunds go back to the
   original payment method in the original currency; banks usually show them within **5–10 business
   days**.
-- When a payment is refunded the related subscription is cancelled and access ends at that time.
+- When a payment is refunded under the 30-day guarantee the related subscription is cancelled and access
+  ends at that time. Refunding a charge made in error (e.g. a duplicate) does not affect the subscription.
 - After 30 days payments are not refundable, except where the law requires otherwise, for charges made
   in error by us (e.g. duplicate charges — always refunded in full), or if we discontinue the service
   (at least 30 days' notice and a refund of the unused prepaid period).
@@ -151,6 +152,7 @@ The service is delivered digitally. **No physical goods are shipped.**
 ## Tokens available in legal copy (replaced at build time)
 - `{{brand}}` ShiftKumo · `{{company}}` operator legal name · `{{domain}}` shiftkumo.com
 - `{{email}}` support@shiftkumo.com · `{{descriptor}}` SHIFTKUMO.COM · `{{updated}}` last-updated date
+- `{{dmcaAgent}}` postal contact block for copyright notices (company, address, phone when configured, e-mail)
 - `{{companyBlock}}` formatted contact block (company name, address when configured, e-mail, website)
 - `{{priceTable}}` localized table of all plans and prices
 - `{{url:KEY}}` localized link target, KEY ∈ home, features, pricing, checkout, about, support, contact,

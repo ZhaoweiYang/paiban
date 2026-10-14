@@ -53,7 +53,7 @@ const termsOfService = `
 <li>use the interface in English or Japanese. Each user chooses their own language.</li>
 </ul>
 <p>Every plan includes every feature, unlimited employees, unlimited locations and unlimited schedules. The plans differ only in their billing period. See our <a href="{{url:features}}">Features</a> page for an overview.</p>
-<p>We keep improving the Service, so we may add, change or remove features. We will not materially reduce the core scheduling functionality of the Service during a billing period you have already paid for. Where reasonably possible, we will tell you in advance about any change that would materially and adversely affect you.</p>
+<p>We keep improving the Service, so we may add, change or remove features. We will not materially reduce the core scheduling functionality of the Service during a billing period you have already paid for, except if we stop offering the Service entirely as described in Section 14. Where reasonably possible, we will tell you in advance about any change that would materially and adversely affect you.</p>
 
 <h2 id="free-trial">5. Free trial</h2>
 <p>Every plan starts with a <strong>1-hour free trial</strong>, so you can try the full Service before you pay.</p>
@@ -102,7 +102,7 @@ const termsOfService = `
 <p>Cancellation stops all future renewals. You keep access until the end of the period you have already paid for, and we e-mail you a cancellation confirmation immediately. Our <a href="{{url:cancellation-policy}}">Cancellation Policy</a> has the full details.</p>
 <h3>30-day money-back guarantee</h3>
 <p>Every payment can be refunded <strong>in full within 30 days of the charge date</strong>, no questions asked. This includes your first payment and every renewal. To request a refund, go to <strong>Settings → Billing → Request refund</strong>, or e-mail <a href="mailto:{{email}}">{{email}}</a> from your account e-mail address with the subject "Refund request".</p>
-<p>When a payment is refunded, the related subscription is cancelled and access ends at that time. After 30 days, payments are not refundable, except where the law requires otherwise, for charges made in error by us (such as duplicate charges), which we always refund in full, or if we stop offering the Service, as described below. Our <a href="{{url:refund-policy}}">Refund Policy</a> has the full details, including timing.</p>
+<p>When a payment is refunded under the 30-day guarantee, the related subscription is cancelled and access ends at that time. Refunding a charge we made in error (such as a duplicate charge) does not affect your subscription. After 30 days, payments are not refundable, except where the law requires otherwise, for charges made in error by us (such as duplicate charges), which we always refund in full, or if we stop offering the Service, as described below. Our <a href="{{url:refund-policy}}">Refund Policy</a> has the full details, including timing.</p>
 <p>If you have a billing problem, please contact us before you file a chargeback with your bank. We resolve billing issues quickly.</p>
 
 <h2 id="customer-data">9. Customer Data and data protection</h2>
@@ -321,9 +321,9 @@ const privacyPolicy = `
 <h2 id="your-rights">10. Your privacy rights and how to use them</h2>
 <p>Your rights depend on where you live. Sections 11 to 13 describe them by region. Whatever your location, you can make a request as follows:</p>
 <ul>
-<li><strong>How to ask:</strong> e-mail <a href="mailto:{{email}}">{{email}}</a>, ideally from your account e-mail address, with the subject "Privacy request". Tell us which right you want to use.</li>
-<li><strong>Verification:</strong> to protect your information, we verify your identity before acting, usually by confirming that you control the account e-mail address. We use the information you give us for verification only for that purpose.</li>
-<li><strong>Authorized agents:</strong> someone can make a request for you if they have your signed, written permission. We may still ask you to confirm your identity directly with us.</li>
+<li><strong>How to ask:</strong> e-mail <a href="mailto:{{email}}">{{email}}</a>, ideally from your account e-mail address, with the subject "Privacy request". Tell us which right you want to use. For requests to opt out of the sale or sharing of personal information, use the subject "Do Not Sell or Share" (see our <a href="{{url:do-not-sell-or-share}}">Do Not Sell or Share</a> page).</li>
+<li><strong>Verification:</strong> for requests to access, know, delete or correct personal information, we verify your identity before acting, usually by confirming that you control the account e-mail address. Requests to opt out of sale or sharing, or to limit the use of sensitive personal information, do not require verification. We use the information you give us for verification only for that purpose.</li>
+<li><strong>Authorized agents:</strong> someone can make a request for you if they have your signed, written permission. For requests to know, delete or correct, we may still ask you to confirm your identity directly with us.</li>
 <li><strong>Response time:</strong> we reply within 30 days.</li>
 <li><strong>Cost:</strong> we do not charge for requests, unless the law allows a reasonable fee for requests that are manifestly unfounded or excessive.</li>
 <li><strong>Workspace data:</strong> requests about information that an employer has entered into {{brand}} should go to that employer, as the controller. We will help them respond.</li>
@@ -380,7 +380,8 @@ const privacyPolicy = `
 <li><strong>Purposes of use.</strong> We use personal information for the purposes described in Section 5. We will not use it beyond those purposes without your consent, unless the law permits it.</li>
 <li><strong>Provision to third parties.</strong> We do not provide personal data to third parties without your consent, unless the law permits it. When we entrust handling to service providers within the scope needed to achieve our purposes, that is not provision to a third party. We supervise those providers appropriately.</li>
 <li><strong>Transfers to foreign countries.</strong> {{company}} is located in the United States (Colorado), and we handle the personal information of users in Japan in the United States. Some of our service providers may also be located outside Japan. We require by contract that they take measures equivalent to those the APPI requires. On request, we will tell you about these measures and about the personal information protection system of the relevant countries.</li>
-<li><strong>Security control measures.</strong> Our measures fall into four groups. Organizational: clear responsibility for data protection and internal rules for handling data. Personnel: confidentiality obligations for staff. Physical: our data is hosted in the secured data centers of our cloud hosting provider. Technical: encryption in transit and at rest, role-based access and least-privilege access. External environment: we handle personal data in the United States and take these measures with an understanding of US federal and Colorado privacy law.</li>
+<li><strong>Security control measures.</strong> Our measures fall into four groups. Organizational: clear responsibility for data protection and internal rules for handling data. Personnel: confidentiality obligations for staff. Physical: our data is hosted in the secured data centers of our cloud hosting provider. Technical: encryption in transit and at rest, role-based access and least-privilege access.</li>
+<li><strong>External environment.</strong> We handle personal data in the United States and take these measures with an understanding of US federal and Colorado privacy law.</li>
 <li><strong>Your requests.</strong> You can ask us to disclose the retained personal data we hold about you, including records of any provision to third parties. You can also ask us to correct, add to or delete it, to suspend its use or erase it, or to stop providing it to third parties. Send your request as described in Section 10. We respond without delay, and within 30 days.</li>
 <li><strong>Business operator and inquiries.</strong> The business operator handling your personal information is {{company}}. Our address is shown in the Contact us section below, and the name of our representative is available on request. Please send complaints and inquiries about how we handle personal information to <a href="mailto:{{email}}">{{email}}</a>.</li>
 </ul>
@@ -398,7 +399,7 @@ const privacyPolicy = `
 <p>We may update this policy to reflect changes to the Service, our practices or the law. When we do, we will post the new version on this page and update the "Last updated" date. If a change is material, we will also notify account holders by e-mail before it takes effect.</p>
 
 <h2 id="contact-us">18. Contact us</h2>
-<p>For privacy questions or requests, e-mail <a href="mailto:{{email}}">{{email}}</a> with the subject "Privacy request". We give a first reply within 1 business day, and we respond fully within 30 days. You can also use our <a href="{{url:contact}}">contact page</a>.</p>
+<p>For privacy questions or requests, e-mail <a href="mailto:{{email}}">{{email}}</a> with the subject "Privacy request" (for opt-outs of sale or sharing, use "Do Not Sell or Share"). We give a first reply within 1 business day, and we respond fully within 30 days. You can also use our <a href="{{url:contact}}">contact page</a>.</p>
 {{companyBlock}}
 `;
 
@@ -462,7 +463,7 @@ const refundPolicy = `
 <p>If your card is in a different currency from your payment, your bank converts the refund. The exchange rate may differ from the one used for the original charge, so the amount in your own currency may differ slightly. Any foreign-transaction fees are set by your bank and are outside our control. If the original card has been closed or replaced, your bank will usually pass the refund to your new card or account. Your bank can confirm this for you.</p>
 
 <h2 id="effect-on-subscription">8. What happens to your subscription</h2>
-<p>When a payment is refunded, the related subscription is cancelled and <strong>access ends at that time</strong>. No further renewals are charged. Your workspace data is kept for 30 days after the subscription ends so you can export it or reactivate. After that, it is permanently deleted.</p>
+<p>When a payment is refunded under the 30-day guarantee, the related subscription is cancelled and <strong>access ends at that time</strong>. No further renewals are charged. Refunding a charge we made in error (such as a duplicate charge) does not affect your subscription. Your workspace data is kept for 30 days after the subscription ends so you can export it or reactivate. After that, it is permanently deleted.</p>
 <p>If you only want to stop future renewals and keep using {{brand}} until the end of the period you paid for, cancel instead of asking for a refund. Our <a href="{{url:cancellation-policy}}">Cancellation Policy</a> explains how.</p>
 
 <h2 id="after-30-days">9. After 30 days</h2>
@@ -770,9 +771,9 @@ const dmca = `
 <p>A notice that does not substantially include these elements may not be valid, and we may ask you for the missing information.</p>
 
 <h2 id="where-to-send">4. Where to send your notice</h2>
-<p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>, or by post to our designated agent for copyright notices under 17 U.S.C. § 512(c)(2):</p>
+<p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>, or by post to:</p>
 {{dmcaAgent}}
-<p>Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
+<p>By sending a notice, you agree that a copy of it, including your name and contact details, may be given to the customer who provided the material, as described in Section 5. Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
 
 <h2 id="after-a-notice">5. What happens after we receive a notice</h2>
 <p>When we receive a valid notice, we act promptly to remove or disable access to the material identified. Where possible, we notify the user or customer who provided the material, and we include a copy of the notice. We may share your notice, including your contact details, with that user so they can respond.</p>
@@ -891,7 +892,7 @@ const doNotSellOrShare = `
 <li>Include your name and the e-mail address associated with your {{brand}} account, if you have one.</li>
 <li>We confirm receipt and act on your request.</li>
 </ol>
-<p>You can also use this address to exercise your other privacy rights: to know and access, delete or correct your personal information, or to limit the use of sensitive personal information. Our <a href="{{url:privacy-policy}}">Privacy Policy</a> describes these rights in full.</p>
+<p>You can also e-mail us with the subject "Privacy request" to exercise your other privacy rights: to know and access, delete or correct your personal information, or to limit the use of sensitive personal information. Our <a href="{{url:privacy-policy}}">Privacy Policy</a> describes these rights in full.</p>
 
 <h2 id="verification">6. Verifying your request</h2>
 <p>Opt-out requests do not require identity verification. For requests to know, delete or correct personal information, we verify your identity before acting to protect your information, usually by confirming that you control the e-mail address linked to your account. We may ask for more information if needed, and we use it only to verify your request.</p>
@@ -903,9 +904,9 @@ const doNotSellOrShare = `
 <table>
 <thead><tr><th>Request</th><th>Our response</th></tr></thead>
 <tbody>
-<tr><td>Opt out of sale or sharing (including by e-mail)</td><td>Acted on within 15 business days</td></tr>
+<tr><td>Opt out of sale or sharing (including by e-mail), or limit the use of sensitive personal information</td><td>Acted on within 15 business days</td></tr>
 <tr><td>Global Privacy Control signal</td><td>Honored automatically</td></tr>
-<tr><td>Know, access, delete or correct, and limit sensitive personal information</td><td>We reply within 30 days, well within the 45 days the CCPA allows</td></tr>
+<tr><td>Know, access, delete or correct</td><td>We reply within 30 days, well within the 45 days the CCPA allows</td></tr>
 </tbody>
 </table>
 

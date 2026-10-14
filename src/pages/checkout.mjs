@@ -46,7 +46,7 @@ export default function checkout(t) {
     )
     .join('');
 
-  const fallback = mailto(c.mailSubject(t.plans[def.id].name, cur.toUpperCase()), c.mailIntro);
+  const fallback = mailto(c.mailSubjectGeneric, c.mailIntro);
   // Until a payment link is configured the hand-off is an e-mail, and the copy says so.
   const hasLink = !!(config.paymentLinks[def.id] || {})[cur];
 
@@ -62,7 +62,8 @@ export default function checkout(t) {
 
 <section class="section section-tight">
   <div class="wrap checkout">
-    <form class="co-form" data-checkout action="${esc(fallback)}" method="post" enctype="text/plain">
+    <form class="co-form" data-checkout>
+      <noscript><p class="note">${c.noJs} <a href="${esc(fallback)}">${config.supportEmail}</a></p></noscript>
       <fieldset>
         <legend>${c.step1}</legend>
         ${currencyToggle(t)}
@@ -76,13 +77,13 @@ export default function checkout(t) {
           <div class="field"><label for="co-company">${c.company}</label><input id="co-company" name="company" type="text" autocomplete="organization"></div>
         </div>
       </fieldset>
-      <label class="agree"><input type="checkbox" name="agree" required> <span>${c.agree(policy('terms-of-service'), policy('refund-policy'), policy('cancellation-policy'))} ${c.authorize(
+      <label class="agree"><input type="checkbox" name="agree" required> <span>${c.agree(policy('terms-of-service'), policy('refund-policy'), policy('cancellation-policy'))}${L === 'ja' ? '' : ' '}${c.authorize(
         `${both((x) => priceText(def, x))}`,
         t.plans[def.id].every,
         esc(config.brand)
       )}</span></label>
       <p class="form-error" role="alert" data-co-error hidden></p>
-      <button type="submit" class="btn btn-primary btn-lg btn-block">${icon('lock')} ${c.submit}</button>
+      <button type="submit" class="btn btn-primary btn-lg btn-block" disabled data-js-enable>${icon('lock')} ${c.submit}</button>
       <p class="fine center" data-co-note>${hasLink ? c.submitNote : c.fallbackNote}</p>
     </form>
 

@@ -232,6 +232,7 @@ export default {
     demo: {
       eyebrow: 'Try it here',
       title: 'Build a week with one click',
+      leadNoJs: 'A sample week on the ShiftKumo schedule board. Turn on JavaScript to auto-schedule the week or add and remove shifts yourself.',
       lead: 'This is a working mini version of the ShiftKumo schedule board. Press “Auto-schedule” to fill the week using each person’s availability, or click any cell to add or remove a shift.',
       auto: 'Auto-schedule',
       clear: 'Clear week',
@@ -404,7 +405,7 @@ export default {
       { t: 'Today', p: 'Choose a plan and enter your card. You are charged $0 / ¥0 and your 1-hour free trial starts immediately.' },
       { t: 'During the trial', p: 'Use every feature. To avoid any charge, cancel within the hour in Settings → Billing → Cancel trial.' },
       { t: 'After 1 hour', p: 'The full price of your plan is charged to your card and your billing period begins.' },
-      { t: 'Each renewal', p: 'Your plan renews automatically at the same price until you cancel. Annual and longer plans get a reminder 7 days before renewal.' },
+      { t: 'Each renewal', p: 'Your plan renews automatically at the same price until you cancel (a plan switch applies from your next renewal). Annual and longer plans get a reminder 7 days before renewal.' },
     ],
     tableTitle: 'Plan comparison',
     table: {
@@ -448,7 +449,7 @@ export default {
     h1: 'Start your 1-hour free trial',
     lead: 'Review your plan and exactly when you will be charged. Payment details are entered on our payment processor’s secure page in the next step.',
     leadFallback:
-      'Review your plan and exactly when you will be charged. After you submit, we e-mail you a secure payment link where you enter your card details.',
+      'Review your plan and exactly when you will be charged. After you submit, we e-mail you a secure payment link to enter your card details; your trial starts as soon as you complete it.',
     step1: '1. Choose your plan',
     step2: '2. Your details',
     email: 'Work e-mail',
@@ -461,7 +462,7 @@ export default {
       `I authorize ${d} to charge my card <strong data-co="price">${price}</strong> 1 hour after my trial starts and <span data-co="every">${every}</span> after that until I cancel.`,
     submit: 'Start free trial — no charge today',
     submitNote: 'You will be taken to our secure payment page to enter your card details.',
-    fallbackNote: 'This opens an e-mail to our team with your order. We reply with your secure payment link and activate your workspace.',
+    fallbackNote: 'This opens an e-mail to our team with your order. We reply with your secure payment link within 1 business day; your workspace and 1-hour free trial start as soon as you complete it.',
     summary: 'Order summary',
     plan: 'Plan',
     period: 'Billing period',
@@ -476,6 +477,8 @@ export default {
     errEmail: 'Please enter a valid e-mail address.',
     errAgree: 'Please accept the terms to continue.',
     mailSubject: (plan, cur) => `New subscription: ${plan} plan (${cur})`,
+    mailSubjectGeneric: 'New subscription',
+    noJs: 'Online checkout needs JavaScript. To subscribe without it, e-mail us your chosen plan and currency and we will reply with a secure payment link:',
     mailIntro: 'Please activate my ShiftKumo workspace with a 1-hour free trial and send me the secure payment link.',
   },
 
@@ -568,7 +571,7 @@ export default {
         'We confirm within 1 business day and process the refund within 3 business days.',
         'The money returns to your original card in the original currency, usually within 5–10 business days depending on your bank.',
       ],
-      note: 'A refunded subscription is cancelled at the time of the refund.',
+      note: 'A subscription refunded under the 30-day guarantee is cancelled at the time of the refund. Refunding a charge we made in error (such as a duplicate charge) does not affect your subscription.',
       mail: 'Request a refund',
       subject: 'Refund request',
     },
@@ -602,7 +605,7 @@ export default {
       ['What will appear on my card statement?', 'Charges appear as “SHIFTKUMO.COM”.'],
       ['Where are my invoices?', 'A receipt is e-mailed after each payment. All invoices are available in Settings → Billing.'],
       ['Why do I see a small temporary charge?', 'When you start a trial your bank may place a temporary authorization to verify the card. It is released automatically and is not a payment.'],
-      ['I did not recognize a charge.', 'E-mail us with the date and amount before contacting your bank. We will identify it and, if it is ours and within 30 days, refund it in full on request.'],
+      ['I did not recognize a charge.', 'E-mail us with the date and amount before contacting your bank. We will identify it. If it is ours, we refund it in full on request within 30 days of the charge, and a charge we made in error (such as a duplicate) is always refunded in full.'],
     ],
     faqT: 'Frequently asked questions',
     faq: [
@@ -637,6 +640,7 @@ export default {
     ],
     formTitle: 'Send us a message',
     formLead: 'This form opens your e-mail app with your message ready to send to support@shiftkumo.com.',
+    noJs: 'This form needs JavaScript. You can e-mail us directly at',
     form: {
       name: 'Your name',
       email: 'Your e-mail',
@@ -651,6 +655,7 @@ export default {
       ['Billing and refunds', 'Confirmed within 1 business day, processed within 3 business days'],
       ['Privacy requests', 'Within 30 days (opt-out requests within 15 business days)'],
       ['Accessibility feedback', 'Within 5 business days'],
+      ['Product feedback', 'Within 5 business days'],
     ],
   },
 
@@ -665,7 +670,7 @@ export default {
     keyFacts: 'Key facts at a glance',
     facts: [
       ['Free trial', '1 hour, then automatic charge of the plan price unless cancelled'],
-      ['Renewal', 'Automatic at the same price until cancelled'],
+      ['Renewal', 'Automatic at the same price until cancelled (a plan switch applies from your next renewal)'],
       ['Refunds', 'Full refund within 30 days of any payment'],
       ['Cancellation', 'Anytime in Settings → Billing, no fee'],
       ['Card statement', 'SHIFTKUMO.COM'],

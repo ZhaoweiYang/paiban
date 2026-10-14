@@ -97,7 +97,7 @@ function demo(t) {
           const on = start.has(`${p}:${day}:${s}`);
           const label = `${d.people[p]}, ${d.days[day]}, ${s === 'a' ? d.legend[0] : d.legend[1]}`;
           return ok
-            ? `<button type="button" class="slot slot-${s}" data-p="${p}" data-d="${day}" data-s="${s}" aria-pressed="${on}" aria-label="${esc(label)}">${s === 'a' ? d.am : d.pm}</button>`
+            ? `<button type="button" disabled class="slot slot-${s}" data-p="${p}" data-d="${day}" data-s="${s}" aria-pressed="${on}" aria-label="${esc(label)}">${s === 'a' ? d.am : d.pm}</button>`
             : `<span class="slot slot-off" title="${d.unavailable}"><span class="sr-only">${esc(label)}: ${d.unavailable}</span></span>`;
         };
         return `<div class="d-cell">${slot('a')}${slot('p')}</div>`;
@@ -107,7 +107,7 @@ function demo(t) {
   }).join('');
   return `<section class="section demo-section" id="demo" aria-labelledby="demo-h">
   <div class="wrap">
-    <div class="section-head"><p class="eyebrow">${d.eyebrow}</p><h2 id="demo-h">${d.title}</h2><p class="lead">${d.lead}</p></div>
+    <div class="section-head"><p class="eyebrow">${d.eyebrow}</p><h2 id="demo-h">${d.title}</h2><p class="lead"><span class="js-only">${d.lead}</span><noscript>${d.leadNoJs}</noscript></p></div>
     <div class="demo" data-demo data-rate="${rate}" data-cur="${t.lang === 'ja' ? 'jpy' : 'usd'}" data-avail="${DEMO_AVAIL.join(',')}">
       <div class="demo-bar">
         <div class="demo-actions">

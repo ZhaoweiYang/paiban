@@ -41,14 +41,18 @@ export function companyBlock(t) {
 </address>`;
 }
 
-/** Designated agent for copyright notices (17 U.S.C. § 512(c)(2)). */
+/** Postal contact for copyright notices. Becomes a full § 512(c)(2) designated-agent block
+ * once a phone number is configured (the statute requires one). */
 export function dmcaAgent(t) {
   const L = t.lang;
   const addr = companyAddress(L);
   const ja = L === 'ja';
+  const phone = config.company.phone;
+  const title = ja ? '著作権侵害通知の受付窓口' : 'Copyright Agent';
+  const name = ja ? `${esc(companyName(L))} 著作権担当（Copyright Agent）` : `Copyright Agent, ${esc(companyName(L))}`;
   return `<address class="company-block">
-<strong>${ja ? '著作権侵害通知の受領代理人（Designated Copyright Agent）' : 'Designated Copyright Agent'}</strong>
-<br>${ja ? '著作権担当（Copyright Agent）' : 'Copyright Agent'}, ${esc(companyName(L))}${addr ? `<br>${esc(addr)}` : ''}${config.company.phone ? `<br>${ja ? '電話' : 'Phone'}: ${esc(config.company.phone)}` : ''}
+<strong>${title}</strong>
+<br>${name}${addr ? `<br>${esc(addr)}` : ''}${phone ? `<br>${ja ? '電話' : 'Phone'}: ${esc(phone)}` : ''}
 <br>${t.about.info.email}: <a href="mailto:${config.supportEmail}">${config.supportEmail}</a>
 </address>`;
 }

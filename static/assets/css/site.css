@@ -424,11 +424,15 @@ main:focus {
   .js .primary-nav.is-open {
     display: block;
   }
+  html:not(.js) .site-header {
+    position: relative;
+  }
   html:not(.js) .nav {
     flex-wrap: wrap;
     height: auto;
     min-height: var(--header-h);
     row-gap: 0;
+    padding-top: 14px;
   }
   html:not(.js) .primary-nav {
     position: static;
@@ -1413,6 +1417,9 @@ html:not(.js) .tab-panel + .tab-panel {
 }
 .slot-off:hover {
   border-color: transparent;
+}
+html:not(.js) .js-only {
+  display: none;
 }
 html:not(.js) .demo-actions {
   display: none;

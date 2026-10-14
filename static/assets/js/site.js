@@ -15,6 +15,9 @@
     jpy: function (n) { return '¥' + Math.round(n).toLocaleString('en-US') + ' JPY'; },
   };
 
+  /* Controls that only work with JavaScript are disabled in the HTML and enabled here. */
+  $$('[data-js-enable]').forEach(function (b) { b.disabled = false; });
+
   /* Header: shadow once scrolled; mobile menu toggle. */
   var header = $('[data-header]');
   if (header) {
@@ -114,6 +117,7 @@
     var demoCur = demo.getAttribute('data-cur');
     var NEED = 2, SHIFT_H = 8, MAX_SHIFTS = 5, DAYS = 7;
     var buttons = $$('.slot[data-p]', demo);
+    buttons.forEach(function (b) { b.disabled = false; });
     var btn = function (p, d, s) { return $('.slot[data-p="' + p + '"][data-d="' + d + '"][data-s="' + s + '"]', demo); };
     var on = function (b) { return b && b.getAttribute('aria-pressed') === 'true'; };
     var canWork = function (p, d, s) { var c = avail[p][d]; return c === 'b' || c === s; };
@@ -302,8 +306,8 @@
       e.preventDefault();
       if (!cf.reportValidity()) return;
       var el = cf.elements;
-      var subject = el.topic.value + ' — ' + el.name.value.trim();
-      var body = el.message.value.trim() + '\n\n' + el.name.value.trim() + '\n' + el.email.value.trim();
+      var subject = el.subject.value + ' — ' + el.name.value.trim();
+      var body = el.body.value.trim() + '\n\n' + el.name.value.trim() + '\n' + el.email.value.trim();
       location.href = 'mailto:' + cf.getAttribute('data-to') + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
     });
   }

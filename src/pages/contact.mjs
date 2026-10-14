@@ -39,16 +39,17 @@ export default function contact(t) {
     <div>
       <h2 id="form-h">${c.formTitle}</h2>
       <p>${c.formLead}</p>
-      <form class="contact-form" data-contact-form data-to="${config.supportEmail}" action="mailto:${config.supportEmail}" method="post" enctype="text/plain">
+      <form class="contact-form" data-contact-form data-to="${config.supportEmail}">
+        <noscript><p class="note">${c.noJs} <a href="mailto:${config.supportEmail}">${config.supportEmail}</a></p></noscript>
         <div class="field-2">
           <div class="field"><label for="cf-name">${c.form.name}</label><input id="cf-name" name="name" type="text" autocomplete="name" required></div>
           <div class="field"><label for="cf-email">${c.form.email}</label><input id="cf-email" name="email" type="email" autocomplete="email" required></div>
         </div>
-        <div class="field"><label for="cf-topic">${c.form.topic}</label><select id="cf-topic" name="topic">${c.topics
+        <div class="field"><label for="cf-topic">${c.form.topic}</label><select id="cf-topic" name="subject">${c.topics
           .map((x) => `<option value="${esc(x.subject)}">${x.t}</option>`)
           .join('')}</select></div>
-        <div class="field"><label for="cf-msg">${c.form.message}</label><textarea id="cf-msg" name="message" rows="6" required></textarea></div>
-        <button class="btn btn-primary" type="submit">${icon('send')} ${c.form.send}</button>
+        <div class="field"><label for="cf-msg">${c.form.message}</label><textarea id="cf-msg" name="body" rows="6" required></textarea></div>
+        <button class="btn btn-primary" type="submit" disabled data-js-enable>${icon('send')} ${c.form.send}</button>
       </form>
     </div>
     <div class="stack">
