@@ -1,11 +1,10 @@
 name: Deploy site to GitHub Pages
 
+# Only main may deploy to the github-pages environment, so only main triggers a run.
 on:
   push:
     branches:
       - main
-      - master
-      - 'claude/**'
   workflow_dispatch:
 
 permissions:

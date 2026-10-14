@@ -32,7 +32,7 @@ unreplaced `{{tokens}}`, …).
 
 ## Before going live
 
-1. **Company details** — AVERCYN GLOBAL INC, 1660 Lincoln Street, Denver, CO 80264, USA is set in
+1. **Company details** — AVERCYN GLOBAL INC, 1660 LINCOLN STREET, DENVER, CO 80264, USA is set in
    `site.config.mjs`. Optionally add `phone` and `representative`; until then the Japanese commerce
    disclosure (特定商取引法に基づく表記) states that they are disclosed on request.
 2. **Payment links** — add your payment provider's hosted checkout URLs to `paymentLinks`

@@ -18,13 +18,13 @@ export default {
   company: {
     legalName: { en: 'AVERCYN GLOBAL INC', ja: 'AVERCYN GLOBAL INC' },
     address: {
-      en: '1660 Lincoln Street, Denver, CO 80264, USA',
-      ja: '1660 Lincoln Street, Denver, CO 80264, USA（アメリカ合衆国 コロラド州 デンバー）',
+      en: '1660 LINCOLN STREET, DENVER, CO 80264, USA',
+      ja: '1660 LINCOLN STREET, DENVER, CO 80264, USA（アメリカ合衆国 コロラド州 デンバー）',
     },
     // Structured form of the address for Schema.org PostalAddress.
     postalAddress: {
-      streetAddress: '1660 Lincoln Street',
-      addressLocality: 'Denver',
+      streetAddress: '1660 LINCOLN STREET',
+      addressLocality: 'DENVER',
       addressRegion: 'CO',
       postalCode: '80264',
       addressCountry: 'US',
