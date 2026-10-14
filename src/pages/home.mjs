@@ -129,7 +129,7 @@ export default function home(t) {
   <div class="wrap hero-inner">
     <p class="eyebrow pill">${icon('calendarCheck')} ${h.eyebrow}</p>
     <h1>${h.h1a} <span class="grad">${h.h1b}</span></h1>
-    <p class="lead hero-lead">${h.lead}</p>
+    <p class="lead hero-lead"><strong class="hero-def">${t.oneLiner}</strong> ${h.lead}</p>
     <div class="cta-row">
       <a class="btn btn-primary btn-lg" href="${url(L, 'checkout')}">${t.common.startTrial} ${icon('arrow')}</a>
       <a class="btn btn-ghost btn-lg" href="${url(L, 'pricing')}">${t.common.seePricing}</a>

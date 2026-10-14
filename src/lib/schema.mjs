@@ -25,8 +25,8 @@ export function organization(lang) {
     email: config.supportEmail,
     description:
       lang === 'ja'
-        ? 'シフト制で働くチームのためのクラウド型シフト管理サービス「ShiftKumo」の開発・運営。'
-        : 'Developer and operator of ShiftKumo, cloud-based employee scheduling software for teams that work in shifts.',
+        ? 'オンラインのシフト管理サービス「ShiftKumo」の開発・運営。ShiftKumo はスタッフのシフト表を自動で作成し、勤怠・人件費の管理まで行えます。'
+        : 'Developer and operator of ShiftKumo, online employee scheduling software that automatically builds staff shift schedules and tracks hours and labor costs.',
     knowsLanguage: ['en', 'ja'],
     contactPoint: [
       {
@@ -60,13 +60,14 @@ export function organization(lang) {
   return org;
 }
 
-export function website(lang) {
+export function website(lang, t) {
   return {
     '@type': 'WebSite',
     '@id': ids.website,
     url: abs(lang, 'home'),
     name: config.brand,
     alternateName: config.domain,
+    description: t.oneLiner,
     inLanguage: inLang(lang),
     publisher: { '@id': ids.org },
   };
@@ -170,7 +171,7 @@ export function software(lang, t, featureList) {
     applicationSubCategory: lang === 'ja' ? 'シフト管理・勤怠管理' : 'Employee scheduling',
     operatingSystem: 'Web browser (Windows, macOS, iOS, Android)',
     inLanguage: ['en', 'ja'],
-    description: t.home.description,
+    description: t.oneLiner,
     image: absAsset(`img/og-${lang}.png`),
     publisher: { '@id': ids.org },
     featureList,

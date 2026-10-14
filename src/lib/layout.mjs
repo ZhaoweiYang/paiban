@@ -81,7 +81,7 @@ function footer(t, key) {
     <div class="footer-grid">
       <div class="footer-brand">
         <a class="logo" href="${url(L, 'home')}">${logo(config.brand)}</a>
-        <p>${t.footer.tagline}</p>
+        <p>${t.oneLiner}</p>
         <address class="footer-address">
           <p class="footer-contact">${icon('building')} <strong>${esc(companyName(L))}</strong></p>
           ${companyAddress(L) ? `<p class="footer-contact">${icon('pin')} <span>${esc(companyAddress(L))}</span></p>` : ''}
@@ -135,7 +135,7 @@ export function page({ t, key, title, description, body, schema = [], crumbs, pa
   const isNotFound = key === '404';
   const canonical = isNotFound ? null : abs(L, key);
   const og = absAsset(`img/og-${L}.png`);
-  const nodes = [organization(L), website(L)];
+  const nodes = [organization(L), website(L, t)];
   if (!isNotFound) nodes.push(...webPage({ lang: L, key, type: pageType, title, description, crumbs, extra: pageExtra }), ...schema);
 
   // Language auto-detection: only the English (default) pages redirect, and only when the

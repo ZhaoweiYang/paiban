@@ -5,6 +5,10 @@ export default {
   other: 'ja',
   langName: 'English',
   defaultCurrency: 'usd',
+  // The one-sentence definition of the product, reused in the hero, meta/OG descriptions,
+  // JSON-LD, the footer of every page and llms.txt.
+  oneLiner:
+    'ShiftKumo is online employee scheduling software that automatically builds staff shift schedules, shares them with your team and tracks hours and labor costs.',
   dateFmt: (iso) =>
     new Date(iso + 'T00:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }),
 
@@ -77,7 +81,6 @@ export default {
   },
 
   footer: {
-    tagline: 'Online employee scheduling software for every team that works in shifts.',
     product: 'Product',
     company: 'Company',
     legal: 'Legal',
@@ -120,11 +123,11 @@ export default {
   home: {
     title: 'ShiftKumo — Employee Scheduling Software That Builds Your Shift Schedule',
     description:
-      'ShiftKumo is online employee scheduling software. Auto-build fair shift schedules, manage availability, swaps, time clock and labor costs. From $9.90/month.',
+      'ShiftKumo is online employee scheduling software that automatically builds staff shift schedules, shares them with your team and tracks hours and labor costs.',
     eyebrow: 'Employee scheduling software',
-    h1a: 'Shift scheduling that',
-    h1b: 'builds itself',
-    lead: 'ShiftKumo turns staff availability into a fair, rule-checked schedule in seconds. Publish it to every phone, handle swaps and time off, and track hours and labor costs — for restaurants, retail, clinics and every team that works in shifts.',
+    h1a: 'Employee scheduling software that',
+    h1b: 'builds your schedule',
+    lead: 'Made for restaurants, retail stores, clinics, hotels and every team that works in shifts — in English and Japanese.',
     micro: 'From $9.90 / month · Every feature in every plan · Cancel anytime',
     canvasLabel: 'How ShiftKumo builds a schedule',
     nodes: [

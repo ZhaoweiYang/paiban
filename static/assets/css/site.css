@@ -739,6 +739,7 @@ main:focus {
   margin-bottom: 22px;
 }
 .lang-ja .hero h1 {
+  word-break: keep-all;
   font-size: clamp(2.1rem, 5.6vw, 4.2rem);
   line-height: 1.22;
   letter-spacing: -0.01em;
@@ -749,6 +750,13 @@ main:focus {
 }
 .hero-lead {
   margin-bottom: 32px;
+  max-width: 760px;
+}
+.hero-def {
+  display: block;
+  color: var(--text);
+  font-weight: 600;
+  margin-bottom: 8px;
 }
 .cta-row {
   display: flex;
