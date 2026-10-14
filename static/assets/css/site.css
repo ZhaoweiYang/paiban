@@ -2678,6 +2678,14 @@ input[aria-invalid='true'] {
   max-width: 320px;
   margin: 16px 0;
 }
+.footer-address {
+  font-style: normal;
+  margin-top: 18px;
+}
+.footer-address strong {
+  color: var(--text);
+  font-weight: 700;
+}
 .footer-brand .footer-contact {
   display: flex;
   gap: 8px;

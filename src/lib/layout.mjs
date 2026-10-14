@@ -1,4 +1,4 @@
-import { config, url, abs, asset, absAsset, esc, fmtUsd, fmtJpy, companyName, POLICY_KEYS } from './util.mjs';
+import { config, url, abs, asset, absAsset, esc, fmtUsd, fmtJpy, companyName, companyAddress, POLICY_KEYS } from './util.mjs';
 import { logo, cardRow } from './brand.mjs';
 import { icon } from './icons.mjs';
 import { organization, website, webPage, graph } from './schema.mjs';
@@ -82,8 +82,12 @@ function footer(t, key) {
       <div class="footer-brand">
         <a class="logo" href="${url(L, 'home')}">${logo(config.brand)}</a>
         <p>${t.footer.tagline}</p>
-        <p class="footer-contact">${icon('mail')} <a href="mailto:${config.supportEmail}">${config.supportEmail}</a></p>
-        <p class="footer-contact">${icon('clock')} <span>${t.common.supportHours}</span></p>
+        <address class="footer-address">
+          <p class="footer-contact">${icon('building')} <strong>${esc(companyName(L))}</strong></p>
+          ${companyAddress(L) ? `<p class="footer-contact">${icon('pin')} <span>${esc(companyAddress(L))}</span></p>` : ''}
+          <p class="footer-contact">${icon('mail')} <a href="mailto:${config.supportEmail}">${config.supportEmail}</a></p>
+          <p class="footer-contact">${icon('clock')} <span>${t.common.supportHours}</span></p>
+        </address>
       </div>
       <nav aria-label="${t.footer.product}"><h2>${t.footer.product}</h2><ul>
         ${a('features')}${a('pricing')}${a('checkout', t.footer.startTrial)}${a('home', t.nav.home)}
