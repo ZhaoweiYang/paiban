@@ -381,7 +381,7 @@ const privacyPolicy = `
 <li><strong>Transfers to foreign countries.</strong> Some of our service providers may be located outside Japan. We require by contract that they take measures equivalent to those the APPI requires. On request, we will tell you about these measures and about the personal information protection system of the relevant countries.</li>
 <li><strong>Security control measures.</strong> Our measures fall into four groups. Organizational: clear responsibility for data protection and internal rules for handling data. Personnel: confidentiality obligations for staff. Physical: our data is hosted in the secured data centers of our cloud hosting provider. Technical: encryption in transit and at rest, role-based access and least-privilege access.</li>
 <li><strong>Your requests.</strong> You can ask us to disclose the retained personal data we hold about you, including records of any provision to third parties. You can also ask us to correct, add to or delete it, to suspend its use or erase it, or to stop providing it to third parties. Send your request as described in Section 10. We respond without delay, and within 30 days.</li>
-<li><strong>Business operator and inquiries.</strong> The business operator handling your personal information is {{company}}. The address and the name of our representative are shown in the Contact us section below where configured, and are otherwise available on request. Please send complaints and inquiries about how we handle personal information to <a href="mailto:{{email}}">{{email}}</a>.</li>
+<li><strong>Business operator and inquiries.</strong> The business operator handling your personal information is {{company}}. Our address is shown in the Contact us section below, and the name of our representative is available on request. Please send complaints and inquiries about how we handle personal information to <a href="mailto:{{email}}">{{email}}</a>.</li>
 </ul>
 
 <h2 id="global-privacy-control">14. Global Privacy Control and Do Not Track</h2>
@@ -769,7 +769,7 @@ const dmca = `
 <p>A notice that does not substantially include these elements may not be valid, and we may ask you for the missing information.</p>
 
 <h2 id="where-to-send">4. Where to send your notice</h2>
-<p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>. Our postal details, where configured, are listed in the Contact us section below. Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
+<p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>. Our postal address is listed in the Contact us section below. Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
 
 <h2 id="after-a-notice">5. What happens after we receive a notice</h2>
 <p>When we receive a valid notice, we act promptly to remove or disable access to the material identified. Where possible, we notify the user or customer who provided the material, and we include a copy of the notice. We may share your notice, including your contact details, with that user so they can respond.</p>

@@ -51,8 +51,10 @@ export function organization(lang) {
       },
     ],
   };
+  if (config.company.legalName.en) org.legalName = config.company.legalName.en;
   const addr = companyAddress(lang);
-  if (addr) org.address = { '@type': 'PostalAddress', streetAddress: addr };
+  if (config.company.postalAddress) org.address = { '@type': 'PostalAddress', ...config.company.postalAddress };
+  else if (addr) org.address = { '@type': 'PostalAddress', streetAddress: addr };
   if (config.company.phone) org.telephone = config.company.phone;
   if (config.company.foundingYear) org.foundingDate = config.company.foundingYear;
   return org;

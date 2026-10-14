@@ -32,10 +32,9 @@ unreplaced `{{tokens}}`, …).
 
 ## Before going live
 
-1. **Company details** — fill `company.legalName`, `company.address` (and optionally `phone`,
-   `representative`) in `site.config.mjs`. They appear on the About and Contact pages, in every
-   policy's contact block, in the Japanese commerce disclosure (特定商取引法に基づく表記) and in
-   the Organization JSON-LD. Empty fields are omitted rather than shown as blanks.
+1. **Company details** — AVERCYN GLOBAL INC, 1660 Lincoln Street, Denver, CO 80264, USA is set in
+   `site.config.mjs`. Optionally add `phone` and `representative`; until then the Japanese commerce
+   disclosure (特定商取引法に基づく表記) states that they are disclosed on request.
 2. **Payment links** — add your payment provider's hosted checkout URLs to `paymentLinks`
    (per plan and currency). Until a link is set, the checkout button opens a pre-filled e-mail
    to support so the flow still works.
