@@ -1,6 +1,6 @@
 import { page, guaranteeBadge, billingBox, icon, esc, url, abs, config } from '../lib/layout.mjs';
 import { mailto } from '../lib/util.mjs';
-import { faqPage, howTo } from '../lib/schema.mjs';
+import { faqPage, howTo, howToSections } from '../lib/schema.mjs';
 
 export default function support(t) {
   const s = t.support;
@@ -110,7 +110,15 @@ export default function support(t) {
       faqPage([...s.billing, ...s.faq], here),
       howTo(s.help.t, s.help.steps, here, 'get-help'),
       howTo(s.refund.t, s.refund.steps, here, 'refund'),
-      howTo(s.cancel.t, [...s.cancel.trial, ...s.cancel.sub], here, 'cancel'),
+      howToSections(
+        s.cancel.t,
+        [
+          { name: s.cancel.trialT, steps: s.cancel.trial },
+          { name: s.cancel.subT, steps: s.cancel.sub },
+        ],
+        here,
+        'cancel'
+      ),
       howTo(s.feedback.t, s.feedback.steps, here, 'feedback'),
     ],
   });

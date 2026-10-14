@@ -76,6 +76,19 @@ function demo(t) {
   const d = t.home.demo;
   const rate = t.lang === 'ja' ? 1150 : 18;
   const start = new Set(DEMO_START.map((s) => s.join(':')));
+  // Server-render the starting stats with the same rules as site.js so the board reads
+  // correctly before (or without) JavaScript.
+  const NEED = 2, SHIFT_H = 8;
+  const dayFilled = d.days.map((_, day) =>
+    ['a', 'p'].reduce((n, sl) => n + Math.min(NEED, DEMO_START.filter(([, dd, ss]) => dd === day && ss === sl).length), 0)
+  );
+  const personH = DEMO_AVAIL.map((_, p) => DEMO_START.filter(([pp]) => pp === p).length * SHIFT_H);
+  const hours = DEMO_START.length * SHIFT_H;
+  const coverage = Math.round((dayFilled.reduce((a, b) => a + b, 0) / (d.days.length * 2 * NEED)) * 100) + '%';
+  const cost =
+    t.lang === 'ja'
+      ? '¥' + (hours * rate).toLocaleString('en-US')
+      : '$' + (hours * rate).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
   const rows = DEMO_AVAIL.map((av, p) => {
     const cells = [...av]
       .map((c, day) => {
@@ -90,7 +103,7 @@ function demo(t) {
         return `<div class="d-cell">${slot('a')}${slot('p')}</div>`;
       })
       .join('');
-    return `<div class="d-row"><span class="d-name"><span class="avatar" style="--h:${(p * 57) % 360}">${esc(d.people[p].slice(0, 1))}</span>${esc(d.people[p])}<small data-hours="${p}"></small></span>${cells}</div>`;
+    return `<div class="d-row"><span class="d-name"><span class="avatar" style="--h:${(p * 57) % 360}">${esc(d.people[p].slice(0, 1))}</span>${esc(d.people[p])}<small data-hours="${p}">${personH[p]}h</small></span>${cells}</div>`;
   }).join('');
   return `<section class="section demo-section" id="demo" aria-labelledby="demo-h">
   <div class="wrap">
@@ -102,13 +115,13 @@ function demo(t) {
           <button type="button" class="btn btn-ghost btn-sm" data-demo-clear>${d.clear}</button>
         </div>
         <dl class="demo-stats" aria-live="polite">
-          <div><dt>${d.coverage}</dt><dd data-stat="coverage">—</dd></div>
-          <div><dt>${d.hours}</dt><dd data-stat="hours">—</dd></div>
-          <div><dt>${d.cost}</dt><dd data-stat="cost">—</dd></div>
+          <div><dt>${d.coverage}</dt><dd data-stat="coverage">${coverage}</dd></div>
+          <div><dt>${d.hours}</dt><dd data-stat="hours">${hours}h</dd></div>
+          <div><dt>${d.cost}</dt><dd data-stat="cost">${cost}</dd></div>
         </dl>
       </div>
       <div class="demo-grid">
-        <div class="d-row d-head"><span class="d-name">${d.need}</span>${d.days.map((x, i) => `<span class="d-day">${x}<small data-day="${i}"></small></span>`).join('')}</div>
+        <div class="d-row d-head"><span class="d-name">${d.need}</span>${d.days.map((x, i) => `<span class="d-day">${x}<small data-day="${i}" class="${dayFilled[i] === NEED * 2 ? 'ok' : 'gap'}">${dayFilled[i]}/${NEED * 2}</small></span>`).join('')}</div>
         ${rows}
       </div>
       <ul class="demo-legend"><li><i class="lg lg-a"></i>${d.legend[0]}</li><li><i class="lg lg-p"></i>${d.legend[1]}</li><li><i class="lg lg-off"></i>${d.legend[2]}</li></ul>
@@ -197,6 +210,7 @@ ${demo(t)}
         (p) => `<li class="${p.bestValue ? 'is-best' : ''}">${p.bestValue ? `<span class="badge">${t.money.bestValue}</span>` : ''}<span class="mp-name">${t.plans[p.id].name}</span>${price(p, t)}<span class="mp-per">${t.plans[p.id].per}</span><a class="mp-link" href="${url(L, 'checkout')}?plan=${p.id}">${t.common.startTrial}<span class="sr-only"> — ${t.plans[p.id].name}</span></a></li>`
       )
       .join('')}</ul>
+    <p class="fine plan-terms-note">${h.pricing.terms}</p>
     <div class="price-foot">
       ${guaranteeBadge(t)}
       <a class="btn btn-ghost" href="${url(L, 'pricing')}">${t.common.comparePlans} ${icon('arrow')}</a>

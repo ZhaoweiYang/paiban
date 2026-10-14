@@ -9,8 +9,9 @@ Every page, policy and translation must agree with this sheet. Values that live 
 - Support e-mail (the only mailbox — used for support, billing, refunds, privacy, legal and DMCA):
   **support@shiftkumo.com**
 - Card statement / billing descriptor: **SHIFTKUMO.COM**
-- Operator ("we", "us"): the company configured in `site.config.mjs` (`{{company}}`); legal name and
-  address are inserted by the build, never typed into copy.
+- Operator ("we", "us"): AVERCYN GLOBAL INC, 1660 LINCOLN STREET, DENVER, CO 80264, USA (configured in
+  `site.config.mjs` and inserted by the build as `{{company}}` / `{{companyBlock}}`, never typed into copy).
+  Personal data is handled in the United States.
 
 ## What we sell
 ShiftKumo is web-based **employee scheduling (shift scheduling / rostering) software** delivered as a
@@ -65,6 +66,8 @@ The service is delivered digitally. **No physical goods are shipped.**
   e-mail is sent 7 days before** renewal.
 - Price changes are announced by e-mail at least **30 days** in advance and apply only from the next
   renewal; customers can cancel before then.
+- Customers can switch to a longer or shorter billing period in **Settings → Billing**; the new plan and
+  price apply from the next renewal. The period already paid for does not change.
 
 ## Cancellation
 - Cancel any time, no cancellation fee: in the app (**Settings → Billing → Cancel subscription**) or by
@@ -85,7 +88,9 @@ The service is delivered digitally. **No physical goods are shipped.**
   original payment method in the original currency; banks usually show them within **5–10 business
   days**.
 - When a payment is refunded the related subscription is cancelled and access ends at that time.
-- After 30 days payments are not refundable, except where the law requires otherwise.
+- After 30 days payments are not refundable, except where the law requires otherwise, for charges made
+  in error by us (e.g. duplicate charges — always refunded in full), or if we discontinue the service
+  (at least 30 days' notice and a refund of the unused prepaid period).
 - Please contact us before filing a chargeback; we resolve billing issues quickly.
 
 ## Payments

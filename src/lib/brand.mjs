@@ -39,7 +39,7 @@ const CARD = {
   },
   unionpay: {
     name: 'UnionPay',
-    svg: '<rect width="48" height="32" rx="5" fill="#fff"/><path d="M11 6h9l-4.5 20H7z" fill="#e21836"/><path d="M19 6h9l-4.5 20h-8z" fill="#00447c"/><path d="M27 6h10l-4.5 20h-9z" fill="#007b84"/><text x="22.5" y="19.2" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="5.8" font-weight="700" fill="#fff" font-style="italic">UnionPay</text>',
+    svg: '<rect width="48" height="32" rx="5" fill="#fff"/><path d="M11 6h9l-4.5 20H7z" fill="#e21836"/><path d="M19 6h9l-4.5 20h-8z" fill="#00447c"/><path d="M27 6h10l-4.5 20h-9z" fill="#007b84"/><text x="21.5" y="18.6" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="5.2" font-weight="700" fill="#fff" font-style="italic" textLength="22" lengthAdjust="spacingAndGlyphs">UnionPay</text>',
   },
 };
 

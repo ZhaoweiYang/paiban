@@ -110,6 +110,8 @@ const money = (n) => (Number.isInteger(n) ? String(n) : n.toFixed(2));
 function returnPolicy(lang) {
   return {
     '@type': 'MerchantReturnPolicy',
+    // The service is sold worldwide; Google requires at least one country here.
+    applicableCountry: ['US', 'JP', 'CA', 'GB', 'AU', 'NZ', 'SG', 'HK', 'TW', 'KR', 'DE', 'FR', 'NL', 'IE', 'ES', 'IT'],
     returnPolicyCategory: 'https://schema.org/MerchantReturnFiniteReturnWindow',
     merchantReturnDays: config.refundDays,
     refundType: 'https://schema.org/FullRefund',
@@ -142,12 +144,6 @@ export function offers(lang, t) {
           priceCurrency: cur,
           valueAddedTaxIncluded: true,
           billingDuration: p.iso,
-          referenceQuantity: {
-            '@type': 'QuantitativeValue',
-            value: p.months,
-            unitCode: 'MON',
-            unitText: lang === 'ja' ? 'か月' : 'months',
-          },
         },
         hasMerchantReturnPolicy: returnPolicy(lang),
         description: t.common.trialLine(
@@ -220,7 +216,21 @@ export function howTo(name, steps, idUrl, frag) {
     '@type': 'HowTo',
     '@id': idUrl + '#' + frag,
     name,
-    step: steps.map((s, i) => ({ '@type': 'HowToStep', position: i + 1, name: s.length > 80 ? s.slice(0, 77) + '…' : s, text: s })),
+    step: steps.map((s, i) => ({ '@type': 'HowToStep', position: i + 1, text: s })),
+  };
+}
+
+/** A HowTo whose steps are grouped into alternative sections ([{name, steps}]). */
+export function howToSections(name, sections, idUrl, frag) {
+  return {
+    '@type': 'HowTo',
+    '@id': idUrl + '#' + frag,
+    name,
+    step: sections.map((sec) => ({
+      '@type': 'HowToSection',
+      name: sec.name,
+      itemListElement: sec.steps.map((s, i) => ({ '@type': 'HowToStep', position: i + 1, text: s })),
+    })),
   };
 }
 

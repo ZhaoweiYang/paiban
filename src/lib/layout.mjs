@@ -8,7 +8,7 @@ const ASSET_VERSION = Date.now().toString(36);
 /** Dual-currency price; CSS shows the one matching <html data-currency>. */
 export function price(plan, t, { big = false } = {}) {
   const tax = t.lang === 'ja' ? `<span class="tax">${t.money.taxNote}</span>` : '';
-  return `<span class="price${big ? ' price-big' : ''}"><span class="p-usd">${fmtUsd(plan.usd)}<small> USD</small></span><span class="p-jpy">${fmtJpy(plan.jpy)}<small> JPY</small>${tax}</span></span>`;
+  return `<span class="price${big ? ' price-big' : ''}"><span class="p-usd">${fmtUsd(plan.usd)}<small> USD</small>${tax}</span><span class="p-jpy">${fmtJpy(plan.jpy)}<small> JPY</small>${tax}</span></span>`;
 }
 
 /** Plain-text price in the page's default currency (for copy that must read as a sentence). */
@@ -104,7 +104,7 @@ function footer(t, key) {
     </div>
     <div class="footer-billing">
       ${cardRow(config.cards)}
-      <p>${icon('receipt')} ${esc(t.common.statement(config.billingDescriptor))} ${t.common.guarantee}.</p>
+      <p>${icon('receipt')} ${esc(t.common.statement(config.billingDescriptor))}${t.lang === 'ja' ? '' : ' '}${t.common.guarantee}${t.lang === 'ja' ? '。' : '.'}</p>
     </div>
     <div class="footer-bottom">
       <p>© ${year} ${esc(companyName(L))}. ${t.footer.rights}</p>
@@ -142,7 +142,7 @@ export function page({ t, key, title, description, body, schema = [], crumbs, pa
   // visitor has not chosen a language yet and their browser prefers Japanese.
   const detect =
     L === 'en' && !isNotFound
-      ? `<script>(function(){try{var p=localStorage.getItem('sk_lang');var l=(navigator.languages&&navigator.languages[0])||navigator.language||'';if(p==='ja'||(!p&&/^ja\\b/i.test(l))){location.replace(${JSON.stringify(url('ja', key))}+location.search+location.hash)}}catch(e){}})();</script>`
+      ? `<script>(function(){try{var s=new URLSearchParams(location.search),h=s.get('hl');if(h==='en'||h==='ja'){localStorage.setItem('sk_lang',h);s.delete('hl');var q=s.toString();history.replaceState(null,'',location.pathname+(q?'?'+q:'')+location.hash)}var p=localStorage.getItem('sk_lang');var l=(navigator.languages&&navigator.languages[0])||navigator.language||'';if(p==='ja'||(!p&&/^ja\\b/i.test(l))){location.replace(${JSON.stringify(url('ja', key))}+location.search+location.hash)}}catch(e){}})();</script>`
       : '';
   const curInit = `<script>(function(){var d=document.documentElement;try{var c=localStorage.getItem('sk_currency');if(c==='usd'||c==='jpy')d.setAttribute('data-currency',c)}catch(e){}d.classList.add('js')})();</script>`;
 

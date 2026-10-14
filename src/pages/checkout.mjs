@@ -33,6 +33,7 @@ export default function checkout(t) {
     errEmail: c.errEmail,
     errAgree: c.errAgree,
     fallbackNote: c.fallbackNote,
+    submitNote: c.submitNote,
   };
 
   const options = config.plans
@@ -46,6 +47,8 @@ export default function checkout(t) {
     .join('');
 
   const fallback = mailto(c.mailSubject(t.plans[def.id].name, cur.toUpperCase()), c.mailIntro);
+  // Until a payment link is configured the hand-off is an e-mail, and the copy says so.
+  const hasLink = !!(config.paymentLinks[def.id] || {})[cur];
 
   const body = `
 <section class="page-hero compact">
@@ -53,13 +56,13 @@ export default function checkout(t) {
   <div class="wrap">
     <p class="eyebrow">${c.eyebrow}</p>
     <h1>${c.h1}</h1>
-    <p class="lead">${c.lead}</p>
+    <p class="lead">${hasLink ? c.lead : c.leadFallback}</p>
   </div>
 </section>
 
 <section class="section section-tight">
   <div class="wrap checkout">
-    <form class="co-form" data-checkout action="${esc(fallback)}" method="post" enctype="text/plain" novalidate>
+    <form class="co-form" data-checkout action="${esc(fallback)}" method="post" enctype="text/plain">
       <fieldset>
         <legend>${c.step1}</legend>
         ${currencyToggle(t)}
@@ -80,7 +83,7 @@ export default function checkout(t) {
       )}</span></label>
       <p class="form-error" role="alert" data-co-error hidden></p>
       <button type="submit" class="btn btn-primary btn-lg btn-block">${icon('lock')} ${c.submit}</button>
-      <p class="fine center" data-co-note>${c.submitNote}</p>
+      <p class="fine center" data-co-note>${hasLink ? c.submitNote : c.fallbackNote}</p>
     </form>
 
     <aside class="co-summary" aria-labelledby="sum-h">

@@ -75,7 +75,7 @@ export default {
   },
 
   cookie: {
-    text: 'We only store your language and currency preferences in your browser. No tracking or advertising cookies.',
+    text: 'We only store your language and currency preferences, and that you dismissed this notice, in your browser. No tracking or advertising cookies.',
     link: 'Cookie Policy',
     ok: 'Got it',
   },
@@ -121,14 +121,14 @@ export default {
 
   // ---------------------------------------------------------------- Home
   home: {
-    title: 'ShiftKumo — Employee Scheduling Software That Builds Your Shift Schedule',
+    title: 'ShiftKumo — Employee Scheduling Software That Builds Your Schedule',
     description:
       'ShiftKumo is online employee scheduling software that automatically builds staff shift schedules, shares them with your team and tracks hours and labor costs.',
     eyebrow: 'Employee scheduling software',
     h1a: 'Employee scheduling software that',
     h1b: 'builds your schedule',
     lead: 'Made for restaurants, retail stores, clinics, hotels and every team that works in shifts — in English and Japanese.',
-    micro: 'From $9.90 / month · Every feature in every plan · Cancel anytime',
+    micro: 'From $9.90 / month · 1-hour free trial, then billed automatically · Cancel anytime',
     canvasLabel: 'How ShiftKumo builds a schedule',
     nodes: [
       { icon: 'calendarCheck', t: 'Availability', s: 'Collected from staff' },
@@ -251,7 +251,7 @@ export default {
       cellRemove: 'Remove shift',
     },
     bilingual: {
-      eyebrow: 'English & 日本語',
+      eyebrow: 'English & <span lang="ja">日本語</span>',
       title: 'One schedule, two languages',
       p: 'Every person chooses their own language. Managers can plan in English while staff read the same schedule in Japanese — ideal for multilingual teams in Japan and international businesses.',
       bullets: ['Full interface in English and Japanese', 'Notifications sent in each person’s language', 'Support from a bilingual team'],
@@ -275,6 +275,8 @@ export default {
       eyebrow: 'Simple pricing',
       title: 'One plan. Every feature. Choose how long.',
       lead: 'Unlimited employees, locations and schedules on every plan. Pick the billing period that suits your business.',
+      terms:
+        'Every plan starts with a 1-hour free trial: a payment card is required and nothing is charged today. Unless you cancel within the hour (Settings → Billing → Cancel trial), the plan price shown is charged automatically, and the plan renews automatically at the same price each billing period until you cancel.',
     },
     faqTitle: 'Frequently asked questions',
     faq: [
@@ -295,7 +297,7 @@ export default {
   features: {
     title: 'Features — Auto-Scheduling, Time Clock, Shift Swaps & More | ShiftKumo',
     description:
-      'All ShiftKumo features: auto-scheduling, shift templates, availability, time off, shift swaps, open shifts, time clock, timesheets, labor costs and payroll export.',
+      'ShiftKumo features: auto-scheduling, shift templates, availability, time off, shift swaps, open shifts, time clock, timesheets, labor costs and payroll export.',
     eyebrow: 'Features',
     h1: 'Everything you need to schedule, communicate and track',
     lead: 'Every feature below is included in every ShiftKumo plan — no add-ons, no per-user fees.',
@@ -374,7 +376,7 @@ export default {
   pricing: {
     title: 'Pricing — Plans from $9.90/month, 1-Hour Free Trial | ShiftKumo',
     description:
-      'ShiftKumo pricing: Monthly $9.90, Quarterly $19.90, Annual $99, 2-Year $129, 3-Year $199 (JPY too). All features, 1-hour free trial, 30-day money-back guarantee.',
+      'Pricing: Monthly $9.90, Quarterly $19.90, Annual $99, 2-Year $129, 3-Year $199 (JPY too). All features, 1-hour free trial, 30-day money-back guarantee.',
     eyebrow: 'Pricing',
     h1: 'Simple, transparent pricing',
     lead: 'One plan with every feature. Choose a billing period and a currency. The price you see is the total you pay — no setup fees, no per-user fees, no hidden costs.',
@@ -419,7 +421,7 @@ export default {
     details: [
       ['Free trial', '1 hour on every plan. A card is required; $0 / ¥0 is charged at sign-up. Your bank may show a temporary authorization that is released automatically. One trial per customer.'],
       ['When you are charged', 'Exactly 1 hour after your trial starts, unless you cancel first. Then at the start of every new billing period.'],
-      ['Automatic renewal', 'Subscriptions renew automatically at the same price for the same period until cancelled. You receive a receipt for every charge.'],
+      ['Automatic renewal', 'Subscriptions renew automatically at the same price for the same period until cancelled (if you switch plans, the new plan applies from your next renewal). You receive a receipt for every charge.'],
       ['Price changes', 'We announce any price change by e-mail at least 30 days in advance. It applies only from your next renewal.'],
       ['Currencies & taxes', 'Pay in US dollars (USD) or Japanese yen (JPY). Prices include any applicable taxes. Your bank may add its own foreign-transaction fee.'],
       ['Cancellation', 'Cancel anytime in Settings → Billing, with no fee. You keep access until the end of the period you paid for.'],
@@ -445,6 +447,8 @@ export default {
     eyebrow: 'Checkout',
     h1: 'Start your 1-hour free trial',
     lead: 'Review your plan and exactly when you will be charged. Payment details are entered on our payment processor’s secure page in the next step.',
+    leadFallback:
+      'Review your plan and exactly when you will be charged. After you submit, we e-mail you a secure payment link where you enter your card details.',
     step1: '1. Choose your plan',
     step2: '2. Your details',
     email: 'Work e-mail',
@@ -457,7 +461,7 @@ export default {
       `I authorize ${d} to charge my card <strong data-co="price">${price}</strong> 1 hour after my trial starts and <span data-co="every">${every}</span> after that until I cancel.`,
     submit: 'Start free trial — no charge today',
     submitNote: 'You will be taken to our secure payment page to enter your card details.',
-    fallbackNote: 'Our team will reply by e-mail with your secure payment link and activate your workspace.',
+    fallbackNote: 'This opens an e-mail to our team with your order. We reply with your secure payment link and activate your workspace.',
     summary: 'Order summary',
     plan: 'Plan',
     period: 'Billing period',
@@ -524,7 +528,7 @@ export default {
       ['globe', 'Bilingual by design', 'English and Japanese are built in from day one, not translated as an afterthought.'],
     ],
     nameTitle: 'Why “ShiftKumo”?',
-    name: '“Kumo” (雲) means “cloud” in Japanese. ShiftKumo puts your shifts in the cloud — always up to date, reachable from any phone and shared by the whole team.',
+    name: '“Kumo” (<span lang="ja">雲</span>) means “cloud” in Japanese. ShiftKumo puts your shifts in the cloud — always up to date, reachable from any phone and shared by the whole team.',
     cta: { title: 'Talk to us', p: 'Questions about ShiftKumo, billing or partnerships? We reply within 1 business day.' },
   },
 
@@ -623,10 +627,13 @@ export default {
     topics: [
       { icon: 'message', t: 'Questions before you buy', p: 'Plans, features, onboarding and whether ShiftKumo fits your team.', subject: 'Sales question' },
       { icon: 'help', t: 'Technical support', p: 'Help using ShiftKumo, account access and troubleshooting.', subject: 'Support request' },
-      { icon: 'receipt', t: 'Billing & refunds', p: 'Invoices, card charges, plan changes and refund requests.', subject: 'Billing question' },
-      { icon: 'lock', t: 'Privacy requests', p: 'Access, correction, deletion and “Do Not Sell or Share” requests.', subject: 'Privacy request' },
+      { icon: 'receipt', t: 'Billing', p: 'Invoices, card charges, plan changes and payment methods.', subject: 'Billing question' },
+      { icon: 'refund', t: 'Refunds', p: 'Request a full refund within 30 days of any charge — no questions asked.', subject: 'Refund request' },
+      { icon: 'ban', t: 'Cancel a subscription', p: 'Stop renewal by e-mail from your account address. No cancellation fee.', subject: 'Cancel subscription' },
+      { icon: 'lock', t: 'Privacy requests', p: 'Access, correction and deletion requests. For opt-outs, use the subject “Do Not Sell or Share”.', subject: 'Privacy request' },
       { icon: 'copyright', t: 'Legal & copyright', p: 'Legal notices and copyright (DMCA) notices.', subject: 'Copyright / DMCA notice' },
       { icon: 'access', t: 'Accessibility', p: 'Report a barrier or request content in an alternative format.', subject: 'Accessibility' },
+      { icon: 'bulb', t: 'Product feedback', p: 'Ideas, feature requests and suggestions for ShiftKumo.', subject: 'Product feedback' },
     ],
     formTitle: 'Send us a message',
     formLead: 'This form opens your e-mail app with your message ready to send to support@shiftkumo.com.',
@@ -666,7 +673,7 @@ export default {
     ],
   },
   commerce: {
-    title: 'Commerce Disclosure (Act on Specified Commercial Transactions) | ShiftKumo',
+    title: 'Commerce Disclosure (Japan) | ShiftKumo',
     description:
       'Seller information for ShiftKumo under Japan’s Act on Specified Commercial Transactions: seller, contact, prices, payment, delivery, cancellation and refunds.',
     h1: 'Commerce Disclosure',
@@ -682,7 +689,7 @@ export default {
       price: 'Prices',
       priceVal: 'As listed on the pricing page and below. All prices include any applicable taxes.',
       fees: 'Additional fees',
-      feesVal: 'None. Internet connection costs and any foreign-transaction fees charged by your card issuer are borne by the customer.',
+      feesVal: 'We charge no additional fees (no setup, shipping or handling fees). Internet connection costs and any foreign-transaction fees charged by your card issuer, if applicable, are borne by the customer.',
       pay: 'Payment methods',
       payVal: 'Credit and debit cards: Visa, Mastercard, American Express, JCB, Discover, Diners Club, UnionPay.',
       when: 'Payment timing',
@@ -692,11 +699,11 @@ export default {
       trial: 'Free trial',
       trialVal: '1 hour on every plan. Cancel during the trial in Settings → Billing → Cancel trial and no charge is made.',
       term: 'Contract term & renewal',
-      termVal: 'The billing period of the selected plan (1, 3, 12, 24 or 36 months). Renews automatically at the same price until cancelled.',
+      termVal: 'The billing period of the selected plan (1, 3, 12, 24 or 36 months). Renews automatically at the same price until cancelled; if you switch plans, the new plan and price apply from your next renewal.',
       cancel: 'Cancellation',
       cancelVal: 'Anytime from Settings → Billing or by e-mail, with no fee. Access continues until the end of the paid period.',
       refund: 'Refunds',
-      refundVal: '30-Day Money-Back Guarantee: any payment can be refunded in full within 30 days of the charge, no questions asked. After 30 days, payments are non-refundable except where required by law.',
+      refundVal: '30-Day Money-Back Guarantee: any payment can be refunded in full within 30 days of the charge, no questions asked. After 30 days, payments are non-refundable except where required by law, for charges made in error by us (such as duplicate charges), or if we discontinue the Service (the unused prepaid period is refunded).',
       env: 'System requirements',
       envVal: 'Latest version of Chrome, Edge, Firefox or Safari on Windows, macOS, iOS or Android, and an internet connection.',
       descriptor: 'Card statement',

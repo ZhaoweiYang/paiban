@@ -39,10 +39,30 @@
     });
   }
 
-  /* Remember an explicit language choice so auto-detection never overrides it. */
+  /* Remember an explicit language choice so auto-detection never overrides it. The switcher
+     links carry ?hl=<lang> (so the choice also sticks when opened in a new tab) plus the page's
+     other query parameters (so e.g. the selected checkout plan survives a language switch). */
+  var startParams = new URLSearchParams(location.search);
+  var hl = startParams.get('hl');
+  if (hl === 'en' || hl === 'ja') {
+    store.set('sk_lang', hl);
+    startParams.delete('hl');
+    var rest = startParams.toString();
+    if (history.replaceState) history.replaceState(null, '', location.pathname + (rest ? '?' + rest : '') + location.hash);
+  }
+  function syncLangLinks() {
+    var keep = new URLSearchParams(location.search);
+    keep.delete('hl');
+    $$('[data-set-lang]').forEach(function (a) {
+      var q = new URLSearchParams(keep.toString());
+      q.set('hl', a.getAttribute('data-set-lang'));
+      a.href = new URL(a.href, location.href).pathname + '?' + q.toString();
+    });
+  }
   $$('[data-set-lang]').forEach(function (a) {
     a.addEventListener('click', function () { store.set('sk_lang', a.getAttribute('data-set-lang')); });
   });
+  syncLangLinks();
 
   /* Currency (USD / JPY). */
   function setCurrency(cur, persist) {
@@ -198,6 +218,7 @@
   var form = $('[data-checkout]');
   var coData = $('#checkout-data');
   if (form && coData) {
+    form.noValidate = true; // custom messages below replace the native bubbles
     var data = JSON.parse(coData.textContent);
     var byId = {};
     data.plans.forEach(function (p) { byId[p.id] = p; });
@@ -219,12 +240,15 @@
       $$('[data-co="price"]').forEach(function (el) { el.textContent = price; });
       $$('[data-co="every"]').forEach(function (el) { el.textContent = p.every; });
       $$('[data-co="renews"]').forEach(function (el) { el.textContent = p.renews; });
+      var note = $('[data-co-note]', form);
+      if (note) note.textContent = p.links && p.links[cur()] ? data.submitNote : data.fallbackNote;
       if (history.replaceState) {
         var q = new URLSearchParams(location.search);
         q.set('plan', p.id);
         q.set('currency', cur());
         history.replaceState(null, '', location.pathname + '?' + q.toString() + location.hash);
       }
+      syncLangLinks();
     };
     radios.forEach(function (r) { r.addEventListener('change', update); });
     doc.addEventListener('sk:currency', update);

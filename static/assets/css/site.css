@@ -424,9 +424,31 @@ main:focus {
   .js .primary-nav.is-open {
     display: block;
   }
+  html:not(.js) .nav {
+    flex-wrap: wrap;
+    height: auto;
+    min-height: var(--header-h);
+    row-gap: 0;
+  }
   html:not(.js) .primary-nav {
     position: static;
     display: block;
+    order: 3;
+    flex: 1 0 100%;
+    padding: 0 0 10px;
+    background: none;
+    border: 0;
+  }
+  html:not(.js) .primary-nav ul {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  html:not(.js) .primary-nav a {
+    padding: 6px 10px;
+    font-size: 0.95rem;
+  }
+  html:not(.js) .nav-toggle {
+    display: none;
   }
 }
 @media (max-width: 560px) {
@@ -1391,6 +1413,16 @@ html:not(.js) .tab-panel + .tab-panel {
 }
 .slot-off:hover {
   border-color: transparent;
+}
+html:not(.js) .demo-actions {
+  display: none;
+}
+html:not(.js) .slot {
+  pointer-events: none;
+}
+.plan-terms-note {
+  margin: 18px 0 0;
+  max-width: 900px;
 }
 .demo-legend {
   list-style: none;

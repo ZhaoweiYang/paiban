@@ -83,7 +83,8 @@ const termsOfService = `
 <p>The disclosures required for customers in Japan under the Act on Specified Commercial Transactions are on our <a href="{{url:commerce-disclosure}}">Commerce Disclosure</a> page.</p>
 
 <h2 id="automatic-renewal">7. Automatic renewal and price changes</h2>
-<p>Your subscription <strong>renews automatically</strong> at the end of each billing period for another period of the same length. Each renewal is charged at the same plan price to the card on file. This continues until you cancel.</p>
+<p>Your subscription <strong>renews automatically</strong> at the end of each billing period for another period of the same length, unless you switch plans. Each renewal is charged at your current plan's price to the card on file. This continues until you cancel.</p>
+<p><strong>Plan changes.</strong> You can switch to a longer or shorter billing period in Settings → Billing. The switch takes effect at your next renewal, which is charged at the new plan's price and lasts for the new plan's period. The period you have already paid for does not change.</p>
 <ul>
 <li>We e-mail a receipt for every renewal charge.</li>
 <li>For plans of 12 months or longer (Annual, 2-Year and 3-Year), we send a renewal reminder e-mail <strong>7 days before</strong> the renewal date.</li>
@@ -101,7 +102,7 @@ const termsOfService = `
 <p>Cancellation stops all future renewals. You keep access until the end of the period you have already paid for, and we e-mail you a cancellation confirmation immediately. Our <a href="{{url:cancellation-policy}}">Cancellation Policy</a> has the full details.</p>
 <h3>30-day money-back guarantee</h3>
 <p>Every payment can be refunded <strong>in full within 30 days of the charge date</strong>, no questions asked. This includes your first payment and every renewal. To request a refund, go to <strong>Settings → Billing → Request refund</strong>, or e-mail <a href="mailto:{{email}}">{{email}}</a> from your account e-mail address with the subject "Refund request".</p>
-<p>When a payment is refunded, the related subscription is cancelled and access ends at that time. After 30 days, payments are not refundable, except where the law requires otherwise. Our <a href="{{url:refund-policy}}">Refund Policy</a> has the full details, including timing.</p>
+<p>When a payment is refunded, the related subscription is cancelled and access ends at that time. After 30 days, payments are not refundable, except where the law requires otherwise, for charges made in error by us (such as duplicate charges), which we always refund in full, or if we stop offering the Service, as described below. Our <a href="{{url:refund-policy}}">Refund Policy</a> has the full details, including timing.</p>
 <p>If you have a billing problem, please contact us before you file a chargeback with your bank. We resolve billing issues quickly.</p>
 
 <h2 id="customer-data">9. Customer Data and data protection</h2>
@@ -217,7 +218,7 @@ const termsOfService = `
 <li><strong>Events beyond control.</strong> Neither of us is liable for delays or failures caused by events beyond our reasonable control. This does not apply to payment obligations.</li>
 <li><strong>Severability and waiver.</strong> If any provision is found unenforceable, the rest of these Terms remain in effect. If either of us does not enforce a provision, that is not a waiver of it.</li>
 <li><strong>Relationship.</strong> We are independent contractors. These Terms do not create a partnership, employment or agency relationship, and they give no rights to third parties.</li>
-<li><strong>Language.</strong> These Terms are written in English. If we provide a translation and it conflicts with the English version, the English version prevails as far as the law allows.</li>
+<li><strong>Language.</strong> These Terms are published in English and Japanese. If the two versions conflict, the version in the language in which you subscribed applies, as far as the law allows.</li>
 </ul>
 
 <h2 id="contact-us">22. Contact us</h2>
@@ -378,8 +379,8 @@ const privacyPolicy = `
 <ul>
 <li><strong>Purposes of use.</strong> We use personal information for the purposes described in Section 5. We will not use it beyond those purposes without your consent, unless the law permits it.</li>
 <li><strong>Provision to third parties.</strong> We do not provide personal data to third parties without your consent, unless the law permits it. When we entrust handling to service providers within the scope needed to achieve our purposes, that is not provision to a third party. We supervise those providers appropriately.</li>
-<li><strong>Transfers to foreign countries.</strong> Some of our service providers may be located outside Japan. We require by contract that they take measures equivalent to those the APPI requires. On request, we will tell you about these measures and about the personal information protection system of the relevant countries.</li>
-<li><strong>Security control measures.</strong> Our measures fall into four groups. Organizational: clear responsibility for data protection and internal rules for handling data. Personnel: confidentiality obligations for staff. Physical: our data is hosted in the secured data centers of our cloud hosting provider. Technical: encryption in transit and at rest, role-based access and least-privilege access.</li>
+<li><strong>Transfers to foreign countries.</strong> {{company}} is located in the United States (Colorado), and we handle the personal information of users in Japan in the United States. Some of our service providers may also be located outside Japan. We require by contract that they take measures equivalent to those the APPI requires. On request, we will tell you about these measures and about the personal information protection system of the relevant countries.</li>
+<li><strong>Security control measures.</strong> Our measures fall into four groups. Organizational: clear responsibility for data protection and internal rules for handling data. Personnel: confidentiality obligations for staff. Physical: our data is hosted in the secured data centers of our cloud hosting provider. Technical: encryption in transit and at rest, role-based access and least-privilege access. External environment: we handle personal data in the United States and take these measures with an understanding of US federal and Colorado privacy law.</li>
 <li><strong>Your requests.</strong> You can ask us to disclose the retained personal data we hold about you, including records of any provision to third parties. You can also ask us to correct, add to or delete it, to suspend its use or erase it, or to stop providing it to third parties. Send your request as described in Section 10. We respond without delay, and within 30 days.</li>
 <li><strong>Business operator and inquiries.</strong> The business operator handling your personal information is {{company}}. Our address is shown in the Contact us section below, and the name of our representative is available on request. Please send complaints and inquiries about how we handle personal information to <a href="mailto:{{email}}">{{email}}</a>.</li>
 </ul>
@@ -465,7 +466,7 @@ const refundPolicy = `
 <p>If you only want to stop future renewals and keep using {{brand}} until the end of the period you paid for, cancel instead of asking for a refund. Our <a href="{{url:cancellation-policy}}">Cancellation Policy</a> explains how.</p>
 
 <h2 id="after-30-days">9. After 30 days</h2>
-<p>More than 30 days after the charge date, payments are not refundable, except where the law requires otherwise. You can still cancel at any time to stop future renewals, and you keep access until the end of the period you paid for. For plans of 12 months or longer, we e-mail you a reminder 7 days before each renewal. Each renewal payment is then covered by its own 30-day guarantee.</p>
+<p>More than 30 days after the charge date, payments are not refundable, except where the law requires otherwise, for charges made in error by us (such as duplicate charges), which we always refund in full, or if we stop offering {{brand}} entirely, in which case we refund the prepaid fees for the unused part of your billing period (see our <a href="{{url:terms-of-service}}">Terms of Service</a>). You can still cancel at any time to stop future renewals, and you keep access until the end of the period you paid for. For plans of 12 months or longer, we e-mail you a reminder 7 days before each renewal. Each renewal payment is then covered by its own 30-day guarantee.</p>
 
 <h2 id="statutory-rights">10. Your legal rights</h2>
 <p>This guarantee is in addition to your rights under the law, and nothing in this policy limits mandatory consumer rights. For example, consumers in the European Union and the United Kingdom may have a legal right to withdraw from a contract for digital services within 14 days. Our 30-day guarantee gives you longer. Customers in Japan can find the information required under the Act on Specified Commercial Transactions on our <a href="{{url:commerce-disclosure}}">Commerce Disclosure</a> page.</p>
@@ -515,7 +516,7 @@ const cancellationPolicy = `
 <p>There is no cancellation fee and no early-termination charge on any plan, whatever its length. You will never be charged for cancelling.</p>
 
 <h2 id="automatic-renewal">6. Automatic renewal and reminders</h2>
-<p>Until you cancel, your subscription renews automatically at the end of each billing period, at the same plan price, and is charged to the card on file. Our plans and prices are:</p>
+<p>Until you cancel, your subscription renews automatically at the end of each billing period, at your current plan's price (if you switch plans in Settings → Billing, the new plan and price apply from your next renewal), and is charged to the card on file. Our plans and prices are:</p>
 {{priceTable}}
 <ul>
 <li>We e-mail a receipt for every charge.</li>
@@ -769,7 +770,9 @@ const dmca = `
 <p>A notice that does not substantially include these elements may not be valid, and we may ask you for the missing information.</p>
 
 <h2 id="where-to-send">4. Where to send your notice</h2>
-<p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>. Our postal address is listed in the Contact us section below. Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
+<p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>, or by post to our designated agent for copyright notices under 17 U.S.C. § 512(c)(2):</p>
+{{dmcaAgent}}
+<p>Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
 
 <h2 id="after-a-notice">5. What happens after we receive a notice</h2>
 <p>When we receive a valid notice, we act promptly to remove or disable access to the material identified. Where possible, we notify the user or customer who provided the material, and we include a copy of the notice. We may share your notice, including your contact details, with that user so they can respond.</p>
@@ -916,10 +919,10 @@ const doNotSellOrShare = `
 <p>If your employer uses {{brand}} to schedule your shifts, we process your information as a service provider on your employer's behalf. We do not sell or share that information either. For requests about information your employer has entered, contact your employer directly. If you contact us, we will pass your request on and help them respond.</p>
 
 <h2 id="other-states">12. Residents of other US states</h2>
-<p>Residents of Virginia, Colorado, Connecticut, Utah, Texas, Oregon and other states with comprehensive privacy laws have similar rights. Where those laws apply to us, they include the right to opt out of the sale of personal information, targeted advertising and certain profiling, and the rights to access, correct, delete and obtain a copy of personal information. We do not sell personal information, engage in targeted advertising or carry out profiling that produces legal or similarly significant effects. You can send any request as described in Section 5. If we decline your request, you can appeal by replying to our decision with the subject "Privacy appeal". We will respond within the time your state's law requires, and you may contact your state attorney general if you disagree with the outcome.</p>
+<p>Residents of Virginia, Colorado, Connecticut, Utah, Texas, Oregon and other states with comprehensive privacy laws have similar rights. Where those laws apply to us, they include the right to opt out of the sale of personal information, targeted advertising and certain profiling, and the rights to access, correct, delete and obtain a copy of personal information. We do not sell personal information, engage in targeted advertising or carry out profiling that produces legal or similarly significant effects. You can send an opt-out request as described in Section 5, and any other request by e-mail with the subject "Privacy request". If we decline your request, you can appeal by replying to our decision with the subject "Privacy appeal". We will respond within the time your state's law requires, and you may contact your state attorney general if you disagree with the outcome.</p>
 
 <h2 id="contact-us">13. Contact us</h2>
-<p>For opt-out or privacy requests, e-mail <a href="mailto:{{email}}">{{email}}</a> with the subject "Do Not Sell or Share".</p>
+<p>For opt-out requests, e-mail <a href="mailto:{{email}}">{{email}}</a> with the subject "Do Not Sell or Share". For access, correction, deletion or other privacy requests, use the subject "Privacy request".</p>
 {{companyBlock}}
 `;
 
