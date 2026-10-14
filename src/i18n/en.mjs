@@ -277,7 +277,7 @@ export default {
       title: 'One plan. Every feature. Choose how long.',
       lead: 'Unlimited employees, locations and schedules on every plan. Pick the billing period that suits your business.',
       terms:
-        'Every plan starts with a 1-hour free trial: a payment card is required and nothing is charged today. Unless you cancel within the hour (Settings → Billing → Cancel trial), the plan price shown is charged automatically, and the plan renews automatically at the same price each billing period until you cancel.',
+        'Every plan starts with a 1-hour free trial: a payment card is required and nothing is charged at sign-up. Unless you cancel within the hour (Settings → Billing → Cancel trial), the plan price shown is charged automatically, and the plan renews automatically at the same price each billing period until you cancel.',
     },
     faqTitle: 'Frequently asked questions',
     faq: [
@@ -402,7 +402,7 @@ export default {
     ],
     howTitle: 'How billing works',
     how: [
-      { t: 'Today', p: 'Choose a plan and enter your card. You are charged $0 / ¥0 and your 1-hour free trial starts immediately.' },
+      { t: 'At sign-up', p: 'Choose a plan and enter your card. You are charged $0 / ¥0 and your 1-hour free trial starts immediately.' },
       { t: 'During the trial', p: 'Use every feature. To avoid any charge, cancel within the hour in Settings → Billing → Cancel trial.' },
       { t: 'After 1 hour', p: 'The full price of your plan is charged to your card and your billing period begins.' },
       { t: 'Each renewal', p: 'Your plan renews automatically at the same price until you cancel (a plan switch applies from your next renewal). Annual and longer plans get a reminder 7 days before renewal.' },
@@ -413,7 +413,7 @@ export default {
       usd: 'Price (USD)',
       jpy: 'Price (JPY)',
       period: 'Billing period',
-      today: 'Due today',
+      today: 'Due at sign-up',
       first: 'First charge',
       renewal: 'Renewal',
       firstWhen: '1 hour after sign-up',
@@ -460,13 +460,14 @@ export default {
       `I agree to the ${terms}, ${refund} and ${cancel}.`,
     authorize: (price, every, d) =>
       `I authorize ${d} to charge my card <strong data-co="price">${price}</strong> 1 hour after my trial starts and <span data-co="every">${every}</span> after that until I cancel.`,
-    submit: 'Start free trial — no charge today',
+    submit: 'Start free trial — nothing due now',
+    submitFallback: 'Request my secure payment link',
     submitNote: 'You will be taken to our secure payment page to enter your card details.',
     fallbackNote: 'This opens an e-mail to our team with your order. We reply with your secure payment link within 1 business day; your workspace and 1-hour free trial start as soon as you complete it.',
     summary: 'Order summary',
     plan: 'Plan',
     period: 'Billing period',
-    dueToday: 'Due today',
+    dueToday: 'Due at sign-up',
     trialEnds: 'Free trial',
     trialEndsVal: 'Ends 1 hour after sign-up',
     firstCharge: 'Charged after trial',
@@ -478,7 +479,8 @@ export default {
     errAgree: 'Please accept the terms to continue.',
     mailSubject: (plan, cur) => `New subscription: ${plan} plan (${cur})`,
     mailSubjectGeneric: 'New subscription',
-    noJs: 'Online checkout needs JavaScript. To subscribe without it, e-mail us your chosen plan and currency and we will reply with a secure payment link:',
+    noJs: (a) => `Online checkout needs JavaScript. To subscribe without it, e-mail your chosen plan and currency to ${a} and we will reply with a secure payment link.`,
+    leadNoJs: 'Review your plan and exactly when you will be charged.',
     mailIntro: 'Please activate my ShiftKumo workspace with a 1-hour free trial and send me the secure payment link.',
   },
 
@@ -640,7 +642,7 @@ export default {
     ],
     formTitle: 'Send us a message',
     formLead: 'This form opens your e-mail app with your message ready to send to support@shiftkumo.com.',
-    noJs: 'This form needs JavaScript. You can e-mail us directly at',
+    noJs: (a) => `This form needs JavaScript. You can e-mail us directly at ${a}.`,
     form: {
       name: 'Your name',
       email: 'Your e-mail',
@@ -653,7 +655,7 @@ export default {
     response: [
       ['General, sales and support', 'Within 1 business day'],
       ['Billing and refunds', 'Confirmed within 1 business day, processed within 3 business days'],
-      ['Privacy requests', 'Within 30 days (opt-out requests within 15 business days)'],
+      ['Privacy requests', 'Within 30 days (opt-out and limit requests within 15 business days)'],
       ['Accessibility feedback', 'Within 5 business days'],
       ['Product feedback', 'Within 5 business days'],
     ],

@@ -245,7 +245,10 @@
       $$('[data-co="every"]').forEach(function (el) { el.textContent = p.every; });
       $$('[data-co="renews"]').forEach(function (el) { el.textContent = p.renews; });
       var note = $('[data-co-note]', form);
-      if (note) note.textContent = p.links && p.links[cur()] ? data.submitNote : data.fallbackNote;
+      var hasLink = !!(p.links && p.links[cur()]);
+      if (note) note.textContent = hasLink ? data.submitNote : data.fallbackNote;
+      var label = $('[data-co-submit]', form);
+      if (label) label.textContent = hasLink ? data.submit : data.submitFallback;
       if (history.replaceState) {
         var q = new URLSearchParams(location.search);
         q.set('plan', p.id);

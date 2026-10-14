@@ -34,6 +34,8 @@ export default function checkout(t) {
     errAgree: c.errAgree,
     fallbackNote: c.fallbackNote,
     submitNote: c.submitNote,
+    submit: c.submit,
+    submitFallback: c.submitFallback,
   };
 
   const options = config.plans
@@ -56,14 +58,14 @@ export default function checkout(t) {
   <div class="wrap">
     <p class="eyebrow">${c.eyebrow}</p>
     <h1>${c.h1}</h1>
-    <p class="lead">${hasLink ? c.lead : c.leadFallback}</p>
+    <p class="lead"><span class="js-only">${hasLink ? c.lead : c.leadFallback}</span><noscript>${c.leadNoJs}</noscript></p>
   </div>
 </section>
 
 <section class="section section-tight">
   <div class="wrap checkout">
     <form class="co-form" data-checkout>
-      <noscript><p class="note">${c.noJs} <a href="${esc(fallback)}">${config.supportEmail}</a></p></noscript>
+      <noscript><p class="note">${c.noJs(`<a href="${esc(fallback)}">${config.supportEmail}</a>`)}</p></noscript>
       <fieldset>
         <legend>${c.step1}</legend>
         ${currencyToggle(t)}
@@ -83,8 +85,8 @@ export default function checkout(t) {
         esc(config.brand)
       )}</span></label>
       <p class="form-error" role="alert" data-co-error hidden></p>
-      <button type="submit" class="btn btn-primary btn-lg btn-block" disabled data-js-enable>${icon('lock')} ${c.submit}</button>
-      <p class="fine center" data-co-note>${hasLink ? c.submitNote : c.fallbackNote}</p>
+      <button type="submit" class="btn btn-primary btn-lg btn-block" disabled data-js-enable>${icon('lock')} <span data-co-submit>${hasLink ? c.submit : c.submitFallback}</span></button>
+      <p class="fine center js-only" data-co-note>${hasLink ? c.submitNote : c.fallbackNote}</p>
     </form>
 
     <aside class="co-summary" aria-labelledby="sum-h">

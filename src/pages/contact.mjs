@@ -40,7 +40,7 @@ export default function contact(t) {
       <h2 id="form-h">${c.formTitle}</h2>
       <p>${c.formLead}</p>
       <form class="contact-form" data-contact-form data-to="${config.supportEmail}">
-        <noscript><p class="note">${c.noJs} <a href="mailto:${config.supportEmail}">${config.supportEmail}</a></p></noscript>
+        <noscript><p class="note">${c.noJs(`<a href="mailto:${config.supportEmail}">${config.supportEmail}</a>`)}</p></noscript>
         <div class="field-2">
           <div class="field"><label for="cf-name">${c.form.name}</label><input id="cf-name" name="name" type="text" autocomplete="name" required></div>
           <div class="field"><label for="cf-email">${c.form.email}</label><input id="cf-email" name="email" type="email" autocomplete="email" required></div>

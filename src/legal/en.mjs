@@ -324,7 +324,7 @@ const privacyPolicy = `
 <li><strong>How to ask:</strong> e-mail <a href="mailto:{{email}}">{{email}}</a>, ideally from your account e-mail address, with the subject "Privacy request". Tell us which right you want to use. For requests to opt out of the sale or sharing of personal information, use the subject "Do Not Sell or Share" (see our <a href="{{url:do-not-sell-or-share}}">Do Not Sell or Share</a> page).</li>
 <li><strong>Verification:</strong> for requests to access, know, delete or correct personal information, we verify your identity before acting, usually by confirming that you control the account e-mail address. Requests to opt out of sale or sharing, or to limit the use of sensitive personal information, do not require verification. We use the information you give us for verification only for that purpose.</li>
 <li><strong>Authorized agents:</strong> someone can make a request for you if they have your signed, written permission. For requests to know, delete or correct, we may still ask you to confirm your identity directly with us.</li>
-<li><strong>Response time:</strong> we reply within 30 days.</li>
+<li><strong>Response time:</strong> we reply within 30 days. Requests to opt out of sale or sharing, or to limit the use of sensitive personal information, are acted on within 15 business days.</li>
 <li><strong>Cost:</strong> we do not charge for requests, unless the law allows a reasonable fee for requests that are manifestly unfounded or excessive.</li>
 <li><strong>Workspace data:</strong> requests about information that an employer has entered into {{brand}} should go to that employer, as the controller. We will help them respond.</li>
 </ul>
@@ -370,7 +370,7 @@ const privacyPolicy = `
 <h3>We do not sell or share personal information</h3>
 <p>We do not sell personal information, and we do not share it for cross-context behavioral advertising. We have not done either in the preceding 12 months. We have no actual knowledge of selling or sharing the personal information of consumers under 16. We use sensitive personal information only for purposes the CCPA regulations permit, such as providing the Service and keeping it secure, so you do not need to take any action to limit it. For more information, see <a href="{{url:do-not-sell-or-share}}">Do Not Sell or Share My Personal Information</a>.</p>
 <h3>Making a request</h3>
-<p>Follow the steps in Section 10. Authorized agents may submit requests on your behalf. We reply within 30 days, which is within the 45-day period the CCPA allows. We do not disclose personal information to third parties for their own direct marketing purposes, as described in California's "Shine the Light" law.</p>
+<p>Follow the steps in Section 10. Authorized agents may submit requests on your behalf. We act on opt-out and limit requests within 15 business days, and reply to other requests within 30 days, which is within the 45-day period the CCPA allows. We do not disclose personal information to third parties for their own direct marketing purposes, as described in California's "Shine the Light" law.</p>
 <h3>Other US states</h3>
 <p>Residents of Virginia, Colorado, Connecticut, Utah, Texas, Oregon and other states with comprehensive privacy laws have similar rights. Where those laws apply to us, they generally include the rights to access, correct, delete and obtain a copy of personal information, and to opt out of targeted advertising, sale and certain kinds of profiling. We do not engage in targeted advertising, sale of personal information or profiling that produces legal or similarly significant effects. To make a request, follow the steps in Section 10. If we decline your request, you can appeal by replying to our decision with the subject "Privacy appeal". We will respond within the time your state's law requires, and if you disagree with the outcome, you may contact your state attorney general.</p>
 
@@ -399,7 +399,7 @@ const privacyPolicy = `
 <p>We may update this policy to reflect changes to the Service, our practices or the law. When we do, we will post the new version on this page and update the "Last updated" date. If a change is material, we will also notify account holders by e-mail before it takes effect.</p>
 
 <h2 id="contact-us">18. Contact us</h2>
-<p>For privacy questions or requests, e-mail <a href="mailto:{{email}}">{{email}}</a> with the subject "Privacy request" (for opt-outs of sale or sharing, use "Do Not Sell or Share"). We give a first reply within 1 business day, and we respond fully within 30 days. You can also use our <a href="{{url:contact}}">contact page</a>.</p>
+<p>For privacy questions or requests, e-mail <a href="mailto:{{email}}">{{email}}</a> with the subject "Privacy request" (for opt-outs of sale or sharing, use "Do Not Sell or Share"). We give a first reply within 1 business day, and we respond fully within 30 days (opt-out and limit requests are acted on within 15 business days). You can also use our <a href="{{url:contact}}">contact page</a>.</p>
 {{companyBlock}}
 `;
 
@@ -773,7 +773,7 @@ const dmca = `
 <h2 id="where-to-send">4. Where to send your notice</h2>
 <p>Send your notice by e-mail to <a href="mailto:{{email}}">{{email}}</a> with the subject <strong>"Copyright / DMCA notice"</strong>, or by post to:</p>
 {{dmcaAgent}}
-<p>By sending a notice, you agree that a copy of it, including your name and contact details, may be given to the customer who provided the material, as described in Section 5. Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
+<p>By sending a notice, you agree that a copy of it, including your name and contact details, may be given to the user or customer who provided the material, as described in Section 5. Please send only copyright-related notices to us under this heading. For other questions, use our <a href="{{url:contact}}">contact page</a>.</p>
 
 <h2 id="after-a-notice">5. What happens after we receive a notice</h2>
 <p>When we receive a valid notice, we act promptly to remove or disable access to the material identified. Where possible, we notify the user or customer who provided the material, and we include a copy of the notice. We may share your notice, including your contact details, with that user so they can respond.</p>

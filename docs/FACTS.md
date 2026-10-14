@@ -109,7 +109,7 @@ The service is delivered digitally. **No physical goods are shipped.**
 - Hours: **Monday–Friday, 9:00–18:00 JST (UTC+9)**, excluding Japanese public holidays.
 - Languages: English and Japanese.
 - Product feedback / feature requests: e-mail with subject "Product feedback", or in the app
-  **Help → Send feedback**.
+  **Help → Send feedback**; reply within **5 business days**.
 
 ## Privacy & data (for policies)
 - Customers (businesses) are the **controller** of the employee data they put into ShiftKumo; we process
@@ -130,7 +130,9 @@ The service is delivered digitally. **No physical goods are shipped.**
   by tax law (up to 7 years); support e-mails 3 years.
 - Rights: access, correction, deletion, portability, restriction, objection, withdraw consent (GDPR /
   UK GDPR), CCPA/CPRA rights (know, delete, correct, opt-out of sale/sharing, limit sensitive PI,
-  non-discrimination), Japan's APPI (disclosure, correction, suspension of use). We reply within 30 days.
+  non-discrimination), Japan's APPI (disclosure, correction, suspension of use). We reply within 30 days;
+  opt-out and limit-sensitive-PI requests need no identity verification and are acted on within 15
+  business days (subject "Do Not Sell or Share"; other requests use "Privacy request").
   Global Privacy Control (GPC) signals are honored. Authorized agents may submit requests.
 - International transfers safeguarded by Standard Contractual Clauses or equivalent.
 - Not directed to children under 16; purchasers must be 18+ and acting for a business or themselves.
