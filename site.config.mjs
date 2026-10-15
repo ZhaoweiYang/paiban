@@ -8,9 +8,15 @@ export default {
   // Text that appears on the customer's card statement.
   billingDescriptor: 'SHIFTKUMO.COM',
 
-  // Public URL the site is served from (no trailing slash). The GitHub Pages workflow
-  // passes the real URL in SITE_URL; this default is used for local builds.
-  siteUrl: (process.env.SITE_URL || 'https://zhaoweiyang.github.io/paiban').replace(/\/+$/, ''),
+  // Public URL the site is served from (no trailing slash). SITE_URL always wins; otherwise
+  // Cloudflare Pages builds (CF_PAGES is set by Cloudflare, or `--cloudflare`) target the
+  // production domain and everything else targets the GitHub Pages project site.
+  siteUrl: (
+    process.env.SITE_URL ||
+    (process.env.CF_PAGES || process.argv.includes('--cloudflare')
+      ? 'https://shiftkumo.com'
+      : 'https://zhaoweiyang.github.io/paiban')
+  ).replace(/\/+$/, ''),
 
   // Legal entity that operates the service. While `legalName` is empty the brand name is
   // used; empty address/phone/representative fields are omitted from pages, and the

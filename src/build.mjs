@@ -20,6 +20,8 @@ import notFound from './pages/notfound.mjs';
 import { policyPage, commercePage, legalIndex } from './pages/legal.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+// Cloudflare Pages build: set by Cloudflare's build system, or pass --cloudflare locally.
+const CLOUDFLARE = !!process.env.CF_PAGES || process.argv.includes('--cloudflare');
 const out = join(root, 'dist');
 const dict = { en, ja };
 const legal = { en: legalEn, ja: legalJa };
@@ -157,8 +159,39 @@ ${['home', 'features', 'pricing', 'about', 'support', 'contact', 'legal', ...POL
 `
   );
 
-  await write('.nojekyll', '');
-  console.log(`Built ${pages.length} pages + 404 into dist/ for ${ORIGIN}${BASE}`);
+  if (CLOUDFLARE) {
+    // Cloudflare Pages response headers (https://developers.cloudflare.com/pages/configuration/headers/).
+    // CSS/JS URLs carry a ?v= build stamp and fonts never change, so they can be cached for a year.
+    await write(
+      '_headers',
+      `/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  Strict-Transport-Security: max-age=31536000
+
+/assets/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+
+/assets/img/*
+  Cache-Control: public, max-age=86400
+
+/site.webmanifest
+  Content-Type: application/manifest+json
+`
+    );
+  } else {
+    await write('.nojekyll', '');
+  }
+  console.log(`Built ${pages.length} pages + 404 into dist/ for ${ORIGIN}${BASE}${CLOUDFLARE ? ' (Cloudflare Pages)' : ''}`);
 }
 
 main().catch((e) => {

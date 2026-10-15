@@ -9,6 +9,8 @@
   },
   "scripts": {
     "build": "node src/build.mjs",
+    "build:cloudflare": "node src/build.mjs --cloudflare",
+    "export:cloudflare": "node src/build.mjs --cloudflare && mkdir -p exports && rm -f exports/shiftkumo-cloudflare-pages.zip && cd dist && zip -qr ../exports/shiftkumo-cloudflare-pages.zip .",
     "serve": "SITE_URL=http://localhost:8080 node src/build.mjs && python3 -m http.server 8080 --directory dist"
   }
 }

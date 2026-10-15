@@ -18,6 +18,22 @@ npm run serve   # builds for http://localhost:8080 and serves dist/
 The build fails if any page contains placeholder wording (lorem ipsum, "coming soon", TBD,
 unreplaced `{{tokens}}`, …).
 
+## Deploying to Cloudflare Pages
+
+```bash
+npm run build:cloudflare    # dist/ for https://shiftkumo.com, with Cloudflare _headers
+npm run export:cloudflare   # same, zipped to exports/shiftkumo-cloudflare-pages.zip
+```
+
+- **Direct upload:** Cloudflare dashboard → Workers & Pages → Create → Pages → *Upload assets*,
+  then upload the zip (or the contents of `dist/`). Or `npx wrangler pages deploy dist`.
+- **Git integration:** connect this repository, build command `npm run build`, output directory
+  `dist`. Cloudflare sets `CF_PAGES`, which switches the build to Cloudflare mode automatically.
+- The site targets `https://shiftkumo.com` (canonical links, hreflang, sitemap, Open Graph). To
+  build for another address, set `SITE_URL`, e.g. `SITE_URL=https://shiftkumo.pages.dev`.
+- `404.html` is served automatically for unknown paths; `_headers` adds security headers and
+  long-lived caching for versioned CSS/JS and fonts.
+
 ## Where things live
 
 | What | File |
