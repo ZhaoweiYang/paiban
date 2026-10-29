@@ -1682,5 +1682,509 @@
     "summary": "热心的老鼠和爱偷懒的大象是好朋友，大象让勤快的老鼠把粮食存在自己家里。一场大旱来临，食物越来越少，两个好朋友的友谊面临考验……坦桑尼亚画家用鲜艳的东非绘画风格讲述动物寓言，引导孩子思考信任与诚实。",
     "tip": "读到干旱来临时停一停，请孩子猜猜两个朋友会怎么做，读完再聊聊什么才算真正的好朋友。",
     "awards": []
+  },
+  {
+    "id": "danggeun-yuchiwon",
+    "titleZh": "胡萝卜幼儿园",
+    "titleOriginal": "당근 유치원",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "안녕달",
+        "nameZh": "安宁达",
+        "role": "文/图"
+      }
+    ],
+    "country": "KR",
+    "language": "ko",
+    "year": 2020,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "school",
+      "emotion",
+      "humor"
+    ],
+    "keywords": [
+      "入园",
+      "幼儿园老师",
+      "分离焦虑",
+      "小兔子"
+    ],
+    "summary": "小兔子要去胡萝卜幼儿园上学了！从“我不想去幼儿园”到“我不要回家”，从“我们老师好凶”到“我们老师好帅”，高大的熊老师到底施了什么魔法？安宁达用幽默温暖的画面写出入园的真实心路，帮孩子安心迎接新环境。",
+    "tip": "入园前一起读，问孩子希望老师是什么样的；入园后再读，聊聊自己的想法和小兔子有什么一样的变化。",
+    "awards": []
+  },
+  {
+    "id": "iparapanyamunyamu",
+    "titleZh": "棉花糖和大怪兽",
+    "titleOriginal": "이파라파냐무냐무",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "이지은",
+        "nameZh": "李芝殷",
+        "role": "文/图"
+      }
+    ],
+    "country": "KR",
+    "language": "ko",
+    "year": 2020,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "diversity",
+      "habits"
+    ],
+    "keywords": [
+      "以貌取人",
+      "误会",
+      "爱护牙齿",
+      "怪兽"
+    ],
+    "summary": "一只毛茸茸的大怪兽大吼着闯进宁静的棉花糖村，爪子尖尖，声音像打雷。棉花糖们吓坏了：它到底在喊什么？是敌人还是朋友？大骚动背后藏着一个令人捧腹的误会。漫画分格热闹好笑，提醒孩子不以貌取人、不人云亦云。",
+    "tip": "读完和孩子猜猜大怪兽喊的话是什么意思，再一起好好刷一次牙，检查有没有“小怪兽”藏在牙缝里。",
+    "awards": [
+      {
+        "name": "博洛尼亚拉加齐奖",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "do-gita-wolf",
+    "titleZh": "做！",
+    "titleOriginal": "Do!",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Gita Wolf",
+        "nameZh": "吉塔·沃尔夫",
+        "role": "文"
+      },
+      {
+        "name": "Ramesh Hengadi",
+        "nameZh": "拉梅什·亨加迪",
+        "role": "图"
+      },
+      {
+        "name": "Shantaram Dhadpe",
+        "nameZh": "尚塔拉姆·达德佩",
+        "role": "图"
+      }
+    ],
+    "country": "IN",
+    "language": "en",
+    "year": 2009,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "language",
+      "art",
+      "cognition"
+    ],
+    "keywords": [
+      "动词",
+      "瓦尔利部落艺术",
+      "手工书",
+      "低幼"
+    ],
+    "summary": "每一页只有一个最基本的英语动词：工作、玩耍、打架……印度瓦尔利族艺术家用白色小人图案，在棕色再生纸上画出这些动作。全书手工丝网印制，简洁的图像语言让低龄孩子边看边学，也领略印度部落艺术之美。",
+    "tip": "每读一页，就和孩子一起把那个动作做出来，再用中文和英文各说一遍这个词。",
+    "awards": [
+      {
+        "name": "博洛尼亚拉加齐奖",
+        "year": 2010
+      }
+    ]
+  },
+  {
+    "id": "tiger-on-a-tree",
+    "titleZh": "树上的老虎",
+    "titleOriginal": "Tiger on a Tree",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Anushka Ravishankar",
+        "nameZh": "阿努舒卡·拉维尚卡尔",
+        "role": "文"
+      },
+      {
+        "name": "Pulak Biswas",
+        "nameZh": "普拉克·比斯瓦斯",
+        "role": "图"
+      }
+    ],
+    "country": "IN",
+    "language": "en",
+    "year": 1997,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "language",
+      "nature"
+    ],
+    "keywords": [
+      "老虎",
+      "无厘头韵文",
+      "印度乡村",
+      "人与动物"
+    ],
+    "summary": "一只老虎游过河来到村边，被一只凶巴巴的山羊吓得爬上了树。村民们撒网、敲锣打鼓把它困住，接着七嘴八舌地商量：送去动物园？把它涂成蓝色？橙黑两色的画面、跳跃的文字排版配上无厘头韵文，读来妙趣横生。",
+    "tip": "读到村民们商量怎么处置老虎时停下来，请孩子也出个主意，说说理由，再翻页看结局。",
+    "awards": []
+  },
+  {
+    "id": "my-mothers-sari",
+    "titleZh": "妈妈的纱丽",
+    "titleOriginal": "My Mother's Sari",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Sandhya Rao",
+        "nameZh": "桑迪亚·拉奥",
+        "role": "文"
+      },
+      {
+        "name": "Nina Sabnani",
+        "nameZh": "尼娜·萨布纳尼",
+        "role": "图"
+      }
+    ],
+    "country": "IN",
+    "language": "en",
+    "year": 2006,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "family",
+      "imagination",
+      "culture"
+    ],
+    "keywords": [
+      "母女",
+      "纱丽",
+      "印度服饰",
+      "想象游戏"
+    ],
+    "summary": "小女孩最喜欢妈妈的纱丽：它长长地拖在身后像一列火车，顺着它能滑下去像一条河，拧起来能当绳子爬，还能变成吊床。鲜艳的纱丽花纹铺满画面，环衬还画出纱丽的穿法，让孩子感受母女的亲密和印度日常生活。",
+    "tip": "找一条长围巾或床单，和孩子把书里的玩法试一遍：当火车、当小河、当吊床。",
+    "awards": []
+  },
+  {
+    "id": "kampung-boy",
+    "titleZh": "甘榜小子",
+    "titleOriginal": "Kampung Boy",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Lat",
+        "nameZh": "拉特",
+        "role": "文/图"
+      }
+    ],
+    "country": "MY",
+    "language": "en",
+    "year": 1979,
+    "ageMin": 8,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "family",
+      "humor"
+    ],
+    "keywords": [
+      "马来西亚",
+      "乡村童年",
+      "漫画",
+      "成长"
+    ],
+    "summary": "马来西亚漫画家拉特以自己的童年为蓝本，画出上世纪五十年代霹雳州甘榜（乡村）男孩的成长：学念《古兰经》，在橡胶园和锡矿湖边玩耍，直到离家去城里读寄宿学校。幽默的图像小说，是认识马来乡村生活的经典。",
+    "tip": "读完请孩子比一比：书里的乡村童年和爸爸妈妈小时候有哪些相同、哪些不同？可以请长辈讲一讲。",
+    "awards": []
+  },
+  {
+    "id": "papel-de-liha",
+    "titleZh": "砂纸",
+    "titleOriginal": "Papel de Liha",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Ompong Remigio",
+        "nameZh": "翁蓬·雷米希奥",
+        "role": "文"
+      },
+      {
+        "name": "Beth Parrocha-Doctolero",
+        "nameZh": "贝丝·帕罗查-多克托莱罗",
+        "role": "图"
+      }
+    ],
+    "country": "PH",
+    "language": "tl",
+    "year": 1996,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "family",
+      "language"
+    ],
+    "keywords": [
+      "妈妈的手",
+      "家务劳动",
+      "感恩",
+      "韵文"
+    ],
+    "summary": "孩子眼中的妈妈总是忙个不停：搓洗衣服上的污渍，擦黏糊糊的桌子，刷油腻的锅。一天姨妈来访，说妈妈的手掌粗得像砂纸……孩子却有了自己的发现。菲律宾经典韵文绘本，献给辛劳的妈妈，引导孩子体会家人的付出。",
+    "tip": "读完握一握妈妈或爸爸的手，和孩子聊聊这双手每天为家里做了哪些事，再一起分担一件家务。",
+    "awards": [
+      {
+        "name": "菲律宾国家图书奖",
+        "year": 1996
+      }
+    ]
+  },
+  {
+    "id": "mrs-bibis-elephant",
+    "titleZh": "老奶奶和“大麻烦”",
+    "titleOriginal": "Mrs Bibi's Elephant",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Reza Dalvand",
+        "nameZh": "礼萨·达尔万德",
+        "role": "文/图"
+      }
+    ],
+    "country": "IR",
+    "language": "en",
+    "year": 2020,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "diversity",
+      "friendship",
+      "character"
+    ],
+    "keywords": [
+      "宠物大象",
+      "偏见",
+      "包容",
+      "小镇"
+    ],
+    "summary": "老奶奶养了一头大象当宠物，他们一起散步、玩耍、喝下午茶，形影不离。可镇上的居民觉得大象是个“大麻烦”，要把它赶走。老奶奶只好带着大象离开，小镇却好像失去了什么……伊朗画家用明快的画面讲述偏见与包容。",
+    "tip": "读到居民们要赶走大象时停一停，问孩子：大象真的给大家添了麻烦吗？如果你住在镇上会怎么做？",
+    "awards": []
+  },
+  {
+    "id": "sir-ha-sirim",
+    "titleZh": "我的小马桶",
+    "titleOriginal": "סיר הסירים",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "אלונה פרנקל",
+        "nameZh": "阿罗娜·弗兰克尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "IL",
+    "language": "he",
+    "year": 1975,
+    "ageMin": 1,
+    "ageMax": 3,
+    "functions": [
+      "habits",
+      "cognition"
+    ],
+    "keywords": [
+      "如厕训练",
+      "小马桶",
+      "认识身体",
+      "低幼"
+    ],
+    "summary": "奶奶送来一个大礼物，打开一看：是给小猫喝奶的碗？是花盆？都不是，原来是一个小马桶！可它该怎么用呢？以色列作家为儿子创作的如厕训练经典，1975年问世后畅销多年，简单的图文帮幼儿认识身体、学会自己如厕。",
+    "tip": "开始如厕训练时，把书放在小马桶旁，孩子坐上去时让他自己翻一翻，成功一次就一起庆祝。",
+    "awards": []
+  },
+  {
+    "id": "not-so-fast-songololo",
+    "titleZh": "别急，宋戈洛洛",
+    "titleOriginal": "Not So Fast, Songololo",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Niki Daly",
+        "nameZh": "尼基·戴利",
+        "role": "文/图"
+      }
+    ],
+    "country": "ZA",
+    "language": "en",
+    "year": 1985,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "family",
+      "culture"
+    ],
+    "keywords": [
+      "祖孙情",
+      "南非",
+      "进城购物",
+      "红球鞋"
+    ],
+    "summary": "奶奶管马卢西叫“宋戈洛洛”。这一次，他终于长大到可以陪奶奶进城买东西了：帮她拎袋子、牵着她过马路。商店橱窗里，他看见一双漂亮的红球鞋……南非作家描绘祖孙间温暖的一天，被视为南非儿童图画书的开路之作。",
+    "tip": "读完和孩子回忆上次陪家里老人出门的情景，商量下次可以帮老人做哪些小事。",
+    "awards": []
+  },
+  {
+    "id": "der-wunderbare-baum",
+    "titleZh": "神奇的果树",
+    "titleOriginal": "Der wunderbare Baum",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "John Kilaka",
+        "nameZh": "约翰·基拉卡",
+        "role": "文/图"
+      }
+    ],
+    "country": "TZ",
+    "language": "de",
+    "year": 2009,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "character",
+      "humor"
+    ],
+    "keywords": [
+      "东非民间故事",
+      "干旱",
+      "智慧",
+      "动物寓言"
+    ],
+    "summary": "大旱之年，一棵树上结满了果子，可动物们谁也够不着。大象、长颈鹿、狮子都失败了，小兔子提议去请教聪明的老乌龟，大动物们却不把小兔子当回事……坦桑尼亚民间故事配上鲜艳的廷加廷加画风，讲述谦虚与专注的价值。",
+    "tip": "读完和孩子玩“传话记名字”的游戏：一人说一个长长的怪名字，看对方走到房间另一头还记不记得。",
+    "awards": [
+      {
+        "name": "瑞典彼得·潘奖",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "mamy-wata-et-le-monstre",
+    "titleZh": "水之女王和怪物",
+    "titleOriginal": "Mamy Wata et le monstre",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Véronique Tadjo",
+        "nameZh": "薇罗尼克·塔乔",
+        "role": "文/图"
+      }
+    ],
+    "country": "CI",
+    "language": "fr",
+    "year": 1993,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "character",
+      "emotion"
+    ],
+    "keywords": [
+      "西非传说",
+      "水神",
+      "勇气",
+      "同情心"
+    ],
+    "summary": "水的女王妈咪瓦塔听说附近的村民被一只可怕的怪物吓坏了，决定到怪物的山洞前等它出来……科特迪瓦作家根据西非水神传说创作，入选“20世纪非洲百部最佳图书”，讲述勇气与同情，提醒孩子别被表象吓住。",
+    "tip": "读之前先请孩子画一画心中的怪物，读完再问：怪物为什么会变成那样？我们可以怎样帮助孤单的人？",
+    "awards": [
+      {
+        "name": "联合国儿童基金会童书奖",
+        "year": 1993
+      }
+    ]
+  },
+  {
+    "id": "brassmans-secret",
+    "titleZh": "铜匠的秘密",
+    "titleOriginal": "The Brassman's Secret",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Meshack Asare",
+        "nameZh": "梅沙克·阿萨雷",
+        "role": "文/图"
+      }
+    ],
+    "country": "GH",
+    "language": "en",
+    "year": 1981,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "culture",
+      "imagination"
+    ],
+    "keywords": [
+      "阿散蒂文化",
+      "谚语与谜语",
+      "铜像",
+      "奇幻冒险"
+    ],
+    "summary": "男孩夸乔的爸爸是一位制作传统铜像的手艺人。一天，爸爸做的小铜鼓手忽然活了过来，把夸乔带进一个充满谚语和谜语的奇妙世界……加纳作家把阿散蒂传统文化融进奇幻冒险，获诺玛非洲出版奖，是非洲儿童文学代表作。",
+    "tip": "读完和孩子各出一个谜语或说一句谚语，比比谁猜得快，再聊聊谚语里藏着什么道理。",
+    "awards": [
+      {
+        "name": "诺玛非洲出版奖",
+        "year": 1982
+      }
+    ]
+  },
+  {
+    "id": "al-noqta-al-sawda",
+    "titleZh": "黑点",
+    "titleOriginal": "النقطة السوداء",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "وليد طاهر",
+        "nameZh": "瓦利德·塔赫尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "EG",
+    "language": "ar",
+    "year": 2009,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "friendship",
+      "character",
+      "art"
+    ],
+    "keywords": [
+      "团结",
+      "坚持",
+      "游乐场",
+      "阿拉伯语绘本"
+    ],
+    "summary": "一团巨大的黑泡泡突然占满了孩子们的游乐场。它从哪儿来？怎样才能弄走它？大家想尽了办法都没用，只有马尔万不肯放弃……埃及画家用强烈的图像和设计讲述团结与坚持，获阿联酋电信阿拉伯儿童文学奖年度童书。",
+    "tip": "读完请孩子说说，生活里有没有像“黑泡泡”一样让人发愁的事，大家可以怎样一起想办法。",
+    "awards": [
+      {
+        "name": "阿联酋电信阿拉伯儿童文学奖",
+        "year": 2010
+      }
+    ]
   }
 ]

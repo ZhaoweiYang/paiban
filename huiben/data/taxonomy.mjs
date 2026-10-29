@@ -248,6 +248,11 @@ export const AWARDS = [
   { name: '韩国出版文化奖', original: '한국출판문화상', country: 'KR', desc: '韩国日报社主办的韩国出版文化奖，设儿童与青少年类。' },
   { name: '丰子恺儿童图画书奖', original: 'Feng Zikai Chinese Children’s Picture Book Award', country: 'HK', desc: '2008 年创立的华文原创图画书奖项，两年一届，是华文绘本最重要的奖项之一。' },
   { name: '信谊图画书奖', original: 'Hsin Yi Picture Book Award', country: 'CN', desc: '信谊基金会设立的华文原创图画书奖，鼓励本土原创。' },
+  { name: '瑞典彼得·潘奖', original: 'Peter Pan-priset', country: 'SE', desc: '国际儿童读物联盟瑞典分会颁给翻译引进的优秀外国童书的奖项。' },
+  { name: '菲律宾国家图书奖', original: 'National Book Award (Philippines)', country: 'PH', desc: '菲律宾国家图书发展委员会与马尼拉评论家协会颁发的国家级图书奖，设儿童文学类。' },
+  { name: '阿联酋电信阿拉伯儿童文学奖', original: 'Etisalat Award for Arabic Children’s Literature', country: 'AE', desc: '阿联酋设立的阿拉伯语儿童文学奖，表彰优秀的阿拉伯语原创童书。' },
+  { name: '诺玛非洲出版奖', original: 'Noma Award for Publishing in Africa', country: '', desc: '1980–2009 年间颁发的非洲出版大奖，表彰在非洲出版的优秀作品，含儿童读物。' },
+  { name: '联合国儿童基金会童书奖', original: 'UNICEF Prize', country: '', desc: '联合国儿童基金会颁给优秀儿童读物的奖项。' },
   { name: '联合国教科文组织宽容主题儿童文学奖', original: 'UNESCO Prize for Children’s and Young People’s Literature in the Service of Tolerance', country: '', desc: '联合国教科文组织颁发的儿童与青少年文学奖，表彰倡导宽容与和平的作品（1997–2003）。' },
 ];
 
