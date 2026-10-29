@@ -18,10 +18,12 @@ for (const file of files) {
   console.log(`${basename(file)}: ${books.length} 本`);
 }
 const problems = validateBooks(all);
+// Same original title by the same first author is almost certainly the same book listed twice.
 const titles = new Map();
+const norm = (s) => String(s || '').toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
 for (const b of all) {
-  const key = String(b.titleOriginal || '').toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
-  if (titles.has(key)) problems.push(`疑似重复：${b.id} 与 ${titles.get(key)}（原书名相同）`);
+  const key = `${norm(b.titleOriginal)}|${norm(b.authors?.[0]?.name)}`;
+  if (titles.has(key)) problems.push(`疑似重复：${b.id} 与 ${titles.get(key)}（原书名和作者相同）`);
   else titles.set(key, b.id);
 }
 const awards = unknownAwards(all);
