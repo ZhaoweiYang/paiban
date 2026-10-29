@@ -1,0 +1,3030 @@
+[
+  {
+    "id": "tuan-yuan",
+    "titleZh": "团圆",
+    "titleOriginal": "团圆",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "余丽琼",
+        "nameZh": "余丽琼",
+        "role": "文"
+      },
+      {
+        "name": "朱成梁",
+        "nameZh": "朱成梁",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "family",
+      "culture"
+    ],
+    "keywords": [
+      "春节",
+      "外出打工",
+      "父女亲情",
+      "汤圆"
+    ],
+    "summary": "在外打工的爸爸过年才回家，小女孩毛毛从陌生到亲近，跟着爸爸理发、贴春联、包汤圆。年画般喜庆的画面装着中国式团圆，让孩子体会离别、思念与亲情。获首届丰子恺图画书奖首奖。",
+    "tip": "读完一起包一次汤圆，在其中一个里藏枚洗净的硬币，聊聊毛毛为什么那么珍惜那枚硬币。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      },
+      {
+        "name": "《纽约时报》年度最佳绘本",
+        "year": 2011
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "yi-yuan-qing-cai-cheng-le-jing",
+    "titleZh": "一园青菜成了精",
+    "titleOriginal": "一园青菜成了精",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "周翔",
+        "nameZh": "周翔",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "language",
+      "humor",
+      "cognition"
+    ],
+    "keywords": [
+      "童谣",
+      "蔬菜",
+      "拟人",
+      "打仗"
+    ],
+    "summary": "改编自北方童谣：一园青菜成了精，绿头萝卜称大王，红头萝卜当娘娘，蔬菜们摆开阵势大战一场。朗朗上口的韵文配上热闹画面，孩子在笑声中认识常见蔬菜的模样。获首届丰子恺图画书奖评审推荐图画创作奖。",
+    "tip": "边读边拿出家里的真蔬菜对照，让孩子说说哪种菜的“兵器”最像书里画的，再一起念童谣。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "he-hua-zhen-de-zao-shi",
+    "titleZh": "荷花镇的早市",
+    "titleOriginal": "荷花镇的早市",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "周翔",
+        "nameZh": "周翔",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2006,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "art",
+      "family"
+    ],
+    "keywords": [
+      "江南水乡",
+      "集市",
+      "祝寿",
+      "乡镇生活"
+    ],
+    "summary": "城里男孩阳阳随爸妈回水乡给奶奶祝寿，清晨逛了一趟热闹的早市：卖菜的、卖酒的、卖鞭炮的，还有人在唱戏。写意的大跨页铺开江南水乡的烟火气与人情味。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "每翻一页先不读字，和孩子比赛找画面里的人在卖什么、做什么，再说说和今天的菜市场有何不同。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "hao-zi-da-ye-zai-jia-ma",
+    "titleZh": "耗子大爷在家吗？",
+    "titleOriginal": "耗子大爷在家吗？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "周翔",
+        "nameZh": "周翔",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2012,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "language",
+      "humor"
+    ],
+    "keywords": [
+      "童谣",
+      "猫和老鼠",
+      "一问一答",
+      "游戏"
+    ],
+    "summary": "一首欢快的北方童谣，用一问一答的形式展现猫和耗子一家的周旋，像一场孩子的游戏。重复句式朗朗上口，画面里还埋着不少小伏笔，适合亲子对读、边读边演。",
+    "tip": "大人扮猫提问、孩子扮耗子回答，读熟后交换角色，再一起找找画面里提前埋下的线索。",
+    "awards": []
+  },
+  {
+    "id": "mu-la-ti-ye-ye-ni-qu-na-er",
+    "titleZh": "木拉提爷爷，你去哪儿？",
+    "titleOriginal": "木拉提爷爷，你去哪儿？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "唐亚明",
+        "nameZh": "唐亚明",
+        "role": "文"
+      },
+      {
+        "name": "周翔",
+        "nameZh": "周翔",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2024,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "culture",
+      "friendship",
+      "humor"
+    ],
+    "keywords": [
+      "新疆",
+      "毛驴",
+      "旅行",
+      "友情"
+    ],
+    "summary": "新疆老汉木拉提爷爷带着毛驴去北京探望老朋友，一路见山翻山、逢河过河，遇见形形色色的人。稚拙幽默的图文充满地域风情，让孩子感受旅途乐趣和人与人之间的温情。获第九届丰子恺图画书奖佳作奖。",
+    "tip": "每到一处停下来，让孩子猜猜木拉提爷爷和毛驴会遇到什么麻烦、谁会出手帮忙。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "id": "an-de-zhong-zi",
+    "titleZh": "安的种子",
+    "titleOriginal": "安的种子",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "王早早",
+        "nameZh": "王早早",
+        "role": "文"
+      },
+      {
+        "name": "黄丽",
+        "nameZh": "黄丽",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "character",
+      "nature"
+    ],
+    "keywords": [
+      "等待",
+      "耐心",
+      "莲花",
+      "寺院"
+    ],
+    "summary": "老和尚把三颗千年莲花种子交给本、静、安三个小和尚，三人用截然不同的方式对待它们。淡雅的画面、简洁的文字，让孩子体会顺应自然、耐心等待的智慧。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "读到一半先停下，让孩子猜三颗种子各会怎样；读完一起种几粒豆子，记下发芽的日子。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "wai-po-jia-de-ma",
+    "titleZh": "外婆家的马",
+    "titleOriginal": "外婆家的马",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "谢华",
+        "nameZh": "谢华",
+        "role": "文"
+      },
+      {
+        "name": "黄丽",
+        "nameZh": "黄丽",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2018,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "family",
+      "imagination"
+    ],
+    "keywords": [
+      "外婆",
+      "祖孙",
+      "想象游戏",
+      "陪伴"
+    ],
+    "summary": "外孙“小东西”在外婆家捡到一根竹棍，就有了一匹又一匹想象中的马，外婆不慌不忙地接住他的每个奇思妙想。朴拙暖心的画面写出祖孙间的默契，也让大人看见如何陪伴孩子的想象。获第六届丰子恺图画书奖首奖。",
+    "tip": "找根纸卷当“马”，让孩子给它起名字、说说它爱吃什么，大人学外婆认真地接话。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "id": "bie-rang-tai-yang-diao-xia-lai",
+    "titleZh": "别让太阳掉下来",
+    "titleOriginal": "别让太阳掉下来",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "郭振媛",
+        "nameZh": "郭振媛",
+        "role": "文"
+      },
+      {
+        "name": "朱成梁",
+        "nameZh": "朱成梁",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2018,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "imagination",
+      "friendship",
+      "art"
+    ],
+    "keywords": [
+      "太阳",
+      "小动物",
+      "民间美术",
+      "齐心协力"
+    ],
+    "summary": "一群小动物在山上玩耍，忽然发现太阳要掉下来了，大家纷纷想办法把它留住。朱成梁借鉴漆器与民间美术的色彩，画面热烈又充满童趣，鼓励孩子大胆想象、齐心协力。插图获2019年BIB金苹果奖。",
+    "tip": "读到小动物们出主意时停下来，问孩子“换成你会怎么接住太阳”，把答案画下来。",
+    "awards": [
+      {
+        "name": "布拉迪斯拉发国际插画双年展金苹果奖",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "id": "mian-po-po-shui-bu-zhao",
+    "titleZh": "棉婆婆睡不着",
+    "titleOriginal": "棉婆婆睡不着",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "廖小琴",
+        "nameZh": "廖小琴",
+        "role": "文"
+      },
+      {
+        "name": "朱成梁",
+        "nameZh": "朱成梁",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "bedtime",
+      "family"
+    ],
+    "keywords": [
+      "睡前",
+      "老人",
+      "牵挂",
+      "乡村夜晚"
+    ],
+    "summary": "夜深了，村子仿佛都睡着了，只有棉婆婆家还亮着灯：她上床、数羊、下床做家务，怎么也睡不着。节奏舒缓、色调温暖，结尾才揭开她心里的牵挂，适合睡前共读，体会平凡日子里的爱。获第四届丰子恺图画书奖佳作奖。",
+    "tip": "跟着棉婆婆一起“数羊”，声音越读越轻，关灯前和孩子说说今晚最想念谁。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "id": "duo-mao-mao-da-wang",
+    "titleZh": "躲猫猫大王",
+    "titleOriginal": "躲猫猫大王",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "张晓玲",
+        "nameZh": "张晓玲",
+        "role": "文"
+      },
+      {
+        "name": "潘坚",
+        "nameZh": "潘坚",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "diversity",
+      "friendship",
+      "life"
+    ],
+    "keywords": [
+      "特殊儿童",
+      "友谊",
+      "离别",
+      "乡村童年"
+    ],
+    "summary": "小勇分不清一块钱和十块钱，玩躲猫猫却从没被抓到过。伙伴们陆续上学后，他孤零零留在村里，又迎来一场场离别。故事平静深情，引导孩子善待与众不同的同伴。获首届丰子恺图画书奖评审推荐文字创作奖。",
+    "tip": "读完问孩子：如果小勇在你们班，你会怎样和他一起玩？一起想三个不让他落单的办法。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "qing-wa-yu-nan-hai",
+    "titleZh": "青蛙与男孩",
+    "titleOriginal": "青蛙与男孩",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "萧袤",
+        "nameZh": "萧袤",
+        "role": "文"
+      },
+      {
+        "name": "陈伟",
+        "nameZh": "陈伟",
+        "role": "图"
+      },
+      {
+        "name": "黄小敏",
+        "nameZh": "黄小敏",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2010,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "self",
+      "humor",
+      "language"
+    ],
+    "keywords": [
+      "我就是我",
+      "比较",
+      "重复句式",
+      "青蛙"
+    ],
+    "summary": "青蛙说“我会蹲”，男孩说“我也会”；青蛙说“我会跳”，男孩也会……一番较劲后，青蛙竟以为找到了失踪的王子！重复对话节奏感十足，帮孩子在笑声中认识自己。获第二届丰子恺图画书奖评审推荐创作奖。",
+    "tip": "和孩子玩“我会……我也会”接龙，最后各说一件只有自己才会的事。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "men",
+    "titleZh": "门",
+    "titleOriginal": "门",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "陶菊香",
+        "nameZh": "陶菊香",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2010,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "safety",
+      "character"
+    ],
+    "keywords": [
+      "不给陌生人开门",
+      "自我保护",
+      "善意",
+      "布艺拼贴"
+    ],
+    "summary": "门铃响了，陌生叔叔请小男孩帮忙捡掉在窗外的外套，可妈妈说过不能给陌生人开门。男孩想出了两全的办法。布艺拼贴画面温柔细腻，示范如何守住安全底线的同时传递善意。获第二届丰子恺图画书奖评审推荐创作奖。",
+    "tip": "读完演一遍：门铃响了，陌生人说需要帮忙，你会怎么回答？顺便约定家里的开门规则。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "mi-xi",
+    "titleZh": "迷戏",
+    "titleOriginal": "迷戏",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "姚红",
+        "nameZh": "姚红",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2010,
+    "ageMin": 8,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "art",
+      "life"
+    ],
+    "keywords": [
+      "京剧",
+      "战争",
+      "戏曲之美"
+    ],
+    "summary": "京剧名角筱云仙到“我”家借宿，小女孩第一次近距离感受京剧，深深着迷；可战火逼近，平静生活也被夺走。画面化用戏曲元素，适合大孩子认识京剧，思考战争对普通人的冲击。获第二届丰子恺图画书奖评审推荐创作奖。",
+    "tip": "读前先听一段京剧唱腔，读后让孩子找出画里的脸谱、水袖等戏曲元素，说说像什么。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "pan-zhong-can",
+    "titleZh": "盘中餐",
+    "titleOriginal": "盘中餐",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "于虹呈",
+        "nameZh": "于虹呈",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 5,
+    "ageMax": 12,
+    "functions": [
+      "nature",
+      "culture",
+      "character"
+    ],
+    "keywords": [
+      "水稻",
+      "二十四节气",
+      "元阳梯田",
+      "珍惜粮食"
+    ],
+    "summary": "一粒稻种要经历怎样的旅程，才能变成碗里的米饭？本书以云南元阳梯田为背景、二十四节气为线索，细致描绘农事与农具，像一部纸上纪录片，让孩子认识水稻的一生，懂得粒粒皆辛苦。获第五届丰子恺图画书奖首奖。",
+    "tip": "吃饭时和孩子背一遍《悯农》，再翻到书中当季的节气页，看看这时稻田里在忙什么。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2017
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "su-dan-de-xi-jiao",
+    "titleZh": "苏丹的犀角",
+    "titleOriginal": "苏丹的犀角",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "戴芸",
+        "nameZh": "戴芸",
+        "role": "文"
+      },
+      {
+        "name": "李星明",
+        "nameZh": "李星明",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2019,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "life",
+      "nature"
+    ],
+    "keywords": [
+      "北白犀",
+      "动物保护",
+      "偷猎",
+      "生命尊严"
+    ],
+    "summary": "以世界上最后一头雄性北白犀“苏丹”的真实经历为本，用童话笔法讲述它一生中三次失去犀角的故事。图文庄重而温暖，引导孩子思考生命的尊严、人与动物的关系和野生动物保护。获第七届丰子恺图画书奖首奖。",
+    "tip": "读完和孩子查一查北白犀如今的处境，再一起说说：我们能为保护野生动物做哪些小事？",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "bu-yi-yang-de-yi",
+    "titleZh": "不一样的1",
+    "titleOriginal": "不一样的1",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "吴亚男",
+        "nameZh": "吴亚男",
+        "role": "文"
+      },
+      {
+        "name": "柳垄沙",
+        "nameZh": "柳垄沙",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2021,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "school",
+      "self",
+      "cognition"
+    ],
+    "keywords": [
+      "数字1",
+      "老师",
+      "个性",
+      "鼓励"
+    ],
+    "summary": "棕熊老师教小动物们写数字1：歪歪扭扭的1、像骨头的1……在老师眼里，每一个都是最棒的。极简的文图既是数字启蒙，也传递尊重个性、鼓励表达的教育观，帮孩子安心做自己。获第八届丰子恺图画书奖首奖。",
+    "tip": "给孩子一张纸，比比谁能写出“最不一样”的1，再一起给每个1起名字。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "id": "wu-gui-yi-jia-qu-kan-hai",
+    "titleZh": "乌龟一家去看海",
+    "titleOriginal": "乌龟一家去看海",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "张宁",
+        "nameZh": "张宁",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "self",
+      "family",
+      "art"
+    ],
+    "keywords": [
+      "勇气",
+      "梦想",
+      "布艺",
+      "乌龟"
+    ],
+    "summary": "春天来了，小乌龟壳壳一家从冬眠中醒来，决定去看从没见过的大海。他们越过草地、翻过大山，一步步向前。全书用贴布绣、剪布绣和多种染布技法完成，质感独特，鼓励孩子勇敢追梦。获第五届丰子恺图画书奖佳作奖。",
+    "tip": "让孩子摸摸家里的棉布、麻布，再看画面猜猜每块“布”原本是什么质地。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "id": "niu-kou-shi-bing",
+    "titleZh": "纽扣士兵",
+    "titleOriginal": "纽扣士兵",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "九儿",
+        "nameZh": "九儿",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2020,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "art",
+      "imagination"
+    ],
+    "keywords": [
+      "无字书",
+      "纽扣",
+      "流浪",
+      "新使命"
+    ],
+    "summary": "一枚从衣服上掉落的纽扣，辗转于人流、车轮和垃圾堆之间，从秋天流浪到冬天，直到被一个善良的小男孩捡起，迎来崭新的使命。无字书全凭画面叙事，培养孩子读图和讲故事的能力。获第七届丰子恺图画书奖佳作奖。",
+    "tip": "让孩子当讲述者，逐页给纽扣编台词，大人负责追问“它这时在想什么”。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "xiao-xiong-kuai-pao",
+    "titleZh": "小熊，快跑",
+    "titleOriginal": "小熊，快跑",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "史雷",
+        "nameZh": "史雷",
+        "role": "文"
+      },
+      {
+        "name": "马鹏浩",
+        "nameZh": "马鹏浩",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2020,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "nature",
+      "character"
+    ],
+    "keywords": [
+      "野生动物",
+      "小熊",
+      "山林",
+      "生态保护"
+    ],
+    "summary": "清明时节的雨天，男孩跟着妈妈去赶场，意外碰到一只小熊，便一路追随，直到目送它回归山林。淡彩勾线画出烟雨蒙蒙的南方山野，引导孩子尊重野生动物、守护它们的家园。获第七届丰子恺图画书奖佳作奖。",
+    "tip": "读完讨论：在野外遇到野生动物应该怎么做？为什么不能把它带回家？",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "yi-ke-lian-zi-de-sheng-ming-lv-cheng",
+    "titleZh": "一颗莲子的生命旅程",
+    "titleOriginal": "一颗莲子的生命旅程",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "陈莹婷",
+        "nameZh": "陈莹婷",
+        "role": "文"
+      },
+      {
+        "name": "花青",
+        "nameZh": "花青",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2021,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "nature",
+      "life",
+      "art"
+    ],
+    "keywords": [
+      "莲花",
+      "植物生长",
+      "国画",
+      "四季"
+    ],
+    "summary": "发芽、长叶、开花、结出新莲子，再回到泥土，一颗莲子走完了一年的生命旅程。植物学者写文、国画家作画，把植物科普与莲文化的意境融在一起，让孩子在国画之美中理解生命的循环。获第八届丰子恺图画书奖佳作奖。",
+    "tip": "夏天带孩子去荷塘，对照书页找出荷叶、花苞和莲蓬，回家试着泡发一颗莲子。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "id": "xun-he-tong-zi",
+    "titleZh": "驯河童子",
+    "titleOriginal": "驯河童子",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "廖小琴",
+        "nameZh": "廖小琴",
+        "role": "文"
+      },
+      {
+        "name": "阿涩",
+        "nameZh": "阿涩",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2024,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "self",
+      "culture",
+      "nature"
+    ],
+    "keywords": [
+      "勇气",
+      "汛期",
+      "神话色彩",
+      "成长"
+    ],
+    "summary": "每年七月怒河汛期，力族人的稻寨就可能被淹没，据说只有不满十二岁的孩子才能驯服河水。今年轮到男孩阿牙，人人都替他担心。带着神话色彩的故事，讲述勇气、智慧与人和自然的相处。获第九届丰子恺图画书奖佳作奖。",
+    "tip": "读到阿牙出发前停一停，请孩子猜他会用什么办法，读完比一比谁的点子更接近。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "id": "xiao-shi-shi",
+    "titleZh": "小石狮",
+    "titleOriginal": "小石狮",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "熊亮",
+        "nameZh": "熊亮",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2005,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "art"
+    ],
+    "keywords": [
+      "石狮子",
+      "小镇",
+      "乡愁",
+      "守护"
+    ],
+    "summary": "小镇上的一座小石狮用自述的口吻，讲它日复一日守望小镇、看着人们来来去去的心事。画面苍茫，有国画般的空间意趣，文字朴素深情，把传统守护神的形象和对家乡的眷恋传递给孩子。熊亮“绘本中国”代表作。",
+    "tip": "带孩子找找身边的石狮子，摸摸它的鬃毛和绣球，猜猜它守在那里多少年了。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "zao-wang-ye",
+    "titleZh": "灶王爷",
+    "titleOriginal": "灶王爷",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "熊亮",
+        "nameZh": "熊亮",
+        "role": "文/图"
+      },
+      {
+        "name": "马玉",
+        "nameZh": "马玉",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2007,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "culture"
+    ],
+    "keywords": [
+      "灶王爷",
+      "小年",
+      "祭灶",
+      "民间传说"
+    ],
+    "summary": "灶王爷住在家家户户的厨房里，看着一家人过日子，腊月二十三要上天“汇报”。熊亮围绕这位最有烟火气的神仙讲述民间传说，带孩子认识小年祭灶的习俗，以及传统节俗里对家的祝福。",
+    "tip": "小年那天读这本，和孩子准备一碟糖瓜或麦芽糖，讲讲“上天言好事”的说法。",
+    "awards": []
+  },
+  {
+    "id": "jing-ju-mao-chang-ban-po",
+    "titleZh": "京剧猫·长坂坡",
+    "titleOriginal": "京剧猫·长坂坡",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "熊亮",
+        "nameZh": "熊亮",
+        "role": "文/图"
+      },
+      {
+        "name": "吴翟",
+        "nameZh": "吴翟",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "art"
+    ],
+    "keywords": [
+      "京剧",
+      "三国",
+      "赵云",
+      "长坂坡"
+    ],
+    "summary": "一群京剧猫粉墨登场，演出三国名段“长坂坡”：赵子龙在千军万马中单骑救主、杀出重围。画面融合戏曲程式与水墨意趣，动作夸张、节奏铿锵，让孩子在热闹的猫戏里感受京剧与三国故事的魅力。",
+    "tip": "读时大人配上“锵锵锵”的锣鼓点，让孩子学赵云摆个亮相，再讲讲长坂坡的原故事。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "bao-er",
+    "titleZh": "宝儿",
+    "titleOriginal": "宝儿",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "心怡",
+        "nameZh": "心怡",
+        "role": "文"
+      },
+      {
+        "name": "蔡皋",
+        "nameZh": "蔡皋",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "self",
+      "art"
+    ],
+    "keywords": [
+      "聊斋",
+      "狐精",
+      "机智",
+      "勇敢"
+    ],
+    "summary": "改编自《聊斋志异》：狐精作怪迷惑人，男孩宝儿不慌不忙，一步步设计与它斗智。蔡皋的画面浓郁古雅、民间气息十足，故事紧张又痛快，让孩子看到勇气与智慧的力量。蔡皋同题材原画曾获1993年BIB金苹果奖。",
+    "tip": "每读到宝儿想出一个主意就停下，让孩子猜这一招有什么用，再翻页揭晓。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "tao-hua-yuan-de-gu-shi",
+    "titleZh": "桃花源的故事",
+    "titleOriginal": "桃源郷ものがたり",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "松居直",
+        "nameZh": "松居直",
+        "role": "文"
+      },
+      {
+        "name": "蔡皋",
+        "nameZh": "蔡皋",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "ja",
+    "year": 2002,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "art"
+    ],
+    "keywords": [
+      "陶渊明",
+      "桃花源记",
+      "古典名篇",
+      "理想世界"
+    ],
+    "summary": "根据陶渊明《桃花源记》改编：渔人沿溪而行，误入与世隔绝、安宁和乐的桃花源。日本绘本编辑家松居直撰文，蔡皋以明丽古雅的画面描绘桃林与村落，2002年由日本福音馆首版。适合带孩子初识古典名篇的意境。",
+    "tip": "读完和孩子一起念《桃花源记》开头几句，再请他画出自己心中的“桃花源”。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "yue-liang-zou-wo-ye-zou",
+    "titleZh": "月亮走我也走",
+    "titleOriginal": "月亮走我也走",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "蔡皋",
+        "nameZh": "蔡皋",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 1,
+    "ageMax": 5,
+    "functions": [
+      "language",
+      "bedtime"
+    ],
+    "keywords": [
+      "童谣",
+      "月亮",
+      "长沙方言",
+      "睡前"
+    ],
+    "summary": "“月亮走，我也走……”蔡皋把一首长沙童谣画成图画书，月光下的街巷、人家和孩子安详温柔。短句押韵、节奏轻缓，适合抱着宝宝边念边看，也能带孩子感受方言童谣的韵味。",
+    "tip": "睡前关掉大灯，牵着孩子的手边走边念“月亮走，我也走”，念熟后让他接下半句。",
+    "awards": []
+  },
+  {
+    "id": "huo-cheng-yi-jiu-san-ba",
+    "titleZh": "火城：一九三八",
+    "titleOriginal": "火城：一九三八",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "蔡皋",
+        "nameZh": "蔡皋",
+        "role": "文/图"
+      },
+      {
+        "name": "翱子",
+        "nameZh": "翱子",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2013,
+    "ageMin": 9,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "life",
+      "art"
+    ],
+    "keywords": [
+      "长沙",
+      "文夕大火",
+      "抗战",
+      "城市记忆"
+    ],
+    "summary": "“我”深爱古城长沙会讲故事的大街小巷，然而战争打破了平静：难民和伤兵涌进城，一场大火骤然降临。蔡皋与女儿翱子以温暖怀旧的笔触纪念1938年“文夕大火”前的长沙，适合大孩子了解历史、珍惜和平。",
+    "tip": "读后在地图上找到长沙，和孩子查一查“文夕大火”，聊聊书里的老街今天是什么样子。",
+    "awards": []
+  },
+  {
+    "id": "bei-jing-zhong-zhou-xian-shang-de-cheng-shi",
+    "titleZh": "北京：中轴线上的城市",
+    "titleOriginal": "北京：中轴线上的城市",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "于大武",
+        "nameZh": "于大武",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2012,
+    "ageMin": 7,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "art"
+    ],
+    "keywords": [
+      "北京",
+      "中轴线",
+      "古建筑",
+      "城市格局"
+    ],
+    "summary": "沿着北京城的中轴线由南向北，城门、宫殿、街市一路展开。于大武以宏大而细致的画面描绘古都的格局与建筑之美，让孩子看懂一座城市的对称秩序和其中蕴含的历史文化。",
+    "tip": "准备一张北京地图，和孩子用笔画出中轴线，每翻一页就在地图上标出看到的建筑。",
+    "awards": []
+  },
+  {
+    "id": "bei-jing-de-chun-jie",
+    "titleZh": "北京的春节",
+    "titleOriginal": "北京的春节",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "老舍",
+        "nameZh": "老舍",
+        "role": "文"
+      },
+      {
+        "name": "于大武",
+        "nameZh": "于大武",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "culture",
+      "language"
+    ],
+    "keywords": [
+      "春节",
+      "老北京",
+      "老舍",
+      "年俗"
+    ],
+    "summary": "选自老舍名篇散文：从腊月初旬熬腊八粥、小年祭灶，到除夕守岁、正月里逛庙会看花灯，老北京过年的风俗一一呈现。于大武以细腻的画面还原热闹年景，帮孩子读懂经典文字、认识传统年俗。",
+    "tip": "从腊八开始每天读一点，对照书里的习俗和孩子做一件过年小事，比如泡腊八蒜。",
+    "awards": []
+  },
+  {
+    "id": "yu-mao",
+    "titleZh": "羽毛",
+    "titleOriginal": "羽毛",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "曹文轩",
+        "nameZh": "曹文轩",
+        "role": "文"
+      },
+      {
+        "name": "Roger Mello",
+        "nameZh": "罗杰·米罗",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2013,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "self",
+      "life",
+      "art"
+    ],
+    "keywords": [
+      "我是谁",
+      "寻找",
+      "羽毛",
+      "鸟"
+    ],
+    "summary": "一根被风吹落的羽毛，一路向各种鸟儿打听：“我是你的吗？”曹文轩的文字诗意深沉，巴西插画家罗杰·米罗的画面瑰丽奇特，引导孩子思考“我是谁、我属于哪里”。两位作者先后获国际安徒生奖。",
+    "tip": "读完让孩子捡一根真羽毛，猜猜它属于哪种鸟，再聊聊“属于”是什么感觉。",
+    "awards": []
+  },
+  {
+    "id": "yao-guai-shan",
+    "titleZh": "妖怪山",
+    "titleOriginal": "妖怪山",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "彭懿",
+        "nameZh": "彭懿",
+        "role": "文"
+      },
+      {
+        "name": "九儿",
+        "nameZh": "九儿",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 7,
+    "ageMax": 12,
+    "functions": [
+      "friendship",
+      "imagination",
+      "emotion"
+    ],
+    "keywords": [
+      "友情",
+      "救赎",
+      "幻想",
+      "妖怪"
+    ],
+    "summary": "一年前，女孩夏蝉在一场上山的游戏后消失了，只有她最好的三个朋友知道发生了什么。一年后，他们重返妖怪山。九儿的画面幽深神秘，故事关于友情、愧疚与勇气，适合大孩子在悬念中体会承担。",
+    "tip": "这本有些惊悚，建议白天读；读完问孩子：如果你是那三个朋友，会怎样面对这一年的心事？",
+    "awards": []
+  },
+  {
+    "id": "bu-yao-he-qing-wa-tiao-sheng",
+    "titleZh": "不要和青蛙跳绳",
+    "titleOriginal": "不要和青蛙跳绳",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "彭懿",
+        "nameZh": "彭懿",
+        "role": "文"
+      },
+      {
+        "name": "九儿",
+        "nameZh": "九儿",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2015,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "imagination",
+      "emotion"
+    ],
+    "keywords": [
+      "幻想朋友",
+      "青蛙",
+      "失落",
+      "童年"
+    ],
+    "summary": "星期三下午，壳壳放学回家，发现自己最宝贝的跳棋被妈妈扔掉了。失落的他走进一段奇妙的幻想之旅，遇见意想不到的朋友。细腻灵动的画面告诉孩子：幻想朋友一直在童年里，等着你去召唤。",
+    "tip": "读完问孩子有没有过“幻想朋友”，请他画出来，介绍它的名字和本领。",
+    "awards": []
+  },
+  {
+    "id": "e-wen-ke-de-tuo-lu",
+    "titleZh": "鄂温克的驼鹿",
+    "titleOriginal": "鄂温克的驼鹿",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "格日勒其木格·黑鹤",
+        "nameZh": "格日勒其木格·黑鹤",
+        "role": "文"
+      },
+      {
+        "name": "九儿",
+        "nameZh": "九儿",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2018,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "nature",
+      "life",
+      "culture"
+    ],
+    "keywords": [
+      "鄂温克族",
+      "驼鹿",
+      "北方森林",
+      "人与动物"
+    ],
+    "summary": "鄂温克族老猎人格力什克在一次狩猎中无意射杀了一头母驼鹿，它的幼崽一路跟着他回到营地。北方森林的冷冽与温情在九儿笔下交织，讲述人与动物之间的愧疚与守护，也让孩子认识鄂温克人的山林生活。",
+    "tip": "读前和孩子查查驼鹿和鄂温克族的资料，读后聊聊老猎人为什么要照顾小驼鹿。",
+    "awards": []
+  },
+  {
+    "id": "bian-zi",
+    "titleZh": "辫子",
+    "titleOriginal": "辫子",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "黑眯",
+        "nameZh": "黑眯",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2015,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "art",
+      "emotion"
+    ],
+    "keywords": [
+      "长发",
+      "失去",
+      "乡村",
+      "成长"
+    ],
+    "summary": "一个平常的下午，骑摩托车收头发的外村人来到村子，女孩从此失去了心爱的长辫子。她穿过空荡荡的街巷，想把辫子找回来。画面安静而有张力，帮助孩子体会失去与成长的复杂心情。",
+    "tip": "读完问孩子：有没有特别舍不得的东西离开过你？当时心里是什么滋味？",
+    "awards": []
+  },
+  {
+    "id": "wo-shi-hua-mu-lan",
+    "titleZh": "我是花木兰",
+    "titleOriginal": "我是花木兰",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "秦文君",
+        "nameZh": "秦文君",
+        "role": "文"
+      },
+      {
+        "name": "郁蓉",
+        "nameZh": "郁蓉",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2017,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "culture",
+      "self",
+      "art"
+    ],
+    "keywords": [
+      "花木兰",
+      "剪纸",
+      "勇气",
+      "女孩"
+    ],
+    "summary": "一个现代小女孩在梦中化身花木兰，经历替父从军、征战沙场直至归乡。郁蓉以标志性的剪纸与铅笔画拼贴展现战场与家园，让孩子认识《木兰辞》的故事，也感受勇气与担当不分性别。",
+    "tip": "读完一起念几句《木兰辞》，再用彩纸剪一个小小的木兰剪影。",
+    "awards": []
+  },
+  {
+    "id": "pao-pao-zhen",
+    "titleZh": "跑跑镇",
+    "titleOriginal": "跑跑镇",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "亚东",
+        "nameZh": "亚东",
+        "role": "文"
+      },
+      {
+        "name": "麦克小奎",
+        "nameZh": "麦克小奎",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "imagination",
+      "humor",
+      "cognition"
+    ],
+    "keywords": [
+      "创意",
+      "组合",
+      "撞一撞",
+      "联想"
+    ],
+    "summary": "跑跑镇的居民都爱快跑，一跑就免不了撞在一起：小猫和老鹰撞在一起会变成什么？苹果和红宝石呢？翻页前猜、翻页后笑，孩子在游戏中锻炼联想力和组合思维。",
+    "tip": "读完玩“撞一撞”游戏：大人说两样东西，孩子想想它们撞在一起会变成什么。",
+    "awards": []
+  },
+  {
+    "id": "lou",
+    "titleZh": "漏",
+    "titleOriginal": "漏",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "梁川",
+        "nameZh": "梁川",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2010,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "humor",
+      "culture"
+    ],
+    "keywords": [
+      "民间故事",
+      "老虎",
+      "小偷",
+      "误会"
+    ],
+    "summary": "改编自民间故事：雨夜里，老公公和老婆婆说“什么都不怕，就怕漏”，偏偏被来偷驴的贼和想吃驴的老虎听见，一场关于“漏”的误会就此展开。夸张诙谐的画面让孩子笑个不停，也领略民间故事的幽默。",
+    "tip": "读完请孩子扮老虎、大人扮小偷，把两人都以为对方是“漏”的场面演一遍。",
+    "awards": []
+  },
+  {
+    "id": "tian-a-cuo-la",
+    "titleZh": "天啊！错啦！",
+    "titleOriginal": "天啊！错啦！",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "徐萃",
+        "nameZh": "徐萃",
+        "role": "文/图"
+      },
+      {
+        "name": "姬炤华",
+        "nameZh": "姬炤华",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2011,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "imagination",
+      "diversity"
+    ],
+    "keywords": [
+      "红内裤",
+      "创意",
+      "不同看法",
+      "幽默"
+    ],
+    "summary": "小兔子捡到一条红内裤，戴在头上当帽子，场外传来一声大喊：“天啊！错啦！”可动物们接二连三想出更多新用法。夸张幽默的画面告诉孩子：东西可以有不同用法，适合自己的就是对的。",
+    "tip": "拿出一块旧手帕，和孩子比赛想出它的十种新用法，越离谱越好。",
+    "awards": []
+  },
+  {
+    "id": "gong-zhu-zen-me-wa-bi-shi",
+    "titleZh": "公主怎么挖鼻屎？",
+    "titleOriginal": "公主怎么挖鼻屎？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "李卓颖",
+        "nameZh": "李卓颖",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "humor",
+      "habits"
+    ],
+    "keywords": [
+      "挖鼻孔",
+      "卫生习惯",
+      "身体",
+      "幽默"
+    ],
+    "summary": "公主也会挖鼻屎吗？她又是怎么挖的？本书用夸张幽默的文图，大方揭开孩子生活中那些不好意思说出口的“小秘密”。孩子笑过之后，也更愿意坦然聊聊身体和卫生习惯。",
+    "tip": "笑完和孩子约定：鼻子痒了该怎么办？把纸巾放在他够得着的地方。",
+    "awards": []
+  },
+  {
+    "id": "jin-tian-wo-shi-yi-li-huang-dou",
+    "titleZh": "今天我是一粒黄豆",
+    "titleOriginal": "今天我是一粒黄豆",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "李瑗",
+        "nameZh": "李瑗",
+        "role": "文"
+      },
+      {
+        "name": "李卓颖",
+        "nameZh": "李卓颖",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2020,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "bedtime",
+      "habits",
+      "imagination"
+    ],
+    "keywords": [
+      "睡前游戏",
+      "黄豆",
+      "豆制品",
+      "亲子时光"
+    ],
+    "summary": "晚上，安安不想睡觉，妈妈便陪她玩起有魔法的睡前游戏：从想象中的一粒黄豆开始，生根、发芽、开花、结果，豆浆、豆腐等日常美食也一一登场。静谧的夜色里，孩子慢慢安下心来。",
+    "tip": "睡前让孩子蜷成一粒“黄豆”，大人轻抚他的背说“发芽啦、长叶啦”，慢慢哄睡。",
+    "awards": []
+  },
+  {
+    "id": "ni-ni-de-suan-miao",
+    "titleZh": "妮妮的蒜苗",
+    "titleOriginal": "妮妮的蒜苗",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "小小兰",
+        "nameZh": "小小兰",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2020,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "nature",
+      "family",
+      "emotion"
+    ],
+    "keywords": [
+      "种植",
+      "蒜苗",
+      "外婆",
+      "幼儿园作业"
+    ],
+    "summary": "老师布置作业：回家种一种蔬菜。妮妮请外婆帮忙种了一盆蒜苗，绿油油的蒜苗很快长出来，没想到却被吃掉了！它还能再长出来吗？贴近生活的小故事，带孩子观察植物生长，学着面对小小的失落。",
+    "tip": "一起在杯子里泡几瓣大蒜，每天量量蒜苗长高多少，剪下炒菜后再看它会不会重新长。",
+    "awards": []
+  },
+  {
+    "id": "da-yun-he-song-lai-ye-ye-de-che",
+    "titleZh": "大运河送来爷爷的车",
+    "titleOriginal": "大运河送来爷爷的车",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "王京文",
+        "nameZh": "王京文",
+        "role": "文"
+      },
+      {
+        "name": "李小光",
+        "nameZh": "李小光",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2022,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "culture",
+      "family"
+    ],
+    "keywords": [
+      "京杭大运河",
+      "自行车",
+      "祖孙",
+      "船夫接力"
+    ],
+    "summary": "住在北京的老闫头想把自行车送给在杭州上学的孙子飞飞，于是车子沿着京杭大运河，在船夫们的接力下一路南下。一趟水上之旅串起运河两岸的人间烟火。文字作者王京文即《团圆》作者余丽琼。",
+    "tip": "在地图上找出北京和杭州，用手指沿运河一路南下，数数自行车换了几条船。",
+    "awards": []
+  },
+  {
+    "id": "xue-bao-mei-duo",
+    "titleZh": "雪豹梅朵",
+    "titleOriginal": "雪豹梅朵",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "刘炎林",
+        "nameZh": "刘炎林",
+        "role": "文"
+      },
+      {
+        "name": "李赞谦",
+        "nameZh": "李赞谦",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2022,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "nature",
+      "self"
+    ],
+    "keywords": [
+      "雪豹",
+      "祁连山",
+      "独立",
+      "野生动物"
+    ],
+    "summary": "祁连山大雪纷飞，雪豹梅朵第一次独自捕到岩羊，随后被妈妈赶走，必须独自面对饥饿、寒冷和疾病。作者是长年在青藏高原做野外调查的动物学博士，故事真实可信，让孩子认识雪豹，也理解独立成长。",
+    "tip": "读完找雪豹的真实照片和视频对照，聊聊梅朵为什么必须离开妈妈。",
+    "awards": []
+  },
+  {
+    "id": "deng-deng-deng-deng",
+    "titleZh": "等灯等灯",
+    "titleOriginal": "等灯等灯",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "和畅团",
+        "nameZh": "和畅团",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2023,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "humor",
+      "safety",
+      "self"
+    ],
+    "keywords": [
+      "红绿灯",
+      "交通规则",
+      "罢工",
+      "各司其职"
+    ],
+    "summary": "马路上的红灯、黄灯、绿灯活了过来，各有各的脾气，还闹起了“罢工”！灯一乱，路口会变成什么样？幽默的故事带孩子认识交通信号灯和过马路的规矩，也聊到每个人都有不可替代的位置。",
+    "tip": "下次过马路让孩子当“小交警”喊口令：红灯停、绿灯行，黄灯亮了等一等。",
+    "awards": []
+  },
+  {
+    "id": "shen-bi-ma-liang",
+    "titleZh": "神笔马良",
+    "titleOriginal": "神笔马良",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "洪汛涛",
+        "nameZh": "洪汛涛",
+        "role": "文"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 1955,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "imagination",
+      "character",
+      "culture"
+    ],
+    "keywords": [
+      "神笔",
+      "童话",
+      "正义",
+      "画画"
+    ],
+    "summary": "穷孩子马良得到一支神笔，画什么就变成什么。他为穷苦乡亲画犁、画水车，却坚决不给贪婪的财主和皇帝作画。洪汛涛的经典童话1955年首次发表，后有多种图画书版本，善恶分明、想象瑰丽。",
+    "tip": "读完给孩子一支笔：如果你也有神笔，最想画什么帮助别人？画下来贴在墙上。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "yi-zhi-te-li-du-xing-de-zhu",
+    "titleZh": "一只特立独行的猪",
+    "titleOriginal": "一只特立独行的猪",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "张宁",
+        "nameZh": "张宁",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2018,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "self",
+      "diversity",
+      "art"
+    ],
+    "keywords": [
+      "与众不同",
+      "梦想",
+      "布艺",
+      "王小波"
+    ],
+    "summary": "改编自王小波同名散文：小黑猪不甘心一生只会吃饭、睡觉、长肉，它跟公鸡学打鸣、跟鸭子学游泳、跟老猫学捉老鼠。剪布绣与汉画风格的画面古朴生动，鼓励孩子坚持兴趣与梦想。获第六届丰子恺图画书奖佳作奖。",
+    "tip": "读完问孩子：有什么事你和别人不一样、却特别喜欢做？为它画一张“本领卡”。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "id": "ya-chi-ya-chi-reng-wu-ding",
+    "titleZh": "牙齿，牙齿，扔屋顶",
+    "titleOriginal": "牙齿，牙齿，扔屋顶",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "刘洵",
+        "nameZh": "刘洵",
+        "role": "文/图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "life"
+    ],
+    "keywords": [
+      "换牙",
+      "民俗",
+      "老巷子",
+      "祖孙"
+    ],
+    "summary": "妞妞掉牙了，爷爷说要把牙扔到屋顶上，个子才长得高。妞妞握着牙穿过老巷子去找爷爷，一路看到城南老街的生活场景。温润细腻的画面陪孩子面对换牙，也记录了正在消失的老城风貌。获第四届丰子恺图画书奖佳作奖。",
+    "tip": "孩子换牙时读这本，问问家里老人小时候怎么处理掉下的牙，再一起决定这颗牙放哪儿。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "id": "fen-jin-gui-de-sheng-ri-li-wu",
+    "titleZh": "粪金龟的生日礼物",
+    "titleOriginal": "粪金龟的生日礼物",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "龚卫国",
+        "nameZh": "龚卫国",
+        "role": "文"
+      },
+      {
+        "name": "陶菊香",
+        "nameZh": "陶菊香",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2019,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "friendship",
+      "humor",
+      "nature"
+    ],
+    "keywords": [
+      "送礼物",
+      "粪金龟",
+      "换位思考",
+      "生日"
+    ],
+    "summary": "粪金龟过生日，朋友们带着礼物来祝贺，它却端出一桌“便便大餐”招待大家，场面好尴尬！怎样才能把心意送到对方心坎里？幽默的故事教孩子换位思考，也顺便认识粪金龟的习性。获第七届丰子恺图画书奖佳作奖。",
+    "tip": "孩子要给朋友送礼物前读这本，一起想想：对方真正需要和喜欢的是什么？",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "gu-ji-gu-ji",
+    "titleZh": "咕叽咕叽",
+    "titleOriginal": "Guji Guji",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "陳致元",
+        "nameZh": "陈致元",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2003,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "self",
+      "family",
+      "diversity"
+    ],
+    "keywords": [
+      "身份认同",
+      "鳄鱼",
+      "鸭妈妈",
+      "爱与选择"
+    ],
+    "summary": "一颗鳄鱼蛋滚进鸭窝，孵出的咕叽咕叽在鸭妈妈身边长大。直到真正的鳄鱼找上门，要他帮忙把鸭子骗来吃掉，他才开始思考“我到底是谁”。幽默又温暖，帮助孩子理解身份认同与爱的选择。",
+    "tip": "读到鳄鱼来找咕叽咕叽时停下，问孩子：你觉得他会怎么选？为什么？",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "xiao-yu-san-bu",
+    "titleZh": "小鱼散步",
+    "titleOriginal": "小魚散步",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "陳致元",
+        "nameZh": "陈致元",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2001,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "imagination",
+      "self"
+    ],
+    "keywords": [
+      "独自出门",
+      "买鸡蛋",
+      "想象",
+      "街道"
+    ],
+    "summary": "小鱼被爸爸叫去买鸡蛋，一路上她和影子玩耍、捡起小东西，把普通的街道走成一场奇妙的小冒险。陈致元用细腻温柔的画面捕捉孩子独有的视角，鼓励孩子独立做事，也提醒大人珍惜孩子的想象。",
+    "tip": "散步时学小鱼的玩法：找一样小东西，透过它看看世界，说说看到了什么。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "hen-man-hen-man-de-wo-niu",
+    "titleZh": "很慢很慢的蜗牛",
+    "titleOriginal": "很慢很慢的蝸牛",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "陳致元",
+        "nameZh": "陈致元",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2011,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "self",
+      "friendship"
+    ],
+    "keywords": [
+      "慢",
+      "坚持",
+      "蜗牛",
+      "沿途风景"
+    ],
+    "summary": "小蜗牛想爬上葡萄藤吃葡萄，可它爬得太慢，被水蛇和大嘴蛙嘲笑。它不在乎，一步一步往前爬，还和同样慢吞吞的毛毛虫结伴，看见了别人看不到的风景。帮孩子接纳自己的节奏。获第三届丰子恺图画书奖佳作奖。",
+    "tip": "和孩子来一次“慢慢走”的散步，比比谁发现的小东西多，回家说说慢下来看到了什么。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "id": "mi-mi-shuo-bu",
+    "titleZh": "米米说不",
+    "titleOriginal": "米米說不",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "周逸芬",
+        "nameZh": "周逸芬",
+        "role": "文"
+      },
+      {
+        "name": "陳致元",
+        "nameZh": "陈致元",
+        "role": "图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 1,
+    "ageMax": 4,
+    "functions": [
+      "emotion",
+      "humor"
+    ],
+    "keywords": [
+      "说不",
+      "自我意识",
+      "幼儿脾气",
+      "亲子"
+    ],
+    "summary": "小女孩米米什么都要说“不”！夸张潇洒的画风把幼儿的表情和肢体动作画得活灵活现，开放式结局还能接着编故事。正处在“说不期”的孩子会在书里看到自己，大人也会对孩子的小脾气多一分理解。",
+    "tip": "读时让孩子替米米大声喊“不”，再问他：哪件事你最想说不？哪件事可以说好？",
+    "awards": []
+  },
+  {
+    "id": "wo-bian-cheng-yi-zhi-pen-huo-long-le",
+    "titleZh": "我变成一只喷火龙了！",
+    "titleOriginal": "我變成一隻噴火龍了！",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "賴馬",
+        "nameZh": "赖马",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 1996,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "emotion",
+      "humor"
+    ],
+    "keywords": [
+      "生气",
+      "坏脾气",
+      "喷火",
+      "怪兽"
+    ],
+    "summary": "爱生气的阿古力被专吸坏脾气者血的蚊子波泰叮了一口，从此张嘴就喷火，惹出一连串麻烦，他该怎样灭火？夸张的拉页和满是细节的画面，让孩子笑着认识“生气”，学习和坏脾气相处。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "读完和孩子画一张“灭火清单”：生气时可以做哪些事让火小一点，贴在家里显眼处。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "zao-qi-de-yi-tian",
+    "titleZh": "早起的一天",
+    "titleOriginal": "早起的一天",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "賴馬",
+        "nameZh": "赖马",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2002,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "family",
+      "cognition"
+    ],
+    "keywords": [
+      "奶奶",
+      "菜市场",
+      "日常生活",
+      "家庭团聚"
+    ],
+    "summary": "天还没亮，小珍珠就起床跟奶奶出门，逛公园、菜市场和花店，买了好多东西，忙了一整天。到了下午，爸爸妈妈、叔叔姑姑陆续回家……热闹的画面里处处藏着细节，适合和孩子反复寻找，体会寻常日子里的温暖。",
+    "tip": "和孩子一起数数小珍珠和奶奶买了哪些东西，再猜猜大家为什么都回家了。",
+    "awards": []
+  },
+  {
+    "id": "shi-er-sheng-xiao-de-gu-shi",
+    "titleZh": "十二生肖的故事",
+    "titleOriginal": "十二生肖的故事",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "賴馬",
+        "nameZh": "赖马",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2004,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "humor"
+    ],
+    "keywords": [
+      "十二生肖",
+      "渡河比赛",
+      "民间故事",
+      "找细节"
+    ],
+    "summary": "玉皇大帝公告天下，举办动物渡河比赛来决定十二生肖的排名。赖马忠实讲述这个耳熟能详的民间故事，又在画面里藏进大量好玩的细节和彩蛋，适合认识生肖由来，也能和孩子玩找图游戏。",
+    "tip": "先问孩子属什么，在书里找到他的生肖做了什么，再找找藏在画里的作者本人。",
+    "awards": []
+  },
+  {
+    "id": "zi-er-tu-tu",
+    "titleZh": "子儿，吐吐",
+    "titleOriginal": "子兒，吐吐",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "李瑾倫",
+        "nameZh": "李瑾伦",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 1993,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "humor",
+      "imagination",
+      "habits"
+    ],
+    "keywords": [
+      "吃东西",
+      "种子",
+      "担心",
+      "小猪"
+    ],
+    "summary": "小猪胖脸儿吃东西又快又多，这回连木瓜子都吞了下去，大家说他头上会长出树来！他又担心又期待地想象着。故事源自孩子吃水果时最常见的疑问，幽默可爱，也顺便提醒孩子吃东西别太急。",
+    "tip": "吃西瓜或木瓜时读这本，比赛谁吐子吐得最干净，再问孩子：真吞下去会怎样？",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "lao-shu-qu-xin-niang",
+    "titleZh": "老鼠娶新娘",
+    "titleOriginal": "老鼠娶新娘",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "張玲玲",
+        "nameZh": "张玲玲",
+        "role": "文"
+      },
+      {
+        "name": "劉宗慧",
+        "nameZh": "刘宗慧",
+        "role": "图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 1992,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "art",
+      "humor"
+    ],
+    "keywords": [
+      "民间故事",
+      "老鼠嫁女",
+      "迎亲",
+      "谁最强"
+    ],
+    "summary": "老鼠村长要为女儿找全世界最强的女婿，从太阳、云、风一路问到墙，答案却出人意料。刘宗慧细腻的画面再现传统迎亲场景，热闹又有童趣，是认识民间故事与婚嫁年俗的经典华文绘本。",
+    "tip": "正月里读这本，和孩子玩“谁最强”接龙：太阳怕云、云怕风……看他能不能接出新的一环。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "wo-he-wo-de-jiao-ta-che",
+    "titleZh": "我和我的脚踏车",
+    "titleOriginal": "我和我的腳踏車",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "葉安德",
+        "nameZh": "叶安德",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2006,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "self",
+      "family"
+    ],
+    "keywords": [
+      "脚踏车",
+      "梦想",
+      "成长",
+      "阿公"
+    ],
+    "summary": "少年梦想拥有一辆新脚踏车，他和阿公、朋友、妈妈一起经历了希望与失望，学会接受生活的不完美，依然笑着迎向明天。漫画般幽默的画面充满乡土气息，陪孩子体会等待与成长。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "读完问孩子：有没有特别想要却暂时得不到的东西？一起想想怎样一步步靠近它。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "che-piao-qu-na-li-le",
+    "titleZh": "车票去哪里了？",
+    "titleOriginal": "車票去哪裡了？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "劉旭恭",
+        "nameZh": "刘旭恭",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2017,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "imagination",
+      "humor"
+    ],
+    "keywords": [
+      "公交车",
+      "冒险",
+      "追车票",
+      "想象"
+    ],
+    "summary": "公交车要开了，一阵风把乘客们的车票全吹跑了！司机先生决定带大家去追，车子越过高山、悬崖、海边和雪地，还遇到神仙、海龙王和雪怪。天马行空的旅程充满惊喜，激发孩子的想象力。获第六届丰子恺图画书奖佳作奖。",
+    "tip": "读完让孩子接着编：如果车票被吹到了月亮上，司机先生会怎么追？",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "id": "shui-de-jia-dao-le",
+    "titleZh": "谁的家到了？",
+    "titleOriginal": "誰的家到了？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "劉旭恭",
+        "nameZh": "刘旭恭",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2013,
+    "ageMin": 1,
+    "ageMax": 4,
+    "functions": [
+      "cognition",
+      "language"
+    ],
+    "keywords": [
+      "公交车",
+      "回家",
+      "纸板书",
+      "猜一猜"
+    ],
+    "summary": "红彤彤的小公交车会开到哪里？车上载着谁回家？简单重复的问句配上明快的画面，每到一站就猜一猜“这是谁的家”。纸板书形式，适合宝宝自己动手翻，在游戏中练习观察与表达。",
+    "tip": "每到一站先盖住下一页，让宝宝猜“谁的家到了”，再一起学公交车“嘀嘀”进站。",
+    "awards": []
+  },
+  {
+    "id": "ka-da-ka-da-ka-da",
+    "titleZh": "喀哒喀哒喀哒",
+    "titleOriginal": "喀噠喀噠喀噠",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "林小杯",
+        "nameZh": "林小杯",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "family",
+      "language"
+    ],
+    "keywords": [
+      "阿嬷",
+      "缝纫机",
+      "祖孙",
+      "拟声词"
+    ],
+    "summary": "“喀哒喀哒喀哒”响的缝纫机是阿嬷的大玩具，在小女孩眼里它无所不能，连装恐龙的大袋子都做得出来。直到有一天，缝纫机坏了……活泼的拟声和画面里满是祖孙情，也藏着对老物件的珍惜。获第四届丰子恺图画书奖首奖。",
+    "tip": "读时让孩子负责喊“喀哒喀哒喀哒”，读完翻出家里的老物件，讲讲它背后的家人故事。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "id": "xia-yu-le",
+    "titleZh": "下雨了！",
+    "titleOriginal": "下雨了！",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "湯姆牛",
+        "nameZh": "汤姆牛",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2010,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "nature",
+      "humor"
+    ],
+    "keywords": [
+      "下雨",
+      "动物喝水",
+      "猜拳",
+      "水的旅程"
+    ],
+    "summary": "雨落进山谷，汇成小溪流到干枯的平原，大象、狮子、河马都抢着喝水。慢吞吞的小乌龟赶到时只剩最后一口，偏偏小蝌蚪也在等……几何画面简洁鲜明，让孩子认识水与生命的关系。获第二届丰子恺图画书奖评审推荐创作奖。",
+    "tip": "读到小乌龟和小蝌蚪时停下，和孩子真的猜一次拳，再看看书里是谁喝到了水。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "zui-ke-pa-de-yi-tian",
+    "titleZh": "最可怕的一天",
+    "titleOriginal": "最可怕的一天",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "湯姆牛",
+        "nameZh": "汤姆牛",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2012,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "emotion",
+      "self"
+    ],
+    "keywords": [
+      "害羞",
+      "焦虑",
+      "勇气",
+      "接纳自己"
+    ],
+    "summary": "明天有一件天大的事要发生！害羞的玲玲睡前想象着天崩地裂、怪兽攻城，紧张极了。锯齿线条和对比色把焦虑画得真切，故事跨越三十年，告诉孩子每个人都可以用自己的方式面对恐惧。获第三届丰子恺图画书奖佳作奖。",
+    "tip": "演出或比赛前读这本，让孩子说出“我最怕的是……”，再一起想一个让自己安心的小动作。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "id": "lin-tao-nai-nai-de-tao-zi-shu",
+    "titleZh": "林桃奶奶的桃子树",
+    "titleOriginal": "林桃奶奶的桃子樹",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "湯姆牛",
+        "nameZh": "汤姆牛",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "character",
+      "friendship"
+    ],
+    "keywords": [
+      "分享",
+      "桃子",
+      "动物",
+      "慷慨"
+    ],
+    "summary": "林桃奶奶家的桃子树结满了桃子，小松鼠吃了一颗告诉山羊，山羊又告诉老虎……动物们都来讨桃子，最后只剩一颗时，乌龟一家才赶到。重复递进的情节好记好讲，让孩子体会分享的快乐。获第五届丰子恺图画书奖佳作奖。",
+    "tip": "读完准备一个水果，让孩子当林桃奶奶分给家人，看看怎么分大家都满意。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "id": "xiang-zuo-zou-xiang-you-zou",
+    "titleZh": "向左走·向右走",
+    "titleOriginal": "向左走．向右走",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "幾米",
+        "nameZh": "几米",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 1999,
+    "ageMin": 10,
+    "ageMax": 12,
+    "functions": [
+      "art",
+      "emotion"
+    ],
+    "keywords": [
+      "城市",
+      "孤独",
+      "缘分",
+      "图像叙事"
+    ],
+    "summary": "住得很近的男孩和女孩，一个习惯向左走，一个习惯向右走，在城市里一次次擦肩而过。几米用细腻的画面和诗意的文字描写都市的孤独与缘分，适合大孩子和成人共读，体会图像叙事的魅力。",
+    "tip": "读完一起翻回去找：两人有哪些时刻其实离得很近？说说画面讲了哪些文字没说的事。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "xing-kong",
+    "titleZh": "星空",
+    "titleOriginal": "星空",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "幾米",
+        "nameZh": "几米",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2009,
+    "ageMin": 9,
+    "ageMax": 12,
+    "functions": [
+      "emotion",
+      "family",
+      "art"
+    ],
+    "keywords": [
+      "孤独",
+      "友情",
+      "父母争吵",
+      "梵高"
+    ],
+    "summary": "转学后的女孩孤单又敏感，家里父母争吵不断，直到她遇见同样沉默的邻居男孩，两人一起踏上去看星空的旅程。几米以梵高《星月夜》式的笔触描绘少年的寂寞与温暖，适合十岁以上的孩子和父母共读。",
+    "tip": "读完一起看梵高的《星月夜》，问孩子：觉得孤单时，谁或什么能让你感到被理解？",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "tong-yi-ge-yue-liang",
+    "titleZh": "同一个月亮",
+    "titleOriginal": "同一個月亮",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "幾米",
+        "nameZh": "几米",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2017,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "family",
+      "life"
+    ],
+    "keywords": [
+      "战争",
+      "和平",
+      "思念",
+      "受伤的动物"
+    ],
+    "summary": "翰翰总倚在窗口等待。月光下，先后来了受伤的狮子、大象和鹤，他一一照料。他真正等待的人终于出现……几米以温柔的月光讲述战争的伤痛与亲情，引导孩子思考和平。获第六届丰子恺图画书奖佳作奖。",
+    "tip": "读完聊聊：动物们为什么会受伤？翰翰的爸爸经历了什么？一起说说“和平”是什么。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "id": "chun-shen-tiao-wu-de-sen-lin",
+    "titleZh": "春神跳舞的森林",
+    "titleOriginal": "春神跳舞的森林",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "嚴淑女",
+        "nameZh": "严淑女",
+        "role": "文"
+      },
+      {
+        "name": "張又然",
+        "nameZh": "张又然",
+        "role": "图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2003,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "culture",
+      "nature",
+      "art"
+    ],
+    "keywords": [
+      "阿里山",
+      "邹族",
+      "春天",
+      "森林"
+    ],
+    "summary": "阿里山邹族男孩阿地常听奶奶讲春神的故事。一个春夜，他走进森林，与林中的生灵相遇，展开一段奇幻旅程。张又然的画面如梦似幻，把原住民文化、自然生态与成长融为一体，被视为华文绘本经典。",
+    "tip": "读完找阿里山樱花和邹族服饰的照片看看，问孩子：春神来到你家附近，会在哪里跳舞？",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "xing-qi-san-xia-wu-zhuo-ke-dou",
+    "titleZh": "星期三下午，捉·蝌·蚪",
+    "titleOriginal": "星期三下午，捉‧蝌‧蚪",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "安石榴",
+        "nameZh": "安石榴",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2004,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "nature",
+      "humor",
+      "school"
+    ],
+    "keywords": [
+      "蝌蚪",
+      "河边",
+      "老师",
+      "户外"
+    ],
+    "summary": "星期三下午不用上课，老师想好好休息，就叫小朋友们去河边捉蝌蚪，结果发生了一连串有趣的事情。画面充满乡间野趣和孩子的活力，让孩子向往亲近自然，也读出师生间轻松的幽默。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "春天带孩子去水边看看蝌蚪，回家对照画面，聊聊蝌蚪怎样一步步变成青蛙。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "xiang-yao-bu-yi-yang",
+    "titleZh": "想要不一样",
+    "titleOriginal": "想要不一樣",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "童嘉",
+        "nameZh": "童嘉",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2004,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "self",
+      "imagination",
+      "school"
+    ],
+    "keywords": [
+      "与众不同",
+      "刻板印象",
+      "学龄",
+      "创意"
+    ],
+    "summary": "为什么大家都要一样？左页用文字提出孩子心里的疑问，右页用出人意料的幽默图画给出“不一样”的答案。童嘉俏皮地打破刻板印象，说出许多学龄孩子想与众不同的心声。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "读完左页的问题先遮住右页，请孩子说出自己的“不一样”答案，再翻开对照。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "chi-shang-chi-xia",
+    "titleZh": "池上池下",
+    "titleOriginal": "池上池下",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "邱承宗",
+        "nameZh": "邱承宗",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "nature",
+      "life"
+    ],
+    "keywords": [
+      "蜻蜓",
+      "池塘",
+      "生态",
+      "生命周期"
+    ],
+    "summary": "四月的春雨滋润了城市边缘的小池塘，一只雌麻斑晏蜓在这里产卵，开启了蜻蜓从水下到水上的生命篇章。邱承宗以精确写实的画面呈现池塘生态，是一本兼具美感与知识的科学图画书。获首届丰子恺图画书奖优秀图画书奖。",
+    "tip": "去公园池塘边观察蜻蜓，回家对照书中画面，说说蜻蜓的幼虫住在哪里。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "wo-kan-jian-yi-zhi-niao",
+    "titleZh": "我看见一只鸟",
+    "titleOriginal": "我看見一隻鳥",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "劉伯樂",
+        "nameZh": "刘伯乐",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2011,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "nature",
+      "family"
+    ],
+    "keywords": [
+      "观鸟",
+      "台湾特有鸟类",
+      "自然观察",
+      "母女"
+    ],
+    "summary": "小女孩画了一只从没见过的野鸟，拉着妈妈一起去寻找。一路上，五色鸟、台湾蓝鹊、红嘴黑鹎等鸟类一一登场，连每根羽毛都画得清清楚楚。在亲子寻鸟的旅程中，孩子学会观察与欣赏自然。获第三届丰子恺图画书奖首奖。",
+    "tip": "带上望远镜去公园观鸟，让孩子画下看到的鸟，回家查查它叫什么名字。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "id": "kan-bu-jian",
+    "titleZh": "看不见",
+    "titleOriginal": "看不見",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "蔡兆倫",
+        "nameZh": "蔡兆伦",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2012,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "diversity",
+      "emotion"
+    ],
+    "keywords": [
+      "视障",
+      "同理心",
+      "感官",
+      "体验"
+    ],
+    "summary": "“我”看不见，试着从家里走到公园，只能靠触觉、听觉和嗅觉摸索前进，心里满是不安。故事中途有个意外的转折，读者也跟着体验了一次“看不见”。帮孩子理解视障者的处境，学会体谅。获第三届丰子恺图画书奖佳作奖。",
+    "tip": "读完让孩子蒙上眼睛，从客厅走到卧室，再聊聊看不见时最希望别人怎样帮忙。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2013
+      }
+    ]
+  },
+  {
+    "id": "guai-zhang-gou",
+    "titleZh": "拐杖狗",
+    "titleOriginal": "拐杖狗",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "李如青",
+        "nameZh": "李如青",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2014,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "life",
+      "art",
+      "friendship"
+    ],
+    "keywords": [
+      "无字书",
+      "老人与狗",
+      "陪伴",
+      "思念"
+    ],
+    "summary": "被遗弃的小狗遇见老伯伯，从此相依为伴。一次散步时老伯伯跌倒被救护车送走，只留下一根拐杖，小狗从此叼着它踏上漫长的寻找。这本无字书像一部纸上电影，让孩子体会陪伴与思念。获第四届丰子恺图画书奖佳作奖。",
+    "tip": "慢慢翻，每页请孩子说说小狗在哪里、心里在想什么，最后聊聊等待的感受。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "id": "jin-cheng",
+    "titleZh": "进城",
+    "titleOriginal": "進城",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "林秀穗",
+        "nameZh": "林秀穗",
+        "role": "文"
+      },
+      {
+        "name": "廖健宏",
+        "nameZh": "廖健宏",
+        "role": "图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2010,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "character",
+      "culture",
+      "art"
+    ],
+    "keywords": [
+      "父子骑驴",
+      "独立思考",
+      "木刻剪纸",
+      "古典人物"
+    ],
+    "summary": "老爹和儿子小虎儿牵着驴子进城赶集，一路上总有人指点谁该骑驴，父子俩越听越糊涂。黑白木刻剪纸风的画面里藏着孙悟空、林黛玉等古典人物，提醒孩子别太在意他人眼光。获第二届丰子恺图画书奖评审推荐创作奖。",
+    "tip": "找找画面里藏着哪些古典故事人物，再讨论：路人的建议哪些该听、哪些不必听？",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "yi-qi-qu-dong-wu-yuan",
+    "titleZh": "一起去动物园",
+    "titleOriginal": "一起去動物園",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "林柏廷",
+        "nameZh": "林柏廷",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2018,
+    "ageMin": 4,
+    "ageMax": 10,
+    "functions": [
+      "family",
+      "life"
+    ],
+    "keywords": [
+      "手足情",
+      "生病住院",
+      "思念",
+      "动物"
+    ],
+    "summary": "弟弟生病住院了，小姐姐既担心又想念，姐弟分离让她孤单失落。怀着全家“一起去动物园”的盼望，各种动物朋友接连出现在弟弟的病房里……温暖动人的生命教育绘本，值得反复阅读。获第六届丰子恺图画书奖佳作奖。",
+    "tip": "家里有人生病时读这本，和孩子一起为对方画一张满是动物的“加油卡”。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2019
+      }
+    ]
+  },
+  {
+    "id": "bei-jing-you",
+    "titleZh": "北京游",
+    "titleOriginal": "北京遊",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "孫心瑜",
+        "nameZh": "孙心瑜",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2013,
+    "ageMin": 4,
+    "ageMax": 10,
+    "functions": [
+      "art",
+      "culture"
+    ],
+    "keywords": [
+      "北京",
+      "城市旅行",
+      "读图",
+      "新旧变迁"
+    ],
+    "summary": "跟着画面游览北京：胡同、古老宫殿与新兴的城市景观依次展开，新旧并置，细节耐人寻味。孙心瑜以图像为主讲述一座城市的面貌与变迁，适合和孩子一边读图一边“旅行”。获2015年博洛尼亚拉加齐奖。",
+    "tip": "让孩子当导游，指着画面介绍“我们到了哪儿”，再找找哪些地方正在拆、哪些是新建的。",
+    "awards": [
+      {
+        "name": "博洛尼亚拉加齐奖",
+        "year": 2015
+      }
+    ]
+  },
+  {
+    "id": "deng-dai",
+    "titleZh": "等待",
+    "titleOriginal": "等待",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "高佩聰",
+        "nameZh": "高佩聪",
+        "role": "文/图"
+      }
+    ],
+    "country": "HK",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "family",
+      "emotion"
+    ],
+    "keywords": [
+      "新生儿",
+      "家猫",
+      "迎接二宝",
+      "包容"
+    ],
+    "summary": "一个养猫的家庭迎来新生儿，故事从家猫的视角看家里的变化：它想亲近小主人，却被大人无心地隔开，小宝宝也好像对它视而不见。因为爱，它耐心等待那一天。适合要迎接弟弟妹妹的孩子。获第五届丰子恺图画书奖佳作奖。",
+    "tip": "家里要添宝宝时读这本，问孩子：小猫心里在想什么？你有过同样的感觉吗？",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2017
+      }
+    ]
+  },
+  {
+    "id": "sheng-ri-kuai-le",
+    "titleZh": "生日快乐",
+    "titleOriginal": "生日快樂",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "高佩聰",
+        "nameZh": "高佩聪",
+        "role": "文/图"
+      }
+    ],
+    "country": "HK",
+    "language": "zh",
+    "year": 2020,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "family",
+      "art"
+    ],
+    "keywords": [
+      "香港街道",
+      "生日",
+      "邻里",
+      "揭页"
+    ],
+    "summary": "一家人各自赶着回家，书页上下揭开、配合地图路线，读者跟着主角穿过香港湾仔的街头巷尾，感受街坊邻里的人情味。两条故事线交错并行，结尾还藏着意想不到的惊喜。获第七届丰子恺图画书奖佳作奖。",
+    "tip": "用手指沿着地图路线“走”一遍，和孩子比赛找出两条故事线在哪里交汇。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": "shui-shi-mo-fa-wang",
+    "titleZh": "谁是魔法王？",
+    "titleOriginal": "誰是魔法王？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "張韻珊",
+        "nameZh": "张韵珊",
+        "role": "文/图"
+      }
+    ],
+    "country": "HK",
+    "language": "zh",
+    "year": 2021,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "family",
+      "self"
+    ],
+    "keywords": [
+      "外婆",
+      "学游泳",
+      "大海",
+      "终身学习"
+    ],
+    "summary": "珊珊第一次到外婆家过暑假，外公带她学游泳，在一旁守候的外婆也跃跃欲试，竟在这一年学会了游泳。比起泳池，外婆更爱在大海里畅游。温柔的故事告诉孩子：学习和勇气不分年龄。获第八届丰子恺图画书奖佳作奖。",
+    "tip": "问问家里的长辈最近学会了什么新本领，再请孩子当一次“小老师”教长辈一件事。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "id": "ni-hui-dong-dong-dong-ma",
+    "titleZh": "你会咚咚咚吗？",
+    "titleOriginal": "你會咚咚咚嗎？",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "張韻珊",
+        "nameZh": "张韵珊",
+        "role": "文/图"
+      }
+    ],
+    "country": "HK",
+    "language": "zh",
+    "year": 2016,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "language",
+      "cognition"
+    ],
+    "keywords": [
+      "拟声词",
+      "动物",
+      "森林",
+      "本领"
+    ],
+    "summary": "“咚”的一声拉开序幕，小男孩走进森林，挨个问动物：“你会咚咚咚吗？”每种动物都用不同的声音展示自己独特的本领。重复的问句和丰富的拟声词，适合低幼孩子模仿发声、认识动物的特点。",
+    "tip": "大人念问句，孩子用拍手、跺脚或敲桌子回答“咚咚咚”，再学学每种动物的声音。",
+    "awards": []
+  },
+  {
+    "id": "xiao-gao-de-you-le-chang",
+    "titleZh": "小高的游乐场",
+    "titleOriginal": "小高的遊樂場",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "林建才",
+        "nameZh": "林建才",
+        "role": "文/图"
+      }
+    ],
+    "country": "HK",
+    "language": "zh",
+    "year": 2024,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "nature",
+      "culture"
+    ],
+    "keywords": [
+      "山顶缆车",
+      "香港",
+      "植树",
+      "城市历史"
+    ],
+    "summary": "这里原是一座光秃秃的山，连小鸟都不肯来。于是小高的爷爷的爷爷来了，世界各地的大树小树也来了……以山顶缆车“小高”为主角，讲述荒山变绿的历程，带孩子认识树木与城市历史。获第九届丰子恺图画书奖佳作奖。",
+    "tip": "如果去香港，带孩子坐一次山顶缆车，对照书里认一认马尾松、紫荆花和凤凰木。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2025
+      }
+    ]
+  }
+]

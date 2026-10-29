@@ -1,0 +1,39 @@
+name: Check picture-book catalogue
+
+# Validates the book data and builds the huiben/ site whenever it changes. It does not
+# deploy: the repository's GitHub Pages site is the ShiftKumo website.
+on:
+  push:
+    paths:
+      - 'huiben/**'
+      - '.github/workflows/huiben.yml'
+  pull_request:
+    paths:
+      - 'huiben/**'
+      - '.github/workflows/huiben.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: huiben
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Validate book data
+        run: node check-data.mjs
+
+      - name: Build site
+        run: node build.mjs
+
+      - name: Build preview variant
+        run: node build.mjs --preview

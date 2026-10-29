@@ -1,0 +1,16 @@
+{
+  "name": "huiben-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "世界绘本大全：按适读年龄和作用分类的全球儿童绘本目录（静态网站）。",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node check-data.mjs",
+    "build": "node build.mjs",
+    "serve": "node build.mjs && python3 -m http.server 8081 --directory dist",
+    "export": "node build.mjs && mkdir -p exports && rm -f exports/huiben-site.zip && cd dist && zip -qr ../exports/huiben-site.zip ."
+  }
+}
