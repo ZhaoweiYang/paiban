@@ -236,6 +236,7 @@ export const AWARDS = [
   { name: '荷兰银画笔奖', original: 'Zilveren Penseel', country: 'NL', desc: '荷兰童书插画奖的银画笔奖。' },
   { name: '瑞典奥古斯特奖', original: 'Augustpriset', country: 'SE', desc: '瑞典最重要的文学奖，设儿童与青少年图书类。' },
   { name: '日本绘本奖', original: '日本絵本賞', country: 'JP', desc: '全国学校图书馆协议会等主办的日本绘本奖项，1995 年设立。' },
+  { name: '日本绘本奖读者奖', original: '日本絵本賞 読者賞', country: 'JP', desc: '日本绘本奖中由小读者投票选出的奖项。' },
   { name: '日本绘本奖翻译绘本奖', original: '日本絵本賞 翻訳絵本賞', country: 'JP', desc: '日本绘本奖中颁给翻译引进绘本的奖项。' },
   { name: '讲谈社出版文化奖·绘本奖', original: '講談社出版文化賞 絵本賞', country: 'JP', desc: '讲谈社主办的出版文化奖中的绘本类奖项。' },
   { name: '小学馆儿童出版文化奖', original: '小学館児童出版文化賞', country: 'JP', desc: '小学馆主办的日本儿童出版文化奖。' },

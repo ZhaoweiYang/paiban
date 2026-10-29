@@ -67,41 +67,6 @@
     "classic": true
   },
   {
-    "id": "guri-to-gura",
-    "titleZh": "古利和古拉",
-    "titleOriginal": "ぐりとぐら",
-    "zhEdition": true,
-    "authors": [
-      {
-        "name": "中川李枝子",
-        "nameZh": "中川李枝子",
-        "role": "文"
-      },
-      {
-        "name": "大村百合子",
-        "nameZh": "大村百合子",
-        "role": "图"
-      }
-    ],
-    "country": "JP",
-    "language": "ja",
-    "year": 1963,
-    "ageMin": 2,
-    "ageMax": 6,
-    "functions": [
-      "friendship",
-      "humor"
-    ],
-    "keywords": [
-      "分享",
-      "做蛋糕",
-      "森林"
-    ],
-    "summary": "两只小野鼠在森林里捡到一个大鸡蛋，决定做一个大大的蛋糕，香味引来了森林里所有的动物。简单温暖的故事传递了合作与分享的快乐。",
-    "tip": "读完可以和孩子一起做一次松饼，边做边唱书里古利和古拉的歌。",
-    "classic": true
-  },
-  {
     "id": "goodnight-moon",
     "titleZh": "晚安，月亮",
     "titleOriginal": "Goodnight Moon",
