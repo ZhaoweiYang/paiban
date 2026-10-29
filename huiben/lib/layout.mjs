@@ -70,6 +70,8 @@ function footer(u) {
 
 export function page({ path, title, description, body, active = '', jsonLd = null, bare = false, base = null }) {
   const u = linker(path, base);
+  // Directory prefix that site.js joins paths onto (never a page, even in the preview).
+  const root = base ?? ('../'.repeat(path.split('/').filter(Boolean).length) || './');
   // The preview is published under the site's bare name.
   const fullTitle = title ? `${title} · ${config.name}` : mode.preview ? config.name : `${config.name} · ${config.tagline}`;
   const desc = description || config.description;
@@ -101,7 +103,7 @@ ${body}
 </main>
 ${footer(u)}
 <div class="quick-view" data-quick-view hidden></div>
-<script src="${u(`assets/js/site.js${v}`)}" data-root="${u('')}" data-preview="${mode.preview ? '1' : ''}" defer></script>`;
+<script src="${u(`assets/js/site.js${v}`)}" data-root="${root}" data-preview="${mode.preview ? '1' : ''}" defer></script>`;
 
   // The preview's root page is wrapped in a document skeleton by the host.
   if (bare) return `${head}\n<a class="skip" href="#main">跳到正文</a>\n${content}\n`;

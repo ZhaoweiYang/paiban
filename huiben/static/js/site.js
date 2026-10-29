@@ -6,6 +6,9 @@
   const PREVIEW = script.dataset.preview === '1';
   const page = (path) => ROOT + path + (PREVIEW && (path === '' || path.endsWith('/')) ? 'index.html' : '');
 
+  // Read before the catalogue rewrites the address bar for its filters.
+  const bookFromHash = location.hash.startsWith('#b-') ? location.hash.slice(3) : '';
+
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
   // In the preview, query strings may not survive navigation, so state travels in the hash.
@@ -243,6 +246,6 @@
         else if (!e.shiftKey && document.activeElement === last) (e.preventDefault(), first.focus());
       }
     });
-    if (location.hash.startsWith('#b-')) open(location.hash.slice(3));
+    if (bookFromHash) open(bookFromHash);
   }
 })();
