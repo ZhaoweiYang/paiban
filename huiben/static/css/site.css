@@ -209,6 +209,7 @@ p { margin: 0; }
 .spine::after { bottom: 1.55rem; }
 .spine:hover, .spine:focus-visible { transform: translateY(-10px); }
 .spine-title { writing-mode: vertical-rl; font-family: var(--font-display); font-weight: 700; font-size: 0.95rem; letter-spacing: 0.12em; line-height: 1; height: calc(var(--h) - 3.6rem); flex: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 0.35rem; }
+.spine-title .tcy { text-combine-upright: all; letter-spacing: 0; }
 .spine-mark { font-family: var(--font-mono); font-size: 0.625rem; letter-spacing: 0.04em; opacity: 0.85; }
 .ink-0 { --spine: var(--ink-0); --spine-t: var(--ink-0-t); }
 .ink-1 { --spine: var(--ink-1); --spine-t: var(--ink-1-t); }

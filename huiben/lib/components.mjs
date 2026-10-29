@@ -36,6 +36,11 @@ export function bookCard(u, b, { headingLevel = 3 } = {}) {
 export const bookGrid = (u, books, opts) =>
   `<div class="grid">${books.map((b) => bookCard(u, b, opts)).join('\n')}</div>`;
 
+// In vertical text, runs of up to three digits sit upright side by side (纵中横) instead of
+// lying on their side.
+const verticalText = (title) =>
+  esc(title).replace(/(?<![0-9])[0-9]{1,3}(?![0-9])/g, (d) => `<span class="tcy">${d}</span>`);
+
 // Spine colours cycle through the risograph inks defined in site.css (.ink-0 … .ink-7).
 export function spine(u, b) {
   const h = hash(b.id);
@@ -43,7 +48,7 @@ export function spine(u, b) {
   const height = 150 + (h % 6) * 11 + Math.min(len, 9) * 3;
   const width = 34 + (len > 8 ? 8 : len > 5 ? 4 : 0) + ((h >> 4) % 3) * 3;
   return `<a class="spine ink-${h % 8}" href="${bookHref(u, b)}" data-book="${esc(b.id)}" style="--h:${height}px;--w:${width}px" title="${esc(`${b.titleZh} · ${b.countryName} ${b.year}`)}">
-  <span class="spine-title">${esc(b.titleZh)}</span>
+  <span class="spine-title">${verticalText(b.titleZh)}</span>
   <span class="spine-mark">${esc(b.country)}</span>
 </a>`;
 }
