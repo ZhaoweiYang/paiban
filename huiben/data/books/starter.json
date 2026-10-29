@@ -1,0 +1,302 @@
+[
+  {
+    "id": "very-hungry-caterpillar",
+    "titleZh": "好饿的毛毛虫",
+    "titleOriginal": "The Very Hungry Caterpillar",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Eric Carle",
+        "nameZh": "艾瑞·卡尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1969,
+    "ageMin": 1,
+    "ageMax": 5,
+    "functions": [
+      "cognition",
+      "nature"
+    ],
+    "keywords": [
+      "数数",
+      "星期",
+      "毛毛虫变蝴蝶"
+    ],
+    "summary": "一条小毛毛虫从星期一吃到星期天，越吃越多，最后结成茧，变成一只美丽的蝴蝶。书页上的洞洞和逐渐变宽的页面，让孩子在游戏中认识数字、星期和食物。",
+    "tip": "读到每一天时和孩子一起数水果，再让孩子用手指穿过书页上的小洞。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "where-the-wild-things-are",
+    "titleZh": "野兽国",
+    "titleOriginal": "Where the Wild Things Are",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Maurice Sendak",
+        "nameZh": "莫里斯·桑达克",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1963,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "emotion",
+      "imagination"
+    ],
+    "keywords": [
+      "生气",
+      "想象",
+      "妈妈的爱"
+    ],
+    "summary": "调皮的麦克斯被罚不准吃晚饭，他的房间长出了森林，他航行到野兽国当上了国王。故事让孩子看见自己的怒气，也感受到无论怎样都有人在家等着自己。",
+    "tip": "读到野兽狂欢那几页不要念字，和孩子一起做鬼脸、跺脚，把情绪“演”出来。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1964
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "guri-to-gura",
+    "titleZh": "古利和古拉",
+    "titleOriginal": "ぐりとぐら",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "中川李枝子",
+        "nameZh": "中川李枝子",
+        "role": "文"
+      },
+      {
+        "name": "大村百合子",
+        "nameZh": "大村百合子",
+        "role": "图"
+      }
+    ],
+    "country": "JP",
+    "language": "ja",
+    "year": 1963,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "friendship",
+      "humor"
+    ],
+    "keywords": [
+      "分享",
+      "做蛋糕",
+      "森林"
+    ],
+    "summary": "两只小野鼠在森林里捡到一个大鸡蛋，决定做一个大大的蛋糕，香味引来了森林里所有的动物。简单温暖的故事传递了合作与分享的快乐。",
+    "tip": "读完可以和孩子一起做一次松饼，边做边唱书里古利和古拉的歌。",
+    "classic": true
+  },
+  {
+    "id": "tuan-yuan",
+    "titleZh": "团圆",
+    "titleOriginal": "团圆",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "余丽琼",
+        "nameZh": "余丽琼",
+        "role": "文"
+      },
+      {
+        "name": "朱成梁",
+        "nameZh": "朱成梁",
+        "role": "图"
+      }
+    ],
+    "country": "CN",
+    "language": "zh",
+    "year": 2008,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "family",
+      "culture"
+    ],
+    "keywords": [
+      "春节",
+      "爸爸",
+      "好运硬币"
+    ],
+    "summary": "在外地工作的爸爸过年回家，毛毛和爸爸一起理发、包汤圆、舞龙，还找到了包着好运的硬币。浓浓的年味里，是留守儿童对父亲的思念和团聚的珍贵。",
+    "tip": "春节前后读最合适，可以聊聊家里过年的习俗，一起包一次汤圆。",
+    "awards": [
+      {
+        "name": "丰子恺儿童图画书奖",
+        "year": 2009
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "goodnight-moon",
+    "titleZh": "晚安，月亮",
+    "titleOriginal": "Goodnight Moon",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Margaret Wise Brown",
+        "nameZh": "玛格丽特·怀兹·布朗",
+        "role": "文"
+      },
+      {
+        "name": "Clement Hurd",
+        "nameZh": "克雷门·赫德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1947,
+    "ageMin": 0,
+    "ageMax": 4,
+    "functions": [
+      "bedtime",
+      "language"
+    ],
+    "keywords": [
+      "睡前",
+      "道晚安",
+      "重复句式"
+    ],
+    "summary": "小兔子躺在床上，向房间里的每样东西一一道晚安。画面随着夜色慢慢变暗，韵律舒缓重复，是帮助孩子平静入睡的经典睡前书。",
+    "tip": "读完后学着小兔子，和孩子一起向房间里的物品挨个说晚安，再关灯。",
+    "classic": true
+  },
+  {
+    "id": "ente-tod-und-tulpe",
+    "titleZh": "当鸭子遇见死神",
+    "titleOriginal": "Ente, Tod und Tulpe",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Wolf Erlbruch",
+        "nameZh": "沃尔夫·埃布鲁赫",
+        "role": "文/图"
+      }
+    ],
+    "country": "DE",
+    "language": "de",
+    "year": 2007,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "life",
+      "art"
+    ],
+    "keywords": [
+      "死亡",
+      "陪伴",
+      "生命"
+    ],
+    "summary": "鸭子发现死神一直跟在自己身边，它们一起游泳、爬树、聊天，慢慢成了朋友。作者以平静温柔的笔触谈论死亡，帮助孩子和大人一起面对生命的终点。",
+    "tip": "不必急着解释“死亡”，读完先听孩子怎么想，再分享你自己的感受。",
+    "classic": true
+  },
+  {
+    "id": "the-arrival",
+    "titleZh": "抵岸",
+    "titleOriginal": "The Arrival",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Shaun Tan",
+        "nameZh": "陈志勇",
+        "role": "文/图"
+      }
+    ],
+    "country": "AU",
+    "language": "en",
+    "year": 2006,
+    "ageMin": 10,
+    "ageMax": 12,
+    "functions": [
+      "art",
+      "diversity",
+      "culture"
+    ],
+    "keywords": [
+      "移民",
+      "无字书",
+      "家园"
+    ],
+    "summary": "一位父亲告别妻女，独自漂洋过海到一个陌生国度谋生。全书没有一个字，用细腻的铅笔画讲述移民的孤独、困惑和希望，适合大孩子和成人反复品读。",
+    "tip": "和孩子一页页慢慢看图，请孩子当讲述者，说说主人公此刻在想什么。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "oh-no-george",
+    "titleZh": "哦，不，乔治！",
+    "titleOriginal": "Oh No, George!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Chris Haughton",
+        "nameZh": "克里斯·霍顿",
+        "role": "文/图"
+      }
+    ],
+    "country": "IE",
+    "language": "en",
+    "year": 2012,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "character",
+      "humor"
+    ],
+    "keywords": [
+      "自控力",
+      "小狗",
+      "诱惑"
+    ],
+    "summary": "主人出门前，小狗乔治答应要乖乖的，可是蛋糕、猫咪和花坛的诱惑实在太大了。幽默的故事让孩子在笑声中体会自我控制和承担后果。",
+    "tip": "每当乔治面对诱惑时停下来，问孩子“乔治会怎么做？你会怎么做？”。",
+    "classic": false
+  },
+  {
+    "id": "wo-bian-cheng-yi-zhi-pen-huo-long-le",
+    "titleZh": "我变成一只喷火龙了！",
+    "titleOriginal": "我變成一隻噴火龍了！",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "賴馬",
+        "nameZh": "赖马",
+        "role": "文/图"
+      }
+    ],
+    "country": "TW",
+    "language": "zh",
+    "year": 2007,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "emotion",
+      "humor"
+    ],
+    "keywords": [
+      "生气",
+      "控制情绪",
+      "喷火龙"
+    ],
+    "summary": "阿古力被蚊子咬了以后，一生气就会喷火，结果烧坏了东西，也让朋友们躲开了他。幽默夸张的故事帮助孩子认识愤怒的后果，学习排解坏情绪。",
+    "tip": "问问孩子：你生气的时候身体哪里会“发热”？一起想几个让火熄灭的办法。",
+    "classic": true
+  }
+]

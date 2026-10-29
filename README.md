@@ -59,3 +59,9 @@ npm run export:cloudflare   # same, zipped to exports/shiftkumo-cloudflare-pages
    links, hreflang, the sitemap and Open Graph tags.
 4. **Mailbox** — create `support@shiftkumo.com`; it is the single contact address used across
    the site.
+
+## Other projects in this repository
+
+`huiben/` holds a separate static site, 世界绘本大全 (a catalogue of children's picture books from
+around the world, classified by reading age and purpose). It has its own build and data and does
+not affect this site; see `huiben/README.md`.
