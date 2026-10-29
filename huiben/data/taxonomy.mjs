@@ -212,6 +212,10 @@ export const COUNTRIES = {
 export const AWARDS = [
   { name: '凯迪克金奖', original: 'Caldecott Medal', country: 'US', desc: '美国图书馆协会每年颁给上一年度在美国出版的最杰出绘本的插画者，1938 年设立，被视为绘本界最重要的奖项之一。' },
   { name: '凯迪克银奖', original: 'Caldecott Honor', country: 'US', desc: '凯迪克奖的荣誉奖，与金奖同时评出，每年数本。' },
+  { name: '纽伯瑞金奖', original: 'Newbery Medal', country: 'US', desc: '美国图书馆协会颁给上一年度最杰出美国儿童文学作品作者的奖项，1922 年设立，偶有绘本获奖。' },
+  { name: '纽伯瑞银奖', original: 'Newbery Honor', country: 'US', desc: '纽伯瑞奖的荣誉奖。' },
+  { name: '西伯特奖', original: 'Robert F. Sibert Informational Book Medal', country: 'US', desc: '美国图书馆协会颁给最杰出儿童知识类图书的奖项。' },
+  { name: '美国国家图书奖', original: 'National Book Award', country: 'US', desc: '美国最重要的文学奖之一，1980 年代初曾设绘本类。' },
   { name: '苏斯博士奖', original: 'Theodor Seuss Geisel Award', country: 'US', desc: '美国图书馆协会颁给最适合初学阅读儿童的英文图书，含金奖与荣誉奖。' },
   { name: '苏斯博士奖银奖', original: 'Theodor Seuss Geisel Honor', country: 'US', desc: '苏斯博士奖的荣誉奖。' },
   { name: '科丽塔·斯科特·金奖', original: 'Coretta Scott King Award', country: 'US', desc: '表彰非裔美国作家和插画家的杰出儿童作品（含插画奖与荣誉奖）。' },

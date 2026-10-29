@@ -1,0 +1,4312 @@
+[
+  {
+    "id": "goodnight-moon",
+    "titleZh": "晚安，月亮",
+    "titleOriginal": "Goodnight Moon",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Margaret Wise Brown",
+        "nameZh": "玛格丽特·怀兹·布朗",
+        "role": "文"
+      },
+      {
+        "name": "Clement Hurd",
+        "nameZh": "克雷门·赫德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1947,
+    "ageMin": 0,
+    "ageMax": 3,
+    "functions": [
+      "bedtime",
+      "language"
+    ],
+    "keywords": [
+      "睡前",
+      "道晚安",
+      "押韵",
+      "房间"
+    ],
+    "summary": "小兔子躺在绿色的大房间里，向月亮、小熊、手套、梳子……逐一道晚安。画面随着夜色渐渐变暗，句子短小押韵、节奏轻柔，帮助宝宝建立固定的睡前仪式，在熟悉的告别中安心入睡。",
+    "tip": "每读一页，和宝宝一起找出画面里那只小老鼠；读完再对孩子房间里的物品挨个说晚安。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "the-runaway-bunny",
+    "titleZh": "逃家小兔",
+    "titleOriginal": "The Runaway Bunny",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Margaret Wise Brown",
+        "nameZh": "玛格丽特·怀兹·布朗",
+        "role": "文"
+      },
+      {
+        "name": "Clement Hurd",
+        "nameZh": "克雷门·赫德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1942,
+    "ageMin": 1,
+    "ageMax": 5,
+    "functions": [
+      "family",
+      "bedtime"
+    ],
+    "keywords": [
+      "母爱",
+      "安全感",
+      "想象游戏",
+      "睡前"
+    ],
+    "summary": "小兔子说要离家出走，变成小鱼、石头、小鸟……兔妈妈总能想出办法找到它。一问一答的游戏式对话，让孩子一次次确认“无论跑到哪里，妈妈都在”，是帮助孩子建立安全感的经典之作。",
+    "tip": "读到小兔子说要变成什么时先停一下，让孩子猜猜妈妈会变成什么去找它。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "where-the-wild-things-are",
+    "titleZh": "野兽国",
+    "titleOriginal": "Where the Wild Things Are",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Maurice Sendak",
+        "nameZh": "莫里斯·桑达克",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1963,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "emotion",
+      "imagination",
+      "art"
+    ],
+    "keywords": [
+      "生气",
+      "想象",
+      "野兽",
+      "回家"
+    ],
+    "summary": "穿着狼装的麦克斯因为调皮被罚回房间，房间里却长出了森林，他乘船来到野兽国当上了国王。故事让孩子在想象中释放愤怒和野性，再安心地回到有爱的家，是理解情绪的经典绘本。",
+    "tip": "读到“野兽大闹”的三个无字跨页时，和孩子一起跺脚吼叫，再一起慢慢安静下来。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1964
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-cat-in-the-hat",
+    "titleZh": "戴高帽子的猫",
+    "titleOriginal": "The Cat in the Hat",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Dr. Seuss",
+        "nameZh": "苏斯博士",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1957,
+    "ageMin": 4,
+    "ageMax": 7,
+    "functions": [
+      "language",
+      "humor"
+    ],
+    "keywords": [
+      "押韵",
+      "自主阅读",
+      "下雨天",
+      "规则"
+    ],
+    "summary": "下雨天妈妈不在家，一只戴高帽子的猫闯进来，带着两个小帮手把屋子闹得天翻地覆。原书只用两百多个基础英文词写成，押韵明快、情节疯狂，读来笑声不断，也引出“该不该告诉妈妈”的思考。",
+    "tip": "读完问孩子：如果你是书里的小哥哥，会不会把今天的事告诉妈妈？为什么？",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "green-eggs-and-ham",
+    "titleZh": "绿鸡蛋和火腿",
+    "titleOriginal": "Green Eggs and Ham",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Dr. Seuss",
+        "nameZh": "苏斯博士",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1960,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "language",
+      "habits",
+      "humor"
+    ],
+    "keywords": [
+      "挑食",
+      "尝试新事物",
+      "押韵",
+      "重复句式"
+    ],
+    "summary": "山姆一路追着“我”推销绿鸡蛋和火腿：在盒子里吃、和狐狸一起吃、在火车上吃……“我”一次次拒绝。层层叠加的句子节奏感极强，也幽默地鼓励孩子：没尝过的东西，不妨先试一口。",
+    "tip": "在餐桌上准备一样孩子没吃过的食物，学书里的句子邀请他“就尝一口”。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "horton-hears-a-who",
+    "titleZh": "霍顿听见了呼呼的声音",
+    "titleOriginal": "Horton Hears a Who!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Dr. Seuss",
+        "nameZh": "苏斯博士",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1954,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "diversity",
+      "character"
+    ],
+    "keywords": [
+      "尊重",
+      "弱小",
+      "坚持",
+      "保护"
+    ],
+    "summary": "大象霍顿听见一粒灰尘上传来微弱的呼救，原来上面住着一整座小城的“呼呼人”。别人都嘲笑他，霍顿却坚持“人再小也是人”。故事让孩子懂得尊重每一个微小的生命，也学会坚持正确的事。",
+    "tip": "读完让孩子用放大镜观察一片树叶或一粒沙，想象上面也有一个小小的世界。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-very-hungry-caterpillar",
+    "titleZh": "好饿的毛毛虫",
+    "titleOriginal": "The Very Hungry Caterpillar",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Eric Carle",
+        "nameZh": "艾瑞·卡尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1969,
+    "ageMin": 1,
+    "ageMax": 5,
+    "functions": [
+      "cognition",
+      "nature"
+    ],
+    "keywords": [
+      "数数",
+      "星期",
+      "食物",
+      "昆虫成长"
+    ],
+    "summary": "一条小毛毛虫从星期一吃到星期天，啃穿了一个又一个水果，越吃越饿。书页上的小洞和逐页变宽的设计，让孩子在翻页、数数中认识星期、数字和食物，并初步了解昆虫的成长变化。",
+    "tip": "读到每一天时和孩子一起数水果，再让他用手指穿过书页上的小洞。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "brown-bear-brown-bear-what-do-you-see",
+    "titleZh": "棕色的熊、棕色的熊，你在看什么？",
+    "titleOriginal": "Brown Bear, Brown Bear, What Do You See?",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Bill Martin Jr.",
+        "nameZh": "比尔·马丁",
+        "role": "文"
+      },
+      {
+        "name": "Eric Carle",
+        "nameZh": "艾瑞·卡尔",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1967,
+    "ageMin": 0,
+    "ageMax": 3,
+    "functions": [
+      "language",
+      "cognition"
+    ],
+    "keywords": [
+      "颜色",
+      "动物",
+      "重复句式",
+      "问答"
+    ],
+    "summary": "“棕色的熊，你在看什么？”“我看见一只红色的鸟在看我。”一问一答的句式不断重复，引出一只只不同颜色的动物。节奏像儿歌一样，宝宝很快就能接着念，同时认识颜色和动物。",
+    "tip": "翻页前先停顿，让孩子抢答下一种动物；熟悉后把动物换成家里人，编出新句子。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "papa-please-get-the-moon-for-me",
+    "titleZh": "爸爸，我要月亮",
+    "titleOriginal": "Papa, Please Get the Moon for Me",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Eric Carle",
+        "nameZh": "艾瑞·卡尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1986,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "family",
+      "nature",
+      "imagination"
+    ],
+    "keywords": [
+      "父爱",
+      "月亮",
+      "月相",
+      "折页"
+    ],
+    "summary": "小莫妮卡想和月亮玩，爸爸扛来一架长长的梯子，爬上高山去摘月亮。可以向上、向两侧展开的大折页呈现月亮的大小变化，既是一个温暖的父爱故事，也让孩子直观感受月亮的阴晴圆缺。",
+    "tip": "连续几个晚上和孩子一起看月亮，画下它的形状，再和书里的月亮对比。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "from-head-to-toe",
+    "titleZh": "从头动到脚",
+    "titleOriginal": "From Head to Toe",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Eric Carle",
+        "nameZh": "艾瑞·卡尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1997,
+    "ageMin": 1,
+    "ageMax": 4,
+    "functions": [
+      "cognition",
+      "humor"
+    ],
+    "keywords": [
+      "身体部位",
+      "动物",
+      "运动",
+      "模仿"
+    ],
+    "summary": "企鹅转头、长颈鹿弯脖子、大猩猩捶胸……每种动物都问一句“你会吗？”孩子回答“我会！”并跟着做。书把认识身体部位和大运动游戏结合起来，边读边动，特别适合精力旺盛的小宝宝。",
+    "tip": "让孩子站着听，每读一页就一起模仿动物的动作，并大声回答“我会！”",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "frederick",
+    "titleZh": "田鼠阿佛",
+    "titleOriginal": "Frederick",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Leo Lionni",
+        "nameZh": "李欧·李奥尼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1967,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "self",
+      "art"
+    ],
+    "keywords": [
+      "诗意",
+      "与众不同",
+      "艺术的价值",
+      "冬天"
+    ],
+    "summary": "别的田鼠忙着为过冬储存粮食，阿佛却在收集阳光、颜色和词语。漫长的冬天里，它的“储藏”派上了意想不到的用场。故事肯定了艺术与精神的价值，也让孩子明白每个人都有独特的贡献。",
+    "tip": "和孩子一起闭上眼睛，像阿佛一样“收集”今天看到的颜色和听到的声音，再说给对方听。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1968
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "swimmy",
+    "titleZh": "小黑鱼",
+    "titleOriginal": "Swimmy",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Leo Lionni",
+        "nameZh": "李欧·李奥尼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1963,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "friendship",
+      "character",
+      "art"
+    ],
+    "keywords": [
+      "合作",
+      "勇气",
+      "团结",
+      "大海"
+    ],
+    "summary": "一群小红鱼里只有小黑鱼是黑色的。伙伴们被大鱼吞掉后，它独自游过奇妙的海底世界，又想办法带领新伙伴对抗大鱼。水彩拓印的海洋美不胜收，故事讲述了团结合作和发挥自身特点的力量。",
+    "tip": "读到小红鱼们躲在岩石后不敢出来时停一下，问孩子：小黑鱼会想出什么办法？",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1964
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "little-blue-and-little-yellow",
+    "titleZh": "小蓝和小黄",
+    "titleOriginal": "Little Blue and Little Yellow",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Leo Lionni",
+        "nameZh": "李欧·李奥尼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1959,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "cognition",
+      "friendship",
+      "art"
+    ],
+    "keywords": [
+      "颜色",
+      "混色",
+      "友谊",
+      "抽象画"
+    ],
+    "summary": "小蓝和小黄是最好的朋友，一次紧紧拥抱后，它们变成了绿色，连爸爸妈妈都认不出来了。作者只用简单的撕纸色块，就讲出一个关于友谊和身份的故事，孩子还能直观地看到颜色混合的奇妙。",
+    "tip": "准备蓝色和黄色的水彩，让孩子在纸上把两种颜色叠在一起，亲眼看看会变出什么。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "frog-and-toad-are-friends",
+    "titleZh": "青蛙和蟾蜍——好朋友",
+    "titleOriginal": "Frog and Toad Are Friends",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Arnold Lobel",
+        "nameZh": "艾诺·洛贝尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1970,
+    "ageMin": 5,
+    "ageMax": 8,
+    "functions": [
+      "friendship",
+      "humor"
+    ],
+    "keywords": [
+      "友谊",
+      "桥梁书",
+      "陪伴",
+      "短篇故事"
+    ],
+    "summary": "五个小故事讲述青蛙和蟾蜍的日常：叫醒冬眠的朋友、寻找丢失的扣子、等一封信……两人性格不同却彼此体贴。文字浅显、篇幅适中，是孩子从绘本走向独立阅读的经典桥梁书。",
+    "tip": "每晚读一个小故事，读到《信》时请孩子给好朋友写一封短信或画一张卡片。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1971
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "fables",
+    "titleZh": "洛贝尔寓言集",
+    "titleOriginal": "Fables",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Arnold Lobel",
+        "nameZh": "艾诺·洛贝尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1980,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "character",
+      "humor"
+    ],
+    "keywords": [
+      "寓言",
+      "哲理",
+      "动物故事",
+      "幽默"
+    ],
+    "summary": "二十则原创寓言，主角是鳄鱼、狮子、老鼠、鸭子等各种动物，每则一页文字配一幅图，结尾各有一句耐人寻味的寓意。故事幽默简短，适合引导孩子思考人性与处世的道理。",
+    "tip": "先读故事、遮住最后一句寓意，请孩子自己总结道理，再和原文对照。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1981
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "make-way-for-ducklings",
+    "titleZh": "让路给小鸭子",
+    "titleOriginal": "Make Way for Ducklings",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Robert McCloskey",
+        "nameZh": "罗伯特·麦克洛斯基",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1941,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "family",
+      "nature",
+      "safety"
+    ],
+    "keywords": [
+      "交通安全",
+      "城市",
+      "鸭子",
+      "家庭"
+    ],
+    "summary": "野鸭夫妇在波士顿寻找安家之处，孵出八只小鸭后，鸭妈妈要带孩子们穿过车水马龙的街道去公园，警察叔叔帮它们拦下了车流。故事温馨幽默，也自然地带出过马路守规则、向警察求助等安全常识。",
+    "tip": "读完带孩子到路口看红绿灯，练习“停、看、走”，像小鸭子一样排好队过马路。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1942
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-little-house",
+    "titleZh": "小房子",
+    "titleOriginal": "The Little House",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Virginia Lee Burton",
+        "nameZh": "维吉尼亚·李·伯顿",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1942,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "life",
+      "nature",
+      "art"
+    ],
+    "keywords": [
+      "城市化",
+      "四季",
+      "时间",
+      "变迁"
+    ],
+    "summary": "乡间山丘上的小房子看着日出日落、四季轮回，后来道路、高楼和地铁一点点包围了它。同一构图里展现了几十年的变迁，让孩子感受时间的流逝、城市的发展，以及人们对宁静自然的珍惜。",
+    "tip": "翻页时请孩子留意小房子周围多了什么，用手指数一数路灯、汽车和楼房的变化。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1943
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-snowy-day",
+    "titleZh": "下雪天",
+    "titleOriginal": "The Snowy Day",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ezra Jack Keats",
+        "nameZh": "艾兹拉·杰克·季兹",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1962,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "nature",
+      "diversity",
+      "art"
+    ],
+    "keywords": [
+      "下雪",
+      "冬天",
+      "探索",
+      "拼贴画"
+    ],
+    "summary": "小男孩彼得醒来发现下雪了，他在雪地上踩脚印、用树枝敲落树上的雪、躺下做雪天使。拼贴画朴素明亮，捕捉了孩子初见大雪的纯粹喜悦；它也是首部以非裔孩子为主角获得凯迪克金奖的绘本。",
+    "tip": "下雪天照着书里的样子，和孩子一起踩出不同的脚印、做雪天使，回家后画下今天的雪地。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1963
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "peters-chair",
+    "titleZh": "彼得的椅子",
+    "titleOriginal": "Peter's Chair",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ezra Jack Keats",
+        "nameZh": "艾兹拉·杰克·季兹",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1967,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "family",
+      "emotion"
+    ],
+    "keywords": [
+      "二胎",
+      "嫉妒",
+      "长大",
+      "分享"
+    ],
+    "summary": "家里有了小妹妹，彼得用过的摇篮、高脚椅都被刷成粉红色给了妹妹。他决定带着自己的小蓝椅离家出走……故事细腻地呈现了大孩子迎接弟弟妹妹时的失落，并帮助他们接受自己正在长大。",
+    "tip": "翻出孩子小时候的衣服或鞋子比一比，让他看到自己长大了，可以为弟弟妹妹做些什么。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "curious-george",
+    "titleZh": "好奇的乔治",
+    "titleOriginal": "Curious George",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "H. A. Rey",
+        "nameZh": "H·A·雷",
+        "role": "文/图"
+      },
+      {
+        "name": "Margret Rey",
+        "nameZh": "玛格丽特·雷",
+        "role": "文"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1941,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "imagination"
+    ],
+    "keywords": [
+      "好奇心",
+      "小猴子",
+      "闯祸",
+      "冒险"
+    ],
+    "summary": "非洲丛林里的小猴子乔治被戴黄帽子的叔叔带到大城市，它对什么都好奇：学着打电话、抓住一大把气球……每次好奇都闯出一串麻烦。轻快幽默的故事肯定了孩子的好奇心，也让他们看到冒失行动的后果。",
+    "tip": "每当乔治准备“试一试”时停下，请孩子预测会发生什么，乔治怎样做才安全。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "corduroy",
+    "titleZh": "小熊可可",
+    "titleOriginal": "Corduroy",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Don Freeman",
+        "nameZh": "唐·弗里曼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1968,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "friendship",
+      "family"
+    ],
+    "keywords": [
+      "玩具熊",
+      "陪伴",
+      "被接纳",
+      "百货商店"
+    ],
+    "summary": "百货商店里的玩具熊可可背带上少了一颗纽扣，一直没人买。夜里它独自在商店里寻找纽扣，展开一场小冒险，而一个小女孩早已看中了它。故事温柔地告诉孩子：真正的朋友会接纳你本来的样子。",
+    "tip": "读完请孩子挑一件心爱的旧玩具，说说它有哪些“不完美”，以及为什么依然喜欢它。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "harold-and-the-purple-crayon",
+    "titleZh": "阿罗有支彩色笔",
+    "titleOriginal": "Harold and the Purple Crayon",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Crockett Johnson",
+        "nameZh": "克罗格特·约翰逊",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1955,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "imagination",
+      "art"
+    ],
+    "keywords": [
+      "画画",
+      "想象力",
+      "解决问题",
+      "冒险"
+    ],
+    "summary": "一天晚上，阿罗想去月光下散步，于是拿起一支紫色蜡笔，画出月亮、小路、大海和小船，在自己画的世界里冒险，遇到麻烦也靠画笔化解。简洁的线条展现了想象力的无穷可能，鼓励孩子用画画表达和创造。",
+    "tip": "准备一张长长的纸和一支彩笔，让孩子接着阿罗的路线，画出一段自己的冒险。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "madeline",
+    "titleZh": "玛德琳",
+    "titleOriginal": "Madeline",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ludwig Bemelmans",
+        "nameZh": "路德维希·贝梅尔曼斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1939,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "self",
+      "culture"
+    ],
+    "keywords": [
+      "勇敢",
+      "巴黎",
+      "住院",
+      "寄宿学校"
+    ],
+    "summary": "巴黎一所寄宿学校里，十二个小女孩排成两列生活，最小的玛德琳最勇敢，不怕老鼠也不怕动物园里的老虎。一天夜里她突然肚子痛被送进医院……韵文轻快，巴黎街景如画，帮助孩子从容面对生病和住院。",
+    "tip": "读时让孩子数数每页是不是十二个小女孩，再在图中找埃菲尔铁塔、圣母院等巴黎地标。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1940
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-giving-tree",
+    "titleZh": "爱心树",
+    "titleOriginal": "The Giving Tree",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Shel Silverstein",
+        "nameZh": "谢尔·希尔弗斯坦",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1964,
+    "ageMin": 4,
+    "ageMax": 12,
+    "functions": [
+      "family",
+      "life",
+      "character"
+    ],
+    "keywords": [
+      "给予",
+      "爱",
+      "成长",
+      "索取"
+    ],
+    "summary": "一棵苹果树深爱着一个男孩，从他小时候陪他玩耍，到他长大后把果实、枝干和树身都给了他。简洁的线条讲出一个关于给予与索取的故事，不同年龄读会有不同的感受，适合引发关于爱与感恩的思考。",
+    "tip": "读完请孩子分别站在树和男孩的角度，各说一句想对对方说的话。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "the-missing-piece",
+    "titleZh": "失落的一角",
+    "titleOriginal": "The Missing Piece",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Shel Silverstein",
+        "nameZh": "谢尔·希尔弗斯坦",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1976,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "self",
+      "life"
+    ],
+    "keywords": [
+      "寻找",
+      "完整",
+      "自我",
+      "哲思"
+    ],
+    "summary": "一个缺了一角的圆，一边唱歌一边滚动着去寻找它失落的那一角。一路上它晒太阳、和小虫聊天、试了许多不合适的碎片……极简的线条承载了关于完美与自我的哲思，孩子读到故事，大人读到人生。",
+    "tip": "读完问孩子：如果你是那个圆，会选择继续寻找还是停下来？为什么？",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "where-the-sidewalk-ends",
+    "titleZh": "人行道的尽头",
+    "titleOriginal": "Where the Sidewalk Ends",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Shel Silverstein",
+        "nameZh": "谢尔·希尔弗斯坦",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1974,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "language",
+      "humor",
+      "imagination"
+    ],
+    "keywords": [
+      "童诗",
+      "幽默",
+      "想象",
+      "朗读"
+    ],
+    "summary": "一百多首配着黑白线描的童诗：不肯倒垃圾的女孩、千奇百怪的发明、通往人行道尽头的神秘地方……既荒诞好笑又藏着智慧。适合大声朗读，让孩子感受诗歌的节奏和语言的趣味。",
+    "tip": "每晚挑一首诗大声朗读，鼓励孩子模仿着写一首关于自己的“怪诗”。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "jumanji",
+    "titleZh": "勇敢者的游戏",
+    "titleOriginal": "Jumanji",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Chris Van Allsburg",
+        "nameZh": "克里斯·范·奥尔斯伯格",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1981,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "imagination",
+      "art"
+    ],
+    "keywords": [
+      "棋盘游戏",
+      "冒险",
+      "规则",
+      "黑白素描"
+    ],
+    "summary": "无聊的兄妹俩在公园捡到一盒棋盘游戏，掷出骰子后，狮子、猴群、暴雨竟真的出现在家里。逼真的炭笔素描营造出紧张的悬疑感，故事刺激想象，也让孩子体会“开始了就要遵守规则、坚持到底”。",
+    "tip": "读完和孩子设计一个自己的棋盘游戏，写下格子里的“魔法事件”和必须遵守的规则。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1982
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "the-polar-express",
+    "titleZh": "极地特快",
+    "titleOriginal": "The Polar Express",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Chris Van Allsburg",
+        "nameZh": "克里斯·范·奥尔斯伯格",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1985,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "imagination",
+      "culture",
+      "art"
+    ],
+    "keywords": [
+      "圣诞节",
+      "火车",
+      "相信",
+      "冬夜"
+    ],
+    "summary": "平安夜，一列名叫“极地特快”的火车停在男孩家门口，载着孩子们穿过森林和雪原前往北极去见圣诞老人。朦胧的油画充满冬夜的神秘感，故事守护着孩子的童心与“相信”的力量。",
+    "tip": "圣诞前夜关灯读这本书，读到雪橇铃铛时摇一摇小铃铛，问孩子能不能听见。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1986
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-mysteries-of-harris-burdick",
+    "titleZh": "哈里斯·伯迪克的秘密事件",
+    "titleOriginal": "The Mysteries of Harris Burdick",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Chris Van Allsburg",
+        "nameZh": "克里斯·范·奥尔斯伯格",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1984,
+    "ageMin": 8,
+    "ageMax": 12,
+    "functions": [
+      "imagination",
+      "art",
+      "language"
+    ],
+    "keywords": [
+      "写作启发",
+      "悬疑",
+      "素描",
+      "开放式结局"
+    ],
+    "summary": "据说一位叫哈里斯·伯迪克的人留下十四幅神秘的画，每幅只配一个标题和一句说明，然后就消失了。没有答案的画面充满悬念，是激发孩子想象和写作的经典读本，也适合大人一起读。",
+    "tip": "每次只看一幅画和它的说明，请孩子续写一个小故事，再互相读一读。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "tuesday",
+    "titleZh": "疯狂星期二",
+    "titleOriginal": "Tuesday",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Wiesner",
+        "nameZh": "大卫·威斯纳",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1991,
+    "ageMin": 4,
+    "ageMax": 10,
+    "functions": [
+      "art",
+      "imagination",
+      "humor"
+    ],
+    "keywords": [
+      "无字书",
+      "青蛙",
+      "夜晚",
+      "观察"
+    ],
+    "summary": "星期二晚上八点左右，池塘里的青蛙乘着荷叶飞了起来，穿过小镇、闯进民宅，留下一地谜团。几乎没有文字，全靠细腻的画面推进，幽默又充满悬念，非常适合训练孩子的观察力和讲故事的能力。",
+    "tip": "请孩子当讲述人，看着画面给每一页配旁白，特别留意画面里时钟上的时间。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1992
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-three-pigs",
+    "titleZh": "三只小猪",
+    "titleOriginal": "The Three Pigs",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Wiesner",
+        "nameZh": "大卫·威斯纳",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2001,
+    "ageMin": 5,
+    "ageMax": 10,
+    "functions": [
+      "imagination",
+      "art",
+      "humor"
+    ],
+    "keywords": [
+      "童话改编",
+      "打破框架",
+      "画风",
+      "元叙事"
+    ],
+    "summary": "大野狼刚要吹倒草房子，小猪却被吹出了故事的画框。从此三只小猪在书页之间自由穿梭，还闯进了别的故事，画风也随之变换。作品巧妙地打破“书”的边界，让孩子体会故事是可以被重新创造的。",
+    "tip": "先和孩子复习传统的三只小猪故事，再读这本，一起找找画风发生变化的页面。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2002
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "flotsam",
+    "titleZh": "海底的秘密",
+    "titleOriginal": "Flotsam",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Wiesner",
+        "nameZh": "大卫·威斯纳",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2006,
+    "ageMin": 5,
+    "ageMax": 12,
+    "functions": [
+      "art",
+      "imagination",
+      "nature"
+    ],
+    "keywords": [
+      "无字书",
+      "海洋",
+      "相机",
+      "观察"
+    ],
+    "summary": "热爱观察的男孩在海滩捡到一台被海浪冲上岸的老式水下相机，冲洗出的照片里藏着不可思议的海底世界和一个跨越时空的秘密。无字画面层层嵌套、细节惊人，极能激发孩子的观察力与好奇心。",
+    "tip": "准备一个放大镜，和孩子一起细看照片里的照片，找找每一层画面里藏着谁。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2007
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "strega-nona",
+    "titleZh": "巫婆奶奶",
+    "titleOriginal": "Strega Nona",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Tomie dePaola",
+        "nameZh": "汤米·狄波拉",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1975,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "humor",
+      "character"
+    ],
+    "keywords": [
+      "意大利民间故事",
+      "魔法锅",
+      "遵守约定",
+      "后果"
+    ],
+    "summary": "意大利小镇上的巫婆奶奶有一口会煮面条的魔法锅。帮工大安东偷看了咒语，趁奶奶出门时想向村民露一手，结果闯下大祸。故事改编自民间传说，热闹幽默，让孩子明白不懂装懂、不守约定会带来麻烦。",
+    "tip": "读完让孩子扮演巫婆奶奶，想一想该怎样处罚大安东才最合适，并说说理由。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1976
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "nana-upstairs-and-nana-downstairs",
+    "titleZh": "楼上的外婆和楼下的外婆",
+    "titleOriginal": "Nana Upstairs & Nana Downstairs",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Tomie dePaola",
+        "nameZh": "汤米·狄波拉",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1973,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "life",
+      "family"
+    ],
+    "keywords": [
+      "死亡",
+      "祖辈",
+      "思念",
+      "生命教育"
+    ],
+    "summary": "小汤米每个星期天都去看望楼下的外婆，和住在楼上、卧床不起的老外婆，两位老人给了他满满的爱。后来，他必须面对亲人的离去。作者以自身经历写成，温柔地引导孩子理解衰老与死亡，学会思念。",
+    "tip": "读完翻翻家里的老照片，给孩子讲讲长辈的故事，让他知道爱会一直被记住。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "oliver-button-is-a-sissy",
+    "titleZh": "奥利弗是个娘娘腔",
+    "titleOriginal": "Oliver Button Is a Sissy",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Tomie dePaola",
+        "nameZh": "汤米·狄波拉",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1979,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "diversity",
+      "self"
+    ],
+    "keywords": [
+      "性别刻板印象",
+      "跳舞",
+      "霸凌",
+      "做自己"
+    ],
+    "summary": "奥利弗不爱打球，喜欢读书、画画和跳舞，常被同学嘲笑是“娘娘腔”，学校墙上还被写了难听的话。他依旧坚持学踢踏舞，并报名参加才艺表演。故事帮助孩子打破性别刻板印象，尊重差异、勇敢做自己。",
+    "tip": "读完和孩子列一张“男孩可以/女孩可以”的清单，看看哪些事其实谁都可以做。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "thank-you-mr-falker",
+    "titleZh": "谢谢您，福柯老师",
+    "titleOriginal": "Thank You, Mr. Falker",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Patricia Polacco",
+        "nameZh": "派翠西亚·波拉蔻",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1998,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "school",
+      "self",
+      "character"
+    ],
+    "keywords": [
+      "阅读障碍",
+      "好老师",
+      "被嘲笑",
+      "自信"
+    ],
+    "summary": "小女孩很会画画，可到了五年级还读不懂书上的字，常被同学嘲笑是“笨蛋”。新来的福柯老师看见了她的才华，也发现了她的困境……这是作者童年的真实经历，帮助孩子理解学习困难、建立自信，也懂得感恩师长。",
+    "tip": "读完请孩子说一件自己觉得“很难”的事，再一起想一个每天练习五分钟的小办法。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "pink-and-say",
+    "titleZh": "平克和赛伊",
+    "titleOriginal": "Pink and Say",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Patricia Polacco",
+        "nameZh": "派翠西亚·波拉蔻",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1994,
+    "ageMin": 8,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "friendship",
+      "life"
+    ],
+    "keywords": [
+      "美国内战",
+      "种族",
+      "友谊",
+      "历史"
+    ],
+    "summary": "南北战争中，受伤的白人少年士兵赛伊被黑人少年士兵平克救起，带回家中由平克的母亲照料。两个少年在战火中结下深厚的友谊。这是作者家族代代相传的真实故事，让孩子认识战争、种族与人性的温度。",
+    "tip": "读前在地图上找到美国南方和北方，简单讲讲南北战争和奴隶制的历史背景。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "chrysanthemum",
+    "titleZh": "我的名字克丽桑丝美美菊花",
+    "titleOriginal": "Chrysanthemum",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Kevin Henkes",
+        "nameZh": "凯文·亨克斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1991,
+    "ageMin": 4,
+    "ageMax": 7,
+    "functions": [
+      "self",
+      "school",
+      "diversity"
+    ],
+    "keywords": [
+      "名字",
+      "被嘲笑",
+      "入学",
+      "自信"
+    ],
+    "summary": "小老鼠克丽桑丝美美菊花一直很喜欢自己的名字，可上学第一天，同学们却嘲笑它太长、像一朵花。她开始怀疑自己，直到遇见一位特别的音乐老师。故事帮助孩子面对嘲笑、珍视自己的独特之处。",
+    "tip": "给孩子讲讲他名字的由来和含义，让他把名字写成大字，装饰成一幅画。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "owen",
+    "titleZh": "阿文的小毯子",
+    "titleOriginal": "Owen",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Kevin Henkes",
+        "nameZh": "凯文·亨克斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1993,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "emotion",
+      "school"
+    ],
+    "keywords": [
+      "安抚物",
+      "分离焦虑",
+      "入园",
+      "成长"
+    ],
+    "summary": "小老鼠阿文走到哪儿都带着心爱的黄色小毯子，可邻居太太说，快上学的孩子不该再带毯子了。爸爸妈妈想了各种办法……故事理解孩子对安抚物的依恋，也给出了一种既体贴又有创意的告别方式。",
+    "tip": "如果孩子有离不开的安抚物，读完一起商量一个让它“换种方式陪着你”的办法。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1994
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "lillys-purple-plastic-purse",
+    "titleZh": "莉莉的紫色小包",
+    "titleOriginal": "Lilly's Purple Plastic Purse",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Kevin Henkes",
+        "nameZh": "凯文·亨克斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1996,
+    "ageMin": 4,
+    "ageMax": 7,
+    "functions": [
+      "emotion",
+      "character",
+      "school"
+    ],
+    "keywords": [
+      "冲动",
+      "道歉",
+      "好老师",
+      "学校"
+    ],
+    "summary": "莉莉最崇拜老师，可当老师没收了她心爱的紫色小包，她一气之下画了一张很不友好的画，偷偷塞进老师的包里。冷静下来后她后悔了……故事真实呈现了孩子的冲动与懊悔，教他们如何面对错误、真诚道歉。",
+    "tip": "读完和孩子回忆一次发脾气后后悔的经历，看看莉莉用了哪些方法来弥补。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "kittens-first-full-moon",
+    "titleZh": "小猫咪追月亮",
+    "titleOriginal": "Kitten's First Full Moon",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Kevin Henkes",
+        "nameZh": "凯文·亨克斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2004,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "bedtime",
+      "art",
+      "character"
+    ],
+    "keywords": [
+      "月亮",
+      "坚持",
+      "小猫",
+      "黑白画"
+    ],
+    "summary": "小猫咪第一次看到满月，以为那是天上的一碗牛奶，于是伸舌头舔、往上跳、爬上大树去追……黑白画面简洁有力，语言重复而有节奏，孩子会为小猫的执着着急，又会心一笑，很适合睡前共读。",
+    "tip": "读到小猫每次扑空时，和孩子一起叹气说“可怜的小猫咪”，再猜猜它下一步会怎么做。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2005
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "wemberly-worried",
+    "titleZh": "我好担心",
+    "titleOriginal": "Wemberly Worried",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Kevin Henkes",
+        "nameZh": "凯文·亨克斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2000,
+    "ageMin": 4,
+    "ageMax": 7,
+    "functions": [
+      "emotion",
+      "school"
+    ],
+    "keywords": [
+      "焦虑",
+      "担心",
+      "入学",
+      "交朋友"
+    ],
+    "summary": "有一只小老鼠什么都担心：墙上的裂缝、公园的秋千、晚上的怪声……眼看开学的日子越来越近，她的担心也越来越多。故事细致描绘了焦虑的感受，帮助爱担心的孩子说出不安，也看到新环境里的友谊。",
+    "tip": "和孩子做一个“担心盒子”，把担心的事说出来或画下来放进去，再一起想应对办法。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "dont-let-the-pigeon-drive-the-bus",
+    "titleZh": "别让鸽子开巴士！",
+    "titleOriginal": "Don't Let the Pigeon Drive the Bus!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Mo Willems",
+        "nameZh": "莫·威廉斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2003,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "humor",
+      "emotion",
+      "language"
+    ],
+    "keywords": [
+      "互动",
+      "说不",
+      "耍赖",
+      "幽默"
+    ],
+    "summary": "巴士司机临走前拜托读者：千万别让鸽子开巴士！鸽子随即登场，软磨硬泡、讨价还价，甚至大发脾气。孩子在书里握有说“不”的权力，大声拒绝的同时，也在鸽子身上看到了自己耍赖时的样子。",
+    "tip": "让孩子扮演守护巴士的人，大人扮鸽子不断央求，孩子负责坚定地说“不行！”",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2004
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "knuffle-bunny",
+    "titleZh": "古纳什小兔",
+    "titleOriginal": "Knuffle Bunny: A Cautionary Tale",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Mo Willems",
+        "nameZh": "莫·威廉斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2004,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "family",
+      "language",
+      "humor"
+    ],
+    "keywords": [
+      "表达",
+      "心爱的玩具",
+      "爸爸",
+      "洗衣店"
+    ],
+    "summary": "还不会说话的崔西跟爸爸去洗衣店，回家路上发现心爱的古纳什小兔不见了。她拼命比划、哇哇大哭，爸爸却怎么也听不懂。真实照片配上卡通人物，生动呈现了小宝宝“说不出”的着急，也展现了温暖的父女情。",
+    "tip": "读到小女孩着急比划时，请孩子帮她把想说的话用完整的句子说出来。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2005
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "no-david",
+    "titleZh": "大卫，不可以",
+    "titleOriginal": "No, David!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Shannon",
+        "nameZh": "大卫·香农",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1998,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "habits",
+      "family",
+      "humor"
+    ],
+    "keywords": [
+      "调皮",
+      "规矩",
+      "妈妈的爱",
+      "犯错"
+    ],
+    "summary": "大卫爬高偷糖、光着身子跑上街、在浴缸里发大水……妈妈不停地说“不可以！”孩子在调皮的大卫身上看到自己，哈哈大笑的同时明白了规矩，也感受到被批评之后依然被爱的安全感。",
+    "tip": "读完请孩子当“妈妈”，翻到每一页说出大卫应该怎么做才对。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1999
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "david-goes-to-school",
+    "titleZh": "大卫上学去",
+    "titleOriginal": "David Goes to School",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Shannon",
+        "nameZh": "大卫·香农",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1999,
+    "ageMin": 4,
+    "ageMax": 7,
+    "functions": [
+      "school",
+      "habits"
+    ],
+    "keywords": [
+      "课堂规则",
+      "入学准备",
+      "守纪律",
+      "调皮"
+    ],
+    "summary": "大卫上学了：迟到、嚼口香糖、插队、在课桌上乱画……老师一次次提醒他。夸张又好笑的画面把学校规则一条条展示出来，帮助即将入学的孩子提前了解课堂纪律，也明白犯了错可以主动弥补。",
+    "tip": "入学前一起读，读完和孩子选出三条他觉得最重要的“教室规则”，贴在书桌前。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "a-bad-case-of-stripes",
+    "titleZh": "糟糕，身上长条纹了！",
+    "titleOriginal": "A Bad Case of Stripes",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Shannon",
+        "nameZh": "大卫·香农",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1998,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "self",
+      "diversity"
+    ],
+    "keywords": [
+      "从众",
+      "做自己",
+      "别人的眼光",
+      "想象"
+    ],
+    "summary": "卡米拉其实爱吃利马豆，却因为同学都讨厌而不敢承认。开学第一天她太在意别人的看法，身上竟长出了五颜六色的条纹，而且变得越来越离谱。奇幻夸张的画面背后，是关于做真实自己、不盲目从众的成长主题。",
+    "tip": "读完问孩子：有没有因为怕被笑话，而不敢说出自己喜欢的东西？",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "if-you-give-a-mouse-a-cookie",
+    "titleZh": "要是你给老鼠吃饼干",
+    "titleOriginal": "If You Give a Mouse a Cookie",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Laura Numeroff",
+        "nameZh": "劳拉·乔菲·努梅罗夫",
+        "role": "文"
+      },
+      {
+        "name": "Felicia Bond",
+        "nameZh": "费利西亚·邦德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1985,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "language",
+      "cognition"
+    ],
+    "keywords": [
+      "因果关系",
+      "循环故事",
+      "连锁反应",
+      "预测"
+    ],
+    "summary": "要是你给老鼠吃饼干，它会要一杯牛奶；喝牛奶要吸管，接着还要餐巾、镜子、剪刀……一件事引出另一件事，最后又绕回起点。循环结构让孩子在笑声中理解因果关系，练习预测和复述。",
+    "tip": "读第二遍时，每次翻页前请孩子预测老鼠接下来会要什么。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-napping-house",
+    "titleZh": "打瞌睡的房子",
+    "titleOriginal": "The Napping House",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Audrey Wood",
+        "nameZh": "奥黛莉·伍德",
+        "role": "文"
+      },
+      {
+        "name": "Don Wood",
+        "nameZh": "唐·伍德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1984,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "language",
+      "bedtime",
+      "humor"
+    ],
+    "keywords": [
+      "累积故事",
+      "下雨天",
+      "叠罗汉",
+      "重复句式"
+    ],
+    "summary": "下雨天，房子里的大家都在睡觉：老奶奶、小男孩、小狗、猫咪、老鼠一个接一个叠到床上，直到一只醒着的跳蚤出现……累积式的句子越读越长，画面色调随天气由暗转亮，充满节奏感与惊喜。",
+    "tip": "用毛绒玩具按书里的顺序一个个叠起来，读到跳蚤出场时让孩子来轻轻“咬”一口。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "king-bidgoods-in-the-bathtub",
+    "titleZh": "澡缸里的国王",
+    "titleOriginal": "King Bidgood's in the Bathtub",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Audrey Wood",
+        "nameZh": "奥黛莉·伍德",
+        "role": "文"
+      },
+      {
+        "name": "Don Wood",
+        "nameZh": "唐·伍德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1985,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "habits"
+    ],
+    "keywords": [
+      "洗澡",
+      "宫廷",
+      "幽默",
+      "重复句式"
+    ],
+    "summary": "国王泡在澡缸里死活不肯出来，骑士、王后、公爵和满朝大臣轮番劝说，结果都被拉进澡缸里打仗、吃饭、钓鱼、开舞会。华丽的宫廷画面和重复的问句令人捧腹，特别适合洗澡时不肯出来的孩子。",
+    "tip": "洗澡时把书里的问句变成游戏：“谁能让国王出澡缸？”请孩子想一个新办法。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1986
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "click-clack-moo-cows-that-type",
+    "titleZh": "咔嗒，咔嗒，哞",
+    "titleOriginal": "Click, Clack, Moo: Cows That Type",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Doreen Cronin",
+        "nameZh": "朵琳·克罗宁",
+        "role": "文"
+      },
+      {
+        "name": "Betsy Lewin",
+        "nameZh": "贝西·赖文",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2000,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "humor",
+      "character"
+    ],
+    "keywords": [
+      "谈判",
+      "农场",
+      "打字机",
+      "沟通"
+    ],
+    "summary": "农场的奶牛们找到一台旧打字机，开始给农夫写信：牛棚太冷了，我们要电热毯！要求得不到满足，它们就不产奶了，连母鸡也加入进来……幽默的农场故事展示了用文字沟通、协商解决问题的方式。",
+    "tip": "读完请孩子模仿奶牛给家人写一张“请求书”，写清想要什么，以及愿意做什么交换。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2001
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "diary-of-a-worm",
+    "titleZh": "蚯蚓的日记",
+    "titleOriginal": "Diary of a Worm",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Doreen Cronin",
+        "nameZh": "朵琳·克罗宁",
+        "role": "文"
+      },
+      {
+        "name": "Harry Bliss",
+        "nameZh": "哈利·布里斯",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2003,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "nature",
+      "humor"
+    ],
+    "keywords": [
+      "蚯蚓",
+      "日记",
+      "土壤",
+      "换个视角"
+    ],
+    "summary": "一只小蚯蚓用日记记录自己的生活：上学、挖隧道、躲开小鸟和钓鱼的人、和蜘蛛做好朋友，还吃掉了自己的家庭作业……幽默的日记体让孩子从小动物的视角了解蚯蚓的习性，以及它对土地的贡献。",
+    "tip": "雨后带孩子找一找蚯蚓，回家后学着书里的格式，写一篇小动物日记。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-dot",
+    "titleZh": "点",
+    "titleOriginal": "The Dot",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Peter H. Reynolds",
+        "nameZh": "彼得·雷诺兹",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2003,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "art",
+      "self"
+    ],
+    "keywords": [
+      "美术",
+      "自信",
+      "勇于开始",
+      "老师的鼓励"
+    ],
+    "summary": "小女孩坚信自己不会画画，美术课结束时纸上还是一片空白。老师请她随便画点什么，她生气地在纸上戳了一个点。没想到，这个点引出了一连串变化……故事鼓励孩子敢于开始，相信自己的创造力。",
+    "tip": "给孩子一张白纸，请他先画一个“点”，再试着用不同颜色和大小的点创作一幅画。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-lion-and-the-mouse",
+    "titleZh": "狮子与老鼠",
+    "titleOriginal": "The Lion & the Mouse",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jerry Pinkney",
+        "nameZh": "杰里·平克尼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2009,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "character",
+      "art",
+      "friendship"
+    ],
+    "keywords": [
+      "伊索寓言",
+      "无字书",
+      "报恩",
+      "非洲草原"
+    ],
+    "summary": "伊索寓言的无字改编：狮子放走了误闯的小老鼠，后来自己却落入猎人的网中。没有文字，只有细腻的水彩描绘塞伦盖蒂草原的光影和动物神态，让孩子在“读图”中体会善意与回报，以及弱小者的力量。",
+    "tip": "先让孩子看图自己讲故事，留意书里仅有的几个拟声词，最后再讲讲伊索原文的寓意。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2010
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "lon-po-po",
+    "titleZh": "狼婆婆",
+    "titleOriginal": "Lon Po Po: A Red-Riding Hood Story from China",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ed Young",
+        "nameZh": "杨志成",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1989,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "culture",
+      "safety",
+      "art"
+    ],
+    "keywords": [
+      "中国民间故事",
+      "机智",
+      "不给陌生人开门",
+      "小红帽"
+    ],
+    "summary": "妈妈出门去看外婆，老狼假扮成外婆敲开了三姐妹的家门。机灵的大姐察觉不对，带着两个妹妹想办法智斗老狼。这个源自中国的“小红帽”故事，画面如屏风般幽暗神秘，也让孩子懂得不随便给陌生人开门。",
+    "tip": "读完和孩子演练：家里只有你时，有人敲门自称是认识的人，你该怎么做？",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1990
+      },
+      {
+        "name": "波士顿环球报–号角图书奖",
+        "year": 1990
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "seven-blind-mice",
+    "titleZh": "七只瞎老鼠",
+    "titleOriginal": "Seven Blind Mice",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ed Young",
+        "nameZh": "杨志成",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1992,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "cognition",
+      "character",
+      "art"
+    ],
+    "keywords": [
+      "颜色",
+      "星期",
+      "盲人摸象",
+      "整体与局部"
+    ],
+    "summary": "池塘边出现了一个“怪东西”，七只不同颜色的瞎老鼠从星期一到星期天轮流去探个究竟，各有各的说法。故事改编自“盲人摸象”，黑底上的拼贴色块醒目，孩子既能认识颜色和星期，也懂得要看到事物的全貌。",
+    "tip": "读完蒙上孩子的眼睛，让他先只摸一件物品的一部分来猜，再摸全部，看看猜得对不对。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1993
+      },
+      {
+        "name": "波士顿环球报–号角图书奖",
+        "year": 1992
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "grandfathers-journey",
+    "titleZh": "外公的旅程",
+    "titleOriginal": "Grandfather's Journey",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Allen Say",
+        "nameZh": "艾伦·塞伊",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1993,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "culture",
+      "family",
+      "diversity"
+    ],
+    "keywords": [
+      "移民",
+      "思乡",
+      "日本",
+      "两种文化"
+    ],
+    "summary": "外公年轻时从日本远渡重洋来到美国，走遍山川、安家落户，却始终思念故乡；回到日本后，他又想念加州。作者以外公的一生讲述移民在两种文化之间的牵挂，画面如老照片般静美，适合大孩子体会乡愁与身份。",
+    "tip": "读完请孩子去问家里的长辈：你小时候住在哪里？离开家乡时最想念什么？",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1994
+      },
+      {
+        "name": "波士顿环球报–号角图书奖",
+        "year": 1994
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "a-big-mooncake-for-little-star",
+    "titleZh": "小星星的大月饼",
+    "titleOriginal": "A Big Mooncake for Little Star",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Grace Lin",
+        "nameZh": "林珮思",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2018,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "culture",
+      "family",
+      "nature"
+    ],
+    "keywords": [
+      "中秋节",
+      "月相",
+      "月饼",
+      "母女"
+    ],
+    "summary": "妈妈烤了一个又大又圆的月饼，叮嘱小星星先别吃。可到了夜里，小星星忍不住悄悄咬了一小口，又一小口……黑色夜空里的金色月饼巧妙呼应月亮的圆缺，把中秋文化、月相知识和温柔的亲子情融在了一起。",
+    "tip": "中秋前后每晚和孩子看月亮、记录它的形状，再和书里被“咬”过的月饼对照。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2019
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "last-stop-on-market-street",
+    "titleZh": "市场街最后一站",
+    "titleOriginal": "Last Stop on Market Street",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Matt de la Peña",
+        "nameZh": "马特·德拉培尼亚",
+        "role": "文"
+      },
+      {
+        "name": "Christian Robinson",
+        "nameZh": "克里斯蒂安·鲁滨逊",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2015,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "diversity",
+      "character",
+      "family"
+    ],
+    "keywords": [
+      "城市",
+      "感恩",
+      "祖孙",
+      "多元社区"
+    ],
+    "summary": "星期天做完礼拜，小男孩CJ和奶奶坐公交车穿过城市。CJ抱怨没有车、没有音乐播放器，奶奶却总带他看见身边的美好：盲人乘客、车上的吉他手、雨后的彩虹……帮助孩子发现平凡生活中的美，学会感恩与关怀。",
+    "tip": "下次坐公交或地铁时，和孩子比赛找出三件“美好的小事”，就像书里的奶奶那样。",
+    "awards": [
+      {
+        "name": "纽伯瑞金奖",
+        "year": 2016
+      },
+      {
+        "name": "凯迪克银奖",
+        "year": 2016
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "the-day-you-begin",
+    "titleZh": "你从这一天开始",
+    "titleOriginal": "The Day You Begin",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jacqueline Woodson",
+        "nameZh": "杰奎琳·伍德森",
+        "role": "文"
+      },
+      {
+        "name": "Rafael López",
+        "nameZh": "拉斐尔·洛佩斯",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2018,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "diversity",
+      "school",
+      "self"
+    ],
+    "keywords": [
+      "与众不同",
+      "归属感",
+      "移民",
+      "勇气"
+    ],
+    "summary": "走进教室时，总会有那么一刻，你发现没有人和你一样：头发、口音、午餐、暑假的经历都不同。诗意的文字陪伴孩子面对“格格不入”的孤独，鼓励他们讲出自己的故事，也在别人身上找到共鸣与连接。",
+    "tip": "请孩子说一件只有自己经历过的事，再找出一件他和同学都喜欢的事。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "hair-love",
+    "titleZh": "发之恋",
+    "titleOriginal": "Hair Love",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Matthew A. Cherry",
+        "nameZh": "马修·A·切瑞",
+        "role": "文"
+      },
+      {
+        "name": "Vashti Harrison",
+        "nameZh": "瓦什蒂·哈里森",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2019,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "family",
+      "self",
+      "diversity"
+    ],
+    "keywords": [
+      "父女",
+      "发型",
+      "自我接纳",
+      "非裔家庭"
+    ],
+    "summary": "小女孩有一头蓬松卷曲、会“自己跳舞”的头发。今天是个特别的日子，她想要一个完美的发型，可爸爸从没给她梳过头，只好笨手笨脚地尝试……故事展现了父亲的爱与耐心，也鼓励孩子欣赏自己天生的样子。",
+    "tip": "读完让孩子当一回“理发师”，给爸爸或妈妈梳头，体会书里爸爸的耐心。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-rabbit-listened",
+    "titleZh": "最好的陪伴",
+    "titleOriginal": "The Rabbit Listened",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Cori Doerrfeld",
+        "nameZh": "科里·德尔费尔德",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2018,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "emotion",
+      "friendship"
+    ],
+    "keywords": [
+      "倾听",
+      "难过",
+      "安慰",
+      "陪伴"
+    ],
+    "summary": "孩子辛辛苦苦搭好的积木被撞倒了。小鸡要他说出来，熊要他大吼发泄，大象要他回忆原样……可他都不想。直到一只兔子安静地靠了过来。简单的故事告诉孩子和大人：难过的时候，最需要的往往是有人耐心倾听。",
+    "tip": "下次孩子难过时，先像兔子一样静静坐在他身边，等他愿意开口再听他说。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-day-the-crayons-quit",
+    "titleZh": "小蜡笔大罢工",
+    "titleOriginal": "The Day the Crayons Quit",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Drew Daywalt",
+        "nameZh": "德鲁·戴沃特",
+        "role": "文"
+      },
+      {
+        "name": "Oliver Jeffers",
+        "nameZh": "奥利弗·杰弗斯",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2013,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "humor",
+      "imagination",
+      "emotion"
+    ],
+    "keywords": [
+      "蜡笔",
+      "书信",
+      "换位思考",
+      "颜色"
+    ],
+    "summary": "小男孩打开蜡笔盒，只找到一叠信：红色喊累，紫色嫌他涂出线，米色抱怨没人理，黄色和橙色吵着谁才是太阳的颜色……每支蜡笔的“抗议信”都妙趣横生，引导孩子换位思考，也鼓励他们不拘一格地用色。",
+    "tip": "读完请孩子选一支自己最少用的蜡笔，替它写一封“抗议信”，再用它画一幅画。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-adventures-of-beekle",
+    "titleZh": "小白找朋友",
+    "titleOriginal": "The Adventures of Beekle: The Unimaginary Friend",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Dan Santat",
+        "nameZh": "丹·桑塔特",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2014,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "friendship",
+      "imagination"
+    ],
+    "keywords": [
+      "想象中的朋友",
+      "勇气",
+      "等待",
+      "主动"
+    ],
+    "summary": "在想象朋友诞生的小岛上，小白一直等不到一个孩子来认领它，于是勇敢地出发，航行到真实的城市去寻找属于自己的小伙伴。画面色彩由灰暗变得明亮，讲述了主动迈出第一步、交到朋友的勇气。",
+    "tip": "读完请孩子画出自己“想象中的朋友”，说说它的名字和本领。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2015
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "after-the-fall",
+    "titleZh": "蛋先生摔下去以后",
+    "titleOriginal": "After the Fall (How Humpty Dumpty Got Back Up Again)",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Dan Santat",
+        "nameZh": "丹·桑塔特",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2017,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "emotion",
+      "self"
+    ],
+    "keywords": [
+      "恐惧",
+      "挫折",
+      "重新出发",
+      "勇气"
+    ],
+    "summary": "蛋先生从墙上摔下来以后，虽然被拼好了，却从此害怕高处，连最爱的观鸟也只能在地面上进行。这本对英文童谣“矮胖子”的续写，真实呈现了失败后的恐惧，鼓励孩子一步步面对害怕的事、重新出发。",
+    "tip": "读完请孩子说一件曾经害怕、后来做到的事，再定一个“下一小步”的目标。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "a-chair-for-my-mother",
+    "titleZh": "妈妈的红沙发",
+    "titleOriginal": "A Chair for My Mother",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Vera B. Williams",
+        "nameZh": "薇拉·威廉斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1982,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "family",
+      "character"
+    ],
+    "keywords": [
+      "火灾",
+      "储蓄",
+      "母女",
+      "邻里互助"
+    ],
+    "summary": "一场大火烧掉了家里的所有东西。小女孩、在餐馆当服务员的妈妈和外婆把零钱存进一个大玻璃罐，盼着有一天买一张舒服的沙发。故事温暖地展现了家人相守、邻里互助，以及为目标耐心储蓄的力量。",
+    "tip": "和孩子一起准备一个存钱罐，定一个全家共同的小目标，每周记录一次进度。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 1983
+      },
+      {
+        "name": "波士顿环球报–号角图书奖",
+        "year": 1983
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "owl-moon",
+    "titleZh": "月下看猫头鹰",
+    "titleOriginal": "Owl Moon",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jane Yolen",
+        "nameZh": "珍·尤伦",
+        "role": "文"
+      },
+      {
+        "name": "John Schoenherr",
+        "nameZh": "约翰·秀能",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1987,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "nature",
+      "family"
+    ],
+    "keywords": [
+      "冬夜",
+      "观鸟",
+      "父女",
+      "安静等待"
+    ],
+    "summary": "冬夜里，小女孩第一次跟着爸爸走进雪林去看猫头鹰。要安静、要勇敢、要耐心，脚下的雪咯吱作响，月光下的等待漫长又神圣。诗一般的文字让孩子体验亲近自然的敬畏，以及父女相伴的温情。",
+    "tip": "带孩子在傍晚或清晨去公园，安静地站一分钟，数一数能听到几种自然的声音。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1988
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "officer-buckle-and-gloria",
+    "titleZh": "警官巴克尔和警犬葛芮雅",
+    "titleOriginal": "Officer Buckle and Gloria",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Peggy Rathmann",
+        "nameZh": "佩吉·拉特曼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1995,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "safety",
+      "friendship",
+      "humor"
+    ],
+    "keywords": [
+      "安全守则",
+      "警犬",
+      "合作",
+      "校园安全"
+    ],
+    "summary": "巴克尔警官到学校讲安全守则，孩子们总听得直打瞌睡。自从警犬葛芮雅跟他一起上台，讲座变得大受欢迎，可巴克尔却不知道葛芮雅在他身后做了什么。书中穿插大量实用的安全小贴士，好笑又好记。",
+    "tip": "读完和孩子一起为家里写三条“安全守则”，画上图，贴在冰箱上。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1996
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "good-night-gorilla",
+    "titleZh": "晚安，大猩猩",
+    "titleOriginal": "Good Night, Gorilla",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Peggy Rathmann",
+        "nameZh": "佩吉·拉特曼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1994,
+    "ageMin": 1,
+    "ageMax": 4,
+    "functions": [
+      "bedtime",
+      "humor"
+    ],
+    "keywords": [
+      "动物园",
+      "晚安",
+      "几乎无字",
+      "找细节"
+    ],
+    "summary": "动物园管理员巡夜，跟动物们一一道晚安，身后的小猩猩却偷走了他的钥匙，悄悄放出一只又一只动物，跟着他回了家。几乎没有文字，画面里藏着许多小细节，让宝宝在笑声中找线索，也自然进入睡前的道晚安时间。",
+    "tip": "每页请孩子找找那只拖着香蕉的小老鼠，读完再一起给家人和玩具说晚安。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-kissing-hand",
+    "titleZh": "魔法亲亲",
+    "titleOriginal": "The Kissing Hand",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Audrey Penn",
+        "nameZh": "奥黛莉·潘恩",
+        "role": "文"
+      },
+      {
+        "name": "Ruth E. Harper",
+        "nameZh": "茹丝·哈波",
+        "role": "图"
+      },
+      {
+        "name": "Nancy M. Leak",
+        "nameZh": "南西·理克",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1993,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "school",
+      "family",
+      "emotion"
+    ],
+    "keywords": [
+      "分离焦虑",
+      "入园",
+      "母爱",
+      "浣熊"
+    ],
+    "summary": "小浣熊不想去上学，它想留在家里和妈妈在一起。浣熊妈妈在它的手心里亲了一下，告诉它这个“魔法亲亲”会一直陪着它。温柔的故事给有分离焦虑的孩子一个可以握在手心里的安慰。",
+    "tip": "入园前一晚读这本书，第二天分别时也在孩子手心亲一下，约好想妈妈时就把手贴在脸上。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "when-sophie-gets-angry-really-really-angry",
+    "titleZh": "菲菲生气了",
+    "titleOriginal": "When Sophie Gets Angry—Really, Really Angry…",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Molly Bang",
+        "nameZh": "莫莉·卞",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1999,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "emotion"
+    ],
+    "keywords": [
+      "生气",
+      "情绪调节",
+      "大自然",
+      "冷静"
+    ],
+    "summary": "姐姐抢走了菲菲的大猩猩玩偶，她气得像一座要爆发的火山，冲出家门一直跑。在树林和大海边，她慢慢平静下来。画面的色彩和边框随情绪而变化，生动地让孩子“看见”生气，并学会给自己找冷静的方法。",
+    "tip": "读完和孩子一起列出他的“冷静清单”：深呼吸、抱抱玩偶、去窗边看看等。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2000
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "stellaluna",
+    "titleZh": "星月",
+    "titleOriginal": "Stellaluna",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Janell Cannon",
+        "nameZh": "珍妮儿·肯侬",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1993,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "friendship",
+      "diversity",
+      "nature"
+    ],
+    "keywords": [
+      "蝙蝠",
+      "不同",
+      "友谊",
+      "寻找妈妈"
+    ],
+    "summary": "小蝙蝠星月和妈妈失散后掉进鸟巢，只好学着像小鸟一样白天醒来、吃虫子、站在树枝上睡觉。它和小鸟们成了朋友，却也发现彼此那么不同。故事讲述了接纳差异的友谊，书末还附有蝙蝠的科普知识。",
+    "tip": "读完和孩子画一张表格，比较书里的蝙蝠和小鸟在吃、睡、飞上有什么不同。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "caps-for-sale",
+    "titleZh": "卖帽子",
+    "titleOriginal": "Caps for Sale",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Esphyr Slobodkina",
+        "nameZh": "艾丝菲·斯劳柏肯纳",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1940,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "humor",
+      "language"
+    ],
+    "keywords": [
+      "猴子",
+      "模仿",
+      "叠帽子",
+      "重复句式"
+    ],
+    "summary": "卖帽子的小贩把所有帽子叠在头上走街串巷。他在树下打了个盹，醒来发现帽子全不见了，抬头一看，树上的猴子每只都戴着一顶！重复的对话和模仿游戏让孩子笑个不停，还能顺便认识颜色、练习数数。",
+    "tip": "准备几顶帽子或纸碗叠在头上，孩子当猴子、大人当小贩，演一演书里的模仿游戏。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "millions-of-cats",
+    "titleZh": "100万只猫",
+    "titleOriginal": "Millions of Cats",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Wanda Gág",
+        "nameZh": "婉达·盖格",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1928,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "language",
+      "character"
+    ],
+    "keywords": [
+      "猫",
+      "选择",
+      "重复句式",
+      "木刻风"
+    ],
+    "summary": "一对孤单的老夫妇想养一只猫，老爷爷却带回了几百只、几千只、几百万只猫，每一只都说自己最漂亮。歌谣般的重复句子朗朗上口，黑白木刻风格的插画古朴有力，也引出“什么才是最美”的思考。",
+    "tip": "读到“几百只猫、几千只猫……”时和孩子一起大声念，比比谁能一口气念完。",
+    "awards": [
+      {
+        "name": "纽伯瑞银奖",
+        "year": 1929
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "the-story-of-ferdinand",
+    "titleZh": "爱花的牛",
+    "titleOriginal": "The Story of Ferdinand",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Munro Leaf",
+        "nameZh": "曼罗·里夫",
+        "role": "文"
+      },
+      {
+        "name": "Robert Lawson",
+        "nameZh": "罗伯特·劳森",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1936,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "self",
+      "character"
+    ],
+    "keywords": [
+      "做自己",
+      "和平",
+      "不随大流",
+      "西班牙"
+    ],
+    "summary": "西班牙的小公牛们都梦想去斗牛场，只有一头小牛喜欢静静地坐在软木树下闻花香。一次意外，它被误当成最凶猛的公牛送进了斗牛场……简洁的黑白画面，讲述了不随大流、坚持做自己的温柔力量。",
+    "tip": "读完问孩子：大家都喜欢的事，你一定也要喜欢吗？说说你最享受的安静时刻。",
+    "awards": [],
+    "classic": true
+  },
+  {
+    "id": "harry-the-dirty-dog",
+    "titleZh": "好脏的哈利",
+    "titleOriginal": "Harry the Dirty Dog",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Gene Zion",
+        "nameZh": "吉恩·蔡恩",
+        "role": "文"
+      },
+      {
+        "name": "Margaret Bloy Graham",
+        "nameZh": "玛格丽特·布罗伊·格雷厄姆",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1956,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "habits",
+      "humor",
+      "family"
+    ],
+    "keywords": [
+      "洗澡",
+      "小狗",
+      "讲卫生",
+      "离家"
+    ],
+    "summary": "白毛黑点的小狗哈利最讨厌洗澡，它把刷子埋起来溜出家门，在外面玩得浑身脏兮兮，变成了黑毛白点，回到家连主人都认不出它了。轻松幽默的故事，让怕洗澡的孩子开开心心地接受清洁习惯。",
+    "tip": "洗澡前读这本书，洗澡时和孩子玩“帮哈利找回白毛”的游戏。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "leo-the-late-bloomer",
+    "titleZh": "阿虎开窍了",
+    "titleOriginal": "Leo the Late Bloomer",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Robert Kraus",
+        "nameZh": "罗勃·卡鲁斯",
+        "role": "文"
+      },
+      {
+        "name": "Jose Aruego",
+        "nameZh": "荷西·阿鲁哥",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1971,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "self",
+      "family"
+    ],
+    "keywords": [
+      "成长节奏",
+      "耐心",
+      "父母期待",
+      "自信"
+    ],
+    "summary": "小老虎阿虎不会读、不会写、不会画，吃饭也弄得一团糟，爸爸急得天天盯着他看。妈妈却说：“阿虎只是开窍晚。”故事告诉孩子每个人都有自己的成长节奏，也提醒父母多一点耐心和信任。",
+    "tip": "读完和孩子回忆三件他以前不会、现在会做的事，把它们写进成长记录。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "sylvester-and-the-magic-pebble",
+    "titleZh": "驴小弟变石头",
+    "titleOriginal": "Sylvester and the Magic Pebble",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "William Steig",
+        "nameZh": "威廉·史塔克",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1969,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "family",
+      "imagination"
+    ],
+    "keywords": [
+      "魔法",
+      "亲情",
+      "四季",
+      "思念"
+    ],
+    "summary": "驴小弟捡到一颗能实现愿望的红色魔法石，遇到狮子时一着急，竟把自己变成了一块石头。爸爸妈妈四处寻找，季节一个个过去……故事在奇幻的情节中，表达了家人之间深沉的爱与思念。",
+    "tip": "读完问孩子：如果你捡到这颗魔法石，会许什么愿？遇到危险时又该怎么办？",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1970
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "doctor-de-soto",
+    "titleZh": "老鼠牙医——地嗖头",
+    "titleOriginal": "Doctor De Soto",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "William Steig",
+        "nameZh": "威廉·史塔克",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1982,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "character",
+      "humor"
+    ],
+    "keywords": [
+      "机智",
+      "狐狸",
+      "善良与自保",
+      "职业"
+    ],
+    "summary": "老鼠牙医地嗖头医术高明，但从不给猫和其他危险的动物看牙。一天，一只牙痛难忍的狐狸苦苦哀求，善良的他决定冒险医治，狐狸却动起了坏心思……故事机智幽默，让孩子思考善良与自我保护如何兼顾。",
+    "tip": "读到狐狸动坏心思时停下，请孩子替地嗖头夫妇想一个既守信又保护自己的办法。",
+    "awards": [
+      {
+        "name": "纽伯瑞银奖",
+        "year": 1983
+      },
+      {
+        "name": "美国国家图书奖",
+        "year": 1983
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "miss-rumphius",
+    "titleZh": "花婆婆",
+    "titleOriginal": "Miss Rumphius",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Barbara Cooney",
+        "nameZh": "芭芭拉·库尼",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1982,
+    "ageMin": 4,
+    "ageMax": 9,
+    "functions": [
+      "life",
+      "character",
+      "nature"
+    ],
+    "keywords": [
+      "梦想",
+      "让世界更美丽",
+      "一生",
+      "海边"
+    ],
+    "summary": "艾莉丝小时候答应爷爷三件事：去很远的地方旅行，老了住在海边，还要做一件让世界变得更美丽的事。她用一生去实现这些承诺。画面细腻柔美，跨越一生的故事帮助孩子思考梦想、生命与回馈世界。",
+    "tip": "读完和孩子一起种下一盆花，聊聊“我能做一件什么事，让世界更美丽”。",
+    "awards": [
+      {
+        "name": "美国国家图书奖",
+        "year": 1983
+      }
+    ],
+    "classic": true
+  },
+  {
+    "id": "ox-cart-man",
+    "titleZh": "赶牛车的人",
+    "titleOriginal": "Ox-Cart Man",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Donald Hall",
+        "nameZh": "唐纳德·霍尔",
+        "role": "文"
+      },
+      {
+        "name": "Barbara Cooney",
+        "nameZh": "芭芭拉·库尼",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1979,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "nature"
+    ],
+    "keywords": [
+      "四季",
+      "农家生活",
+      "自给自足",
+      "早期美国"
+    ],
+    "summary": "十九世纪新英格兰的一位农夫，在秋天赶着牛车，把全家一年的劳动成果运到集市上卖掉，再买回需要的东西，回家后一家人又开始新一轮的劳作。画面如民间油画，让孩子了解早期农家生活和四季循环。",
+    "tip": "读完和孩子列出书中一家人做的物品，看看它们分别是用羊毛、蜂蜡还是木头做成的。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1980
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "why-mosquitoes-buzz-in-peoples-ears",
+    "titleZh": "为什么蚊子老在人们耳边嗡嗡叫",
+    "titleOriginal": "Why Mosquitoes Buzz in People's Ears",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Verna Aardema",
+        "nameZh": "弗娜·阿尔德玛",
+        "role": "文"
+      },
+      {
+        "name": "Leo Dillon",
+        "nameZh": "利奥·狄龙",
+        "role": "图"
+      },
+      {
+        "name": "Diane Dillon",
+        "nameZh": "黛安·狄龙",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1975,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "character"
+    ],
+    "keywords": [
+      "西非民间故事",
+      "连锁反应",
+      "因果",
+      "说谎"
+    ],
+    "summary": "蚊子对蜥蜴吹了个大牛皮，引发一连串误会：蟒蛇钻洞、兔子逃窜、猴子乱跳……最后连太阳都不肯升起。这则西非民间故事环环相扣、拟声词丰富，图案化的插画充满非洲风情，帮孩子理解因果与言行的责任。",
+    "tip": "读完请孩子用箭头画出“谁吓到了谁”的连锁图，再看着图从头复述一遍故事。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1976
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "joseph-had-a-little-overcoat",
+    "titleZh": "约瑟夫有件旧外套",
+    "titleOriginal": "Joseph Had a Little Overcoat",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Simms Taback",
+        "nameZh": "西姆斯·塔贝克",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1999,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "character",
+      "imagination",
+      "culture"
+    ],
+    "keywords": [
+      "旧物改造",
+      "洞洞书",
+      "犹太民谣",
+      "节俭"
+    ],
+    "summary": "约瑟夫的旧外套破了，他把它改成夹克；夹克破了，改成背心；背心破了，又改成围巾……巧妙的挖洞设计，让孩子翻页时看到衣物一次次“变身”。故事改编自犹太民谣，传递节俭与创造的生活智慧。",
+    "tip": "翻页前先请孩子透过书页上的洞猜一猜，约瑟夫这次会把衣服改成什么。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2000
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "snowflake-bentley",
+    "titleZh": "雪花人",
+    "titleOriginal": "Snowflake Bentley",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jacqueline Briggs Martin",
+        "nameZh": "杰奎琳·布里格斯·马丁",
+        "role": "文"
+      },
+      {
+        "name": "Mary Azarian",
+        "nameZh": "玛丽·阿扎里安",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1998,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "nature",
+      "character"
+    ],
+    "keywords": [
+      "雪花",
+      "科学家",
+      "坚持",
+      "摄影"
+    ],
+    "summary": "从小爱雪的威利·本特利，一生都在观察和拍摄雪花。他克服贫困与旁人的不理解，拍下了数千张雪花照片，让人们看到每片雪花都独一无二。木刻插画朴素动人，旁栏补充科学知识，展现了热爱与坚持的力量。",
+    "tip": "下雪天准备一张黑色卡纸和放大镜，和孩子一起接住雪花，数数它有几个角。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 1999
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "the-man-who-walked-between-the-towers",
+    "titleZh": "高空走索人",
+    "titleOriginal": "The Man Who Walked Between the Towers",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Mordicai Gerstein",
+        "nameZh": "莫迪凯·葛斯坦",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2003,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "art",
+      "culture",
+      "self"
+    ],
+    "keywords": [
+      "纽约",
+      "双子塔",
+      "勇气",
+      "真实事件"
+    ],
+    "summary": "1974年，法国街头艺人菲利普·帕特在纽约世贸中心双子塔之间架起钢索，在四百多米的高空中行走、跳舞。书中的折页令人屏息，故事讲述了梦想与勇气，也以含蓄的方式纪念了已经消失的双子塔。",
+    "tip": "读前给孩子看看双子塔的老照片，读到折页时一起屏住呼吸，再聊聊他心中“最勇敢的事”。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2004
+      },
+      {
+        "name": "波士顿环球报–号角图书奖",
+        "year": 2004
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "a-sick-day-for-amos-mcgee",
+    "titleZh": "阿莫的生病日",
+    "titleOriginal": "A Sick Day for Amos McGee",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Philip C. Stead",
+        "nameZh": "菲利普·斯蒂德",
+        "role": "文"
+      },
+      {
+        "name": "Erin E. Stead",
+        "nameZh": "埃琳·斯蒂德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2010,
+    "ageMin": 3,
+    "ageMax": 6,
+    "functions": [
+      "friendship",
+      "character"
+    ],
+    "keywords": [
+      "友谊",
+      "关心",
+      "动物园",
+      "生病"
+    ],
+    "summary": "动物园管理员阿莫每天都会抽时间陪伴他的动物朋友：和大象下棋、和乌龟赛跑、给怕黑的猫头鹰读故事。有一天，阿莫生病没来上班……细腻柔和的画面讲述了彼此关心的友谊，温暖又安静。",
+    "tip": "读完请孩子想一想：家人或朋友生病时，他可以为对方做哪件小事？",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2011
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "a-ball-for-daisy",
+    "titleZh": "黛西的球",
+    "titleOriginal": "A Ball for Daisy",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Chris Raschka",
+        "nameZh": "克里斯·拉西卡",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2011,
+    "ageMin": 2,
+    "ageMax": 6,
+    "functions": [
+      "emotion",
+      "friendship",
+      "art"
+    ],
+    "keywords": [
+      "无字书",
+      "失去",
+      "小狗",
+      "难过"
+    ],
+    "summary": "小狗黛西最爱它的红色皮球，可在公园里，皮球被另一只大狗玩坏了，黛西伤心极了……这本无字书用流动的线条和色彩表现小狗的快乐与失落，帮助幼儿认识并说出失去心爱之物时的难过。",
+    "tip": "看图时请孩子替黛西说出它的心情，再讲讲自己弄坏或弄丢心爱东西时的感受。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2012
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "extra-yarn",
+    "titleZh": "穿毛衣的小镇",
+    "titleOriginal": "Extra Yarn",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Mac Barnett",
+        "nameZh": "麦克·巴内特",
+        "role": "文"
+      },
+      {
+        "name": "Jon Klassen",
+        "nameZh": "乔恩·克拉森",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2012,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "imagination",
+      "character"
+    ],
+    "keywords": [
+      "毛线",
+      "分享",
+      "贪婪",
+      "温暖"
+    ],
+    "summary": "灰白冰冷的小镇上，小女孩安娜贝尔捡到一盒彩色毛线。她给自己织了毛衣，又给小狗、邻居、房子和树都织上，奇怪的是毛线怎么也用不完。一位贪心的大公爵想把它据为己有……故事讲述了分享与创造的魔力。",
+    "tip": "用毛线给家里的一样东西缠上彩色“外衣”，和孩子聊聊它看起来有什么不同。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2013
+      },
+      {
+        "name": "波士顿环球报–号角图书奖",
+        "year": 2012
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "wolf-in-the-snow",
+    "titleZh": "我遇见了一只小灰狼",
+    "titleOriginal": "Wolf in the Snow",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Matthew Cordell",
+        "nameZh": "马修·科德尔",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2017,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "character",
+      "nature",
+      "art"
+    ],
+    "keywords": [
+      "无字书",
+      "暴风雪",
+      "互助",
+      "勇气"
+    ],
+    "summary": "放学路上遇到暴风雪，一个穿红外套的小女孩发现了一只和狼群走散的小狼。她决定冒着风雪把它送回去……几乎无字的画面靠线条和色彩传递寒冷与紧张，讲述了善意、勇气与彼此帮助。",
+    "tip": "让孩子边看图边配音，说出小女孩和小狼在每个时刻可能在想什么。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2018
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "watercress",
+    "titleZh": "西洋菜",
+    "titleOriginal": "Watercress",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Andrea Wang",
+        "nameZh": "安德莉亚·王",
+        "role": "文"
+      },
+      {
+        "name": "Jason Chin",
+        "nameZh": "杰森·陈",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2021,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "culture",
+      "family"
+    ],
+    "keywords": [
+      "移民家庭",
+      "华裔",
+      "家族记忆",
+      "代际沟通"
+    ],
+    "summary": "开车经过俄亥俄州的乡间时，爸爸妈妈突然停车去采路边的野生西洋菜，女孩觉得很丢脸，也不愿意吃。直到妈妈讲起一段埋藏多年的往事……这个半自传故事帮助孩子理解移民父母的过去，珍惜家族记忆。",
+    "tip": "读完请孩子问问父母或祖辈：小时候吃过哪道“难忘的菜”？背后有什么故事？",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2022
+      },
+      {
+        "name": "纽伯瑞银奖",
+        "year": 2022
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "moo-baa-la-la-la",
+    "titleZh": "哞，咩，啦啦啦！",
+    "titleOriginal": "Moo, Baa, La La La!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Sandra Boynton",
+        "nameZh": "桑德拉·博因顿",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1982,
+    "ageMin": 0,
+    "ageMax": 3,
+    "functions": [
+      "language",
+      "humor",
+      "cognition"
+    ],
+    "keywords": [
+      "动物叫声",
+      "拟声词",
+      "纸板书",
+      "押韵"
+    ],
+    "summary": "奶牛说“哞”，绵羊说“咩”，三只小猪却唱“啦啦啦”？不对不对！滑稽的动物形象和押韵的拟声词，让宝宝一边认识动物叫声一边咯咯笑，是很适合亲子互动的纸板书。",
+    "tip": "读到每种动物时停一停，让宝宝模仿叫声；读到“啦啦啦”时故意唱错，等他来纠正。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "mouse-paint",
+    "titleZh": "三只老鼠爱涂色",
+    "titleOriginal": "Mouse Paint",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ellen Stoll Walsh",
+        "nameZh": "埃伦·斯托尔·沃尔什",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1989,
+    "ageMin": 1,
+    "ageMax": 4,
+    "functions": [
+      "cognition",
+      "art"
+    ],
+    "keywords": [
+      "颜色",
+      "混色",
+      "三原色",
+      "老鼠"
+    ],
+    "summary": "三只白老鼠趁猫睡着时跳进红、黄、蓝三罐颜料，在纸上跳舞、踩来踩去，混出了橙色、绿色和紫色。简洁的画面把三原色和混色的道理讲得一清二楚，非常适合幼儿的颜色启蒙。",
+    "tip": "准备红、黄、蓝三色手指颜料，让孩子像小老鼠一样用手指“踩”出新颜色。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "little-blue-truck",
+    "titleZh": "蓝色小卡车",
+    "titleOriginal": "Little Blue Truck",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Alice Schertle",
+        "nameZh": "爱丽丝·谢特尔",
+        "role": "文"
+      },
+      {
+        "name": "Jill McElmurry",
+        "nameZh": "吉尔·麦克尔默里",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2008,
+    "ageMin": 1,
+    "ageMax": 4,
+    "functions": [
+      "friendship",
+      "language"
+    ],
+    "keywords": [
+      "互助",
+      "动物叫声",
+      "交通工具",
+      "押韵"
+    ],
+    "summary": "蓝色小卡车开过乡间，“嘀嘀”地和每只动物打招呼。一辆神气的大翻斗车冲进泥坑动弹不得，小卡车和动物朋友们会怎么做呢？押韵的句子和动物叫声朗朗上口，传递友善待人、互相帮助的道理。",
+    "tip": "读到动物叫声时请孩子来“配音”，读完再玩一个“嘀嘀，你好”的打招呼游戏。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "goodnight-goodnight-construction-site",
+    "titleZh": "晚安，工地上的车",
+    "titleOriginal": "Goodnight, Goodnight, Construction Site",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Sherri Duskey Rinker",
+        "nameZh": "谢丽·达斯基·瑞科尔",
+        "role": "文"
+      },
+      {
+        "name": "Tom Lichtenheld",
+        "nameZh": "汤姆·利希藤黑尔德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2011,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "bedtime",
+      "cognition"
+    ],
+    "keywords": [
+      "工程车",
+      "晚安",
+      "押韵",
+      "睡前仪式"
+    ],
+    "summary": "太阳下山了，工地上的吊车、水泥搅拌车、翻斗车、推土机和挖掘机忙完一天的工作，一辆辆收工、休息，进入梦乡。押韵的文字舒缓温柔，最适合热爱工程车、却总不肯上床睡觉的小朋友。",
+    "tip": "读完让孩子把自己的玩具车一辆辆“停好”并说晚安，然后再关灯睡觉。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-magic-school-bus-inside-the-human-body",
+    "titleZh": "神奇校车·在人体中游览",
+    "titleOriginal": "The Magic School Bus Inside the Human Body",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Joanna Cole",
+        "nameZh": "乔安娜·柯尔",
+        "role": "文"
+      },
+      {
+        "name": "Bruce Degen",
+        "nameZh": "布鲁斯·迪根",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1989,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "nature",
+      "humor"
+    ],
+    "keywords": [
+      "人体",
+      "消化",
+      "血液循环",
+      "科学探索"
+    ],
+    "summary": "卷毛老师带全班坐上神奇校车，校车缩小后竟被一位同学吞进了肚子里！大家从胃一路游到血管、心脏和大脑……对话框、学生报告与夸张的情节相结合，把人体知识讲得生动有趣，是经典科普系列中的一本。",
+    "tip": "读完找一张人体结构图，请孩子用手指画出校车走过的路线。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "what-do-you-do-with-a-tail-like-this",
+    "titleZh": "这样的尾巴可以做什么？",
+    "titleOriginal": "What Do You Do with a Tail Like This?",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Steve Jenkins",
+        "nameZh": "史蒂夫·詹金斯",
+        "role": "文/图"
+      },
+      {
+        "name": "Robin Page",
+        "nameZh": "罗宾·佩奇",
+        "role": "文"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2003,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "nature",
+      "cognition"
+    ],
+    "keywords": [
+      "动物身体",
+      "器官功能",
+      "剪纸拼贴",
+      "猜谜"
+    ],
+    "summary": "如果你有这样的鼻子、耳朵、尾巴、眼睛、嘴巴或脚，你会用它做什么？书中先展示局部让孩子猜是谁，再揭晓各种动物身体部位的奇妙用途。逼真的剪纸拼贴配上简明的说明，是很受欢迎的猜谜式科普书。",
+    "tip": "先遮住答案页，让孩子看局部猜动物；再比比自己的鼻子、耳朵能做些什么。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2004
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "over-and-under-the-snow",
+    "titleZh": "雪上，雪下",
+    "titleOriginal": "Over and Under the Snow",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Kate Messner",
+        "nameZh": "凯特·梅斯纳",
+        "role": "文"
+      },
+      {
+        "name": "Christopher Silas Neal",
+        "nameZh": "克里斯托弗·赛拉斯·尼尔",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2011,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "nature"
+    ],
+    "keywords": [
+      "冬天",
+      "动物过冬",
+      "雪下世界",
+      "科普"
+    ],
+    "summary": "冬日里，小女孩和爸爸在林中滑雪，看见了雪上的世界；而雪下还藏着一个秘密王国：田鼠、松鼠、熊、青蛙等动物都在那里躲避严寒、度过冬天。安静的画面配上书末的动物资料，让孩子了解动物过冬的智慧。",
+    "tip": "雪后带孩子去公园找动物脚印，回家对照书末的资料猜一猜是谁留下的。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-invisible-boy",
+    "titleZh": "隐形男孩",
+    "titleOriginal": "The Invisible Boy",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Trudy Ludwig",
+        "nameZh": "特鲁迪·路德维格",
+        "role": "文"
+      },
+      {
+        "name": "Patrice Barton",
+        "nameZh": "帕特里斯·巴顿",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2013,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "friendship",
+      "diversity",
+      "emotion"
+    ],
+    "keywords": [
+      "被忽视",
+      "孤独",
+      "善意",
+      "融入集体"
+    ],
+    "summary": "有个男孩在班上像隐形人一样：分组没人选他，聚会没人请他。画面里他是黑白的，而其他同学是彩色的。直到班上来了一位新同学……故事让孩子看见班里安静的人，懂得一个小小的善意就能改变别人。",
+    "tip": "读完问孩子：班上有没有很安静的同学？明天可以怎样和他打个招呼？",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "go-away-big-green-monster",
+    "titleZh": "走开，绿色大怪物！",
+    "titleOriginal": "Go Away, Big Green Monster!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Ed Emberley",
+        "nameZh": "爱德华·恩贝尔利",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1992,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "emotion",
+      "cognition",
+      "humor"
+    ],
+    "keywords": [
+      "害怕",
+      "怪物",
+      "镂空书",
+      "五官"
+    ],
+    "summary": "翻开镂空的书页，绿色大怪物一点点出现：黄眼睛、蓝鼻子、红嘴巴……接着孩子可以命令它的五官一样样“走开”，直到它完全消失。巧妙的设计让孩子在游戏中掌控恐惧，同时认识颜色和五官。",
+    "tip": "读后半本时让孩子自己大声喊“走开”，再亲手翻页让怪物的五官消失。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "enemy-pie",
+    "titleZh": "敌人派",
+    "titleOriginal": "Enemy Pie",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Derek Munson",
+        "nameZh": "德瑞克·莫森",
+        "role": "文"
+      },
+      {
+        "name": "Tara Calahan King",
+        "nameZh": "塔拉·卡拉汉·金",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2000,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "friendship",
+      "emotion"
+    ],
+    "keywords": [
+      "化敌为友",
+      "冲突",
+      "父亲的智慧",
+      "新邻居"
+    ],
+    "summary": "男孩认定新搬来的邻居是他的“头号敌人”。爸爸说自己有一个秘方，能做出对付敌人的“敌人派”，不过有个条件：吃派之前，你得和敌人一起玩一整天。故事幽默地讲述了误会和化敌为友的过程。",
+    "tip": "读完问孩子：有没有一个曾经讨厌、后来变成朋友的人？是什么改变了你们？",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-invisible-string",
+    "titleZh": "看不见的线",
+    "titleOriginal": "The Invisible String",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Patrice Karst",
+        "nameZh": "帕特利丝·卡斯特",
+        "role": "文"
+      },
+      {
+        "name": "Geoff Stevenson",
+        "nameZh": "杰夫·斯蒂文森",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2000,
+    "ageMin": 3,
+    "ageMax": 8,
+    "functions": [
+      "emotion",
+      "family",
+      "life"
+    ],
+    "keywords": [
+      "分离",
+      "思念",
+      "爱的联结",
+      "安全感"
+    ],
+    "summary": "雷雨夜，一对双胞胎被惊醒，不愿离开妈妈。妈妈告诉他们，相爱的人之间连着一根看不见的线，无论相隔多远，甚至有人离开了人世，这根线都在。故事适合用来安抚分离焦虑，也可以借此和孩子谈思念与离别。",
+    "tip": "读完和孩子画一张图，用彩笔把他和所有他爱的人用线连起来。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-true-story-of-the-three-little-pigs",
+    "titleZh": "三只小猪的真实故事",
+    "titleOriginal": "The True Story of the 3 Little Pigs!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jon Scieszka",
+        "nameZh": "乔恩·谢斯卡",
+        "role": "文"
+      },
+      {
+        "name": "Lane Smith",
+        "nameZh": "莱恩·史密斯",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1989,
+    "ageMin": 6,
+    "ageMax": 10,
+    "functions": [
+      "humor",
+      "imagination"
+    ],
+    "keywords": [
+      "换位思考",
+      "童话新编",
+      "批判思维",
+      "狼的视角"
+    ],
+    "summary": "大野狼亚历山大要为自己喊冤：他只是想跟邻居借一杯糖，给奶奶做生日蛋糕，偏偏得了重感冒直打喷嚏……从狼的视角重述经典童话，荒诞幽默，引导孩子思考“故事是谁讲的”，学会多角度看问题。",
+    "tip": "读完请孩子挑一个熟悉的童话，从反派的角度讲一个“真实故事”。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "the-fall-of-freddie-the-leaf",
+    "titleZh": "一片叶子落下来",
+    "titleOriginal": "The Fall of Freddie the Leaf",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Leo Buscaglia",
+        "nameZh": "利奥·巴斯卡利亚",
+        "role": "文"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1982,
+    "ageMin": 6,
+    "ageMax": 12,
+    "functions": [
+      "life",
+      "nature"
+    ],
+    "keywords": [
+      "死亡",
+      "四季",
+      "生命循环",
+      "哲思"
+    ],
+    "summary": "一片叶子在春天出生，夏天和伙伴们一起为人们遮阴，秋天变红变黄，冬天来临时也要面对飘落。作者以一片叶子的一生，平静地讲述生命的意义与死亡的自然，帮助孩子理解生命的循环。",
+    "tip": "秋天和孩子捡几片落叶做成标本，聊聊叶子从发芽到飘落经历了什么。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "ida-always",
+    "titleZh": "永远的艾达",
+    "titleOriginal": "Ida, Always",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Caron Levis",
+        "nameZh": "卡伦·莱维斯",
+        "role": "文"
+      },
+      {
+        "name": "Charles Santoso",
+        "nameZh": "查尔斯·桑托索",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2016,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "life",
+      "friendship",
+      "emotion"
+    ],
+    "keywords": [
+      "离别",
+      "哀伤",
+      "北极熊",
+      "回忆"
+    ],
+    "summary": "北极熊格斯和艾达住在城市中心的大公园里，每天一起游泳、玩球、听城市的声音。有一天，艾达生病了，而且再也不会好起来。故事根据一对真实的北极熊改编，温柔地陪孩子面对好友的离去，理解哀伤与怀念。",
+    "tip": "读完和孩子一起回忆一位离开的亲人或宠物，说说和它在一起时最快乐的事。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "stone-soup",
+    "titleZh": "石头汤",
+    "titleOriginal": "Stone Soup",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jon J Muth",
+        "nameZh": "琼·穆特",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2003,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "character",
+      "culture"
+    ],
+    "keywords": [
+      "分享",
+      "信任",
+      "民间故事",
+      "和尚"
+    ],
+    "summary": "三个和尚来到一个饱经苦难、互不信任的村子，村民们纷纷紧闭门窗。和尚们在广场上架起锅，用石头煮汤，好奇的村民一个个拿来了自己的食材……水墨风格的东方版民间故事，讲述分享让人收获更多的道理。",
+    "tip": "周末和孩子煮一锅“石头汤”：每位家人贡献一种食材，边煮边讲这个故事。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "zen-shorts",
+    "titleZh": "禅的故事",
+    "titleOriginal": "Zen Shorts",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jon J Muth",
+        "nameZh": "琼·穆特",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2005,
+    "ageMin": 5,
+    "ageMax": 12,
+    "functions": [
+      "character",
+      "culture"
+    ],
+    "keywords": [
+      "禅",
+      "大熊猫",
+      "哲理",
+      "放下"
+    ],
+    "summary": "一只会说话的大熊猫来到三兄妹家，分别给他们讲了三个小故事：送袍子给小偷的叔叔、福祸难料的农夫、背女子过河的僧人。简短的禅宗故事配上清透的水彩画，引导孩子思考得失、宽容与放下。",
+    "tip": "每次只读一个小故事，读完请孩子说说：故事里的人为什么会这样做？",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2006
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "the-empty-pot",
+    "titleZh": "空花盆",
+    "titleOriginal": "The Empty Pot",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Demi",
+        "nameZh": "黛米",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1990,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "character",
+      "culture"
+    ],
+    "keywords": [
+      "诚实",
+      "勇气",
+      "中国民间故事",
+      "种花"
+    ],
+    "summary": "爱花的皇帝要选继承人，他发给每个孩子一粒种子，谁能种出最美的花，就把王位传给谁。男孩精心照料，种子却怎么也不发芽……这个中国民间故事画面精致典雅，告诉孩子诚实需要勇气，也最为可贵。",
+    "tip": "读到孩子们捧着花去见皇帝时停下，问孩子：如果你是那个男孩，会带着空花盆去吗？",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "miss-nelson-is-missing",
+    "titleZh": "尼尔森老师不见了！",
+    "titleOriginal": "Miss Nelson Is Missing!",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Harry Allard",
+        "nameZh": "哈利·阿拉德",
+        "role": "文"
+      },
+      {
+        "name": "James Marshall",
+        "nameZh": "詹姆斯·马歇尔",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1977,
+    "ageMin": 5,
+    "ageMax": 8,
+    "functions": [
+      "school",
+      "humor",
+      "character"
+    ],
+    "keywords": [
+      "课堂纪律",
+      "尊重老师",
+      "代课老师",
+      "悬疑"
+    ],
+    "summary": "207班的学生调皮捣蛋，从不听温柔的尼尔森老师的话。突然有一天，尼尔森老师不见了，来了一位凶巴巴的代课老师……幽默的悬疑故事让孩子体会尊重老师、自觉遵守纪律的意义。",
+    "tip": "读完问孩子：你觉得尼尔森老师去哪儿了？请他在书里找出线索，再说出理由。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "interrupting-chicken",
+    "titleZh": "爱打岔的小鸡",
+    "titleOriginal": "Interrupting Chicken",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "David Ezra Stein",
+        "nameZh": "大卫·埃兹拉·斯坦",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2010,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "humor",
+      "bedtime"
+    ],
+    "keywords": [
+      "插嘴",
+      "睡前故事",
+      "经典童话",
+      "父女"
+    ],
+    "summary": "睡前，小红鸡请爸爸讲故事，可每次故事刚讲到关键处，它就忍不住冲进书里大喊：“小心！那是坏人！”于是故事总是戛然而止。幽默的情节让孩子笑着认识“打断别人”，也重温了几个经典童话。",
+    "tip": "下次讲故事时和孩子约定一个“举手”手势，想插话时先举手，等一句话讲完再说。",
+    "awards": [
+      {
+        "name": "凯迪克银奖",
+        "year": 2011
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "library-lion",
+    "titleZh": "图书馆狮子",
+    "titleOriginal": "Library Lion",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Michelle Knudsen",
+        "nameZh": "米歇尔·努森",
+        "role": "文"
+      },
+      {
+        "name": "Kevin Hawkes",
+        "nameZh": "凯文·霍克斯",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2006,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "character",
+      "school"
+    ],
+    "keywords": [
+      "规则",
+      "图书馆",
+      "变通",
+      "帮助他人"
+    ],
+    "summary": "一头狮子走进图书馆，馆长说只要守规矩就可以留下。狮子很守规矩，帮忙掸灰、舔信封，还给孩子们当靠垫。直到有一天发生了意外，它不得不打破“不准吵闹”的规矩……故事探讨了规则与善意之间的选择。",
+    "tip": "带孩子去一次图书馆，进门前约定三条规矩，读完再聊聊什么情况下可以“破例”。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "not-a-box",
+    "titleZh": "不是箱子",
+    "titleOriginal": "Not a Box",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Antoinette Portis",
+        "nameZh": "安托瓦内特·波蒂斯",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2006,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "imagination"
+    ],
+    "keywords": [
+      "纸箱",
+      "假装游戏",
+      "创造力",
+      "对话"
+    ],
+    "summary": "“你为什么坐在箱子里？”“这不是箱子！”一只小兔子把纸箱变成赛车、高山、火箭和大船。简洁的线条和一问一答的对话，肯定了孩子在假装游戏中的奇妙想象，也鼓励大人用孩子的眼光看世界。",
+    "tip": "读完找一个大纸箱给孩子，问他：“这是箱子吗？”看看他会把它变成什么。",
+    "awards": [
+      {
+        "name": "苏斯博士奖银奖",
+        "year": 2007
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "the-berenstain-bears-learn-about-strangers",
+    "titleZh": "贝贝熊：对待陌生人",
+    "titleOriginal": "The Berenstain Bears Learn About Strangers",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Stan Berenstain",
+        "nameZh": "斯坦·博丹",
+        "role": "文/图"
+      },
+      {
+        "name": "Jan Berenstain",
+        "nameZh": "简·博丹",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 1985,
+    "ageMin": 3,
+    "ageMax": 7,
+    "functions": [
+      "safety"
+    ],
+    "keywords": [
+      "陌生人",
+      "自我保护",
+      "安全常识",
+      "分寸"
+    ],
+    "summary": "熊妹妹对谁都热情地打招呼，熊爸爸和熊妈妈便教她和熊哥哥认识陌生人可能带来的危险，可熊妹妹一时又开始害怕所有陌生人。故事以家常的方式讲清分寸：大多数人是善意的，但基本的安全规则一定要遵守。",
+    "tip": "读完和孩子演练：陌生人给糖、问路、说“你妈妈让我来接你”时，分别该怎么回应。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "how-do-dinosaurs-say-good-night",
+    "titleZh": "恐龙是怎样道晚安的？",
+    "titleOriginal": "How Do Dinosaurs Say Good Night?",
+    "zhEdition": true,
+    "authors": [
+      {
+        "name": "Jane Yolen",
+        "nameZh": "简·约伦",
+        "role": "文"
+      },
+      {
+        "name": "Mark Teague",
+        "nameZh": "马克·蒂格",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2000,
+    "ageMin": 2,
+    "ageMax": 5,
+    "functions": [
+      "bedtime",
+      "habits",
+      "humor"
+    ],
+    "keywords": [
+      "恐龙",
+      "睡前习惯",
+      "不想睡觉",
+      "押韵"
+    ],
+    "summary": "恐龙宝宝到了该睡觉的时间，会不会甩尾巴、跺脚、大哭大闹，吵着要再讲一个故事？各种恐龙化身成闹脾气的孩子，书的后半部分又展示了乖乖说晚安的样子。幽默的画面帮助孩子建立良好的睡前习惯。",
+    "tip": "读完和孩子约定一个“恐龙晚安仪式”：刷牙、关灯、抱一抱，再像乖恐龙一样说晚安。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "julian-is-a-mermaid",
+    "titleZh": "朱利安是条美人鱼",
+    "titleOriginal": "Julián Is a Mermaid",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Jessica Love",
+        "nameZh": "杰西卡·洛芙",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2018,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "diversity",
+      "self",
+      "family"
+    ],
+    "keywords": [
+      "性别表达",
+      "祖孙",
+      "接纳",
+      "想象"
+    ],
+    "summary": "朱利安和奶奶坐地铁时，看见三位打扮成美人鱼的女士，他也梦想成为美人鱼。回到家，他用窗帘、植物叶子和口红把自己打扮起来，心里却担心奶奶会怎么看……温暖的画面讲述了被家人接纳、被看见的力量。",
+    "tip": "读完问孩子：书里的奶奶是怎样表达她的态度的？请他从画面里找出线索。",
+    "awards": [],
+    "classic": false
+  },
+  {
+    "id": "fry-bread",
+    "titleZh": "炸面包：一个美洲原住民家庭的故事",
+    "titleOriginal": "Fry Bread: A Native American Family Story",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Kevin Noble Maillard",
+        "nameZh": "凯文·诺布尔·梅拉德",
+        "role": "文"
+      },
+      {
+        "name": "Juana Martinez-Neal",
+        "nameZh": "胡安娜·马丁内斯-尼尔",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2019,
+    "ageMin": 4,
+    "ageMax": 8,
+    "functions": [
+      "culture",
+      "family"
+    ],
+    "keywords": [
+      "美洲原住民",
+      "传统食物",
+      "家庭聚会",
+      "文化传承"
+    ],
+    "summary": "炸面包是形状、是声音、是颜色，是历史，也是一家人。几代人围在厨房里揉面、下锅、分享。简短的诗句和温暖的画面展现了美洲原住民家庭的饮食传统与文化传承，书末附有食谱和作者的详细说明。",
+    "tip": "照着书末的食谱和孩子做一次炸面包，边做边聊聊自己家有哪些代代相传的食物。",
+    "awards": [
+      {
+        "name": "西伯特奖",
+        "year": 2020
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "big",
+    "titleZh": "大",
+    "titleOriginal": "Big",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Vashti Harrison",
+        "nameZh": "瓦什蒂·哈里森",
+        "role": "文/图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2023,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "self",
+      "diversity",
+      "emotion"
+    ],
+    "keywords": [
+      "身材焦虑",
+      "自我接纳",
+      "被嘲笑",
+      "语言的伤害"
+    ],
+    "summary": "小女孩小时候常被夸“真是个大女孩”，可随着她长大，“大”渐渐变成了别人的嘲笑和异样眼光，她开始觉得自己“太大了”。柔和的画面和大胆的跨页设计，讲述了身材羞辱带来的伤害，以及重新接纳自己的过程。",
+    "tip": "读完和孩子聊聊：别人随口说的哪句话曾让你难过？以后我们可以怎样说话才不伤人？",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2024
+      }
+    ],
+    "classic": false
+  },
+  {
+    "id": "we-are-water-protectors",
+    "titleZh": "我们是水的守护者",
+    "titleOriginal": "We Are Water Protectors",
+    "zhEdition": false,
+    "authors": [
+      {
+        "name": "Carole Lindstrom",
+        "nameZh": "卡萝尔·林德斯特罗姆",
+        "role": "文"
+      },
+      {
+        "name": "Michaela Goade",
+        "nameZh": "米凯拉·戈德",
+        "role": "图"
+      }
+    ],
+    "country": "US",
+    "language": "en",
+    "year": 2020,
+    "ageMin": 5,
+    "ageMax": 9,
+    "functions": [
+      "nature",
+      "culture"
+    ],
+    "keywords": [
+      "保护水源",
+      "原住民",
+      "环保",
+      "勇敢行动"
+    ],
+    "summary": "“水是第一种良药。”一个原住民女孩从祖辈那里听说，水孕育了一切生命。当一条像黑蛇一样的输油管道威胁到河流与土地时，她和族人站出来守护水源。诗意的语言和磅礴的画面，传达了环保信念与原住民文化精神。",
+    "tip": "读完和孩子记录一天里家里用水的地方，一起想三个节约和保护水的办法。",
+    "awards": [
+      {
+        "name": "凯迪克金奖",
+        "year": 2021
+      }
+    ],
+    "classic": false
+  }
+]
