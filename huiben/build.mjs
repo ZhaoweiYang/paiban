@@ -26,8 +26,10 @@ const PREVIEW = process.argv.includes('--preview');
 const out = join(root, PREVIEW ? 'dist-preview' : 'dist');
 const dataDir = process.env.HUIBEN_DATA || join(root, 'data', 'books');
 
-// Copy that must never ship.
-const FORBIDDEN = /lorem ipsum|coming soon|\bTBD\b|\bTODO\b|placeholder|待补充|敬请期待|\{\{|\}\}|undefined|NaN|\[object /i;
+// Copy that must never ship: filler wording (any case) and template slips (exact case, so a
+// title like “Nana Upstairs” does not match NaN).
+const FORBIDDEN = /lorem ipsum|coming soon|\bTBD\b|\bTODO\b|placeholder|待补充|敬请期待|\{\{|\}\}/i;
+const TEMPLATE_SLIP = /\bundefined\b|\bNaN\b|\[object /;
 
 async function write(rel, content) {
   const file = join(out, rel);
@@ -77,7 +79,7 @@ async function main() {
 
   for (const [rel, html] of pages) {
     const text = html.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, ' ');
-    const bad = text.match(FORBIDDEN);
+    const bad = text.match(FORBIDDEN) || text.match(TEMPLATE_SLIP);
     if (bad) throw new Error(`页面 ${rel} 含有不应发布的文字 “${bad[0]}”`);
     await write(rel, html);
   }
