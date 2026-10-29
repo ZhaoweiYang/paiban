@@ -220,6 +220,7 @@ export const AWARDS = [
   { name: '《纽约时报》年度最佳绘本', original: 'New York Times Best Illustrated Children’s Books', country: 'US', desc: '《纽约时报书评》自 1952 年起每年评选的十佳插画童书。' },
   { name: '凯特·格林纳威奖', original: 'Kate Greenaway Medal', country: 'GB', desc: '英国图书馆与信息专业协会颁发的英国最高儿童插画奖，1955 年设立（2023 年起更名为 Yoto Carnegie 插画奖）。' },
   { name: '聪明豆图书奖', original: 'Nestlé Smarties Book Prize', country: 'GB', desc: '英国儿童图书奖（1985–2007），按年龄组评出金、银、铜奖。' },
+  { name: '库尔特·马施勒奖', original: 'Kurt Maschler Award', country: 'GB', desc: '英国奖项（1982–1999），表彰文字与插图结合得最出色的童书，奖品是一尊“埃米尔”小像，又称埃米尔奖。' },
   { name: '鹅妈妈奖', original: 'Mother Goose Award', country: 'GB', desc: '英国颁给最具潜力的新人童书插画家的奖项（1979–2010）。' },
   { name: '加拿大总督文学奖', original: 'Governor General’s Literary Award', country: 'CA', desc: '加拿大最重要的文学奖，设儿童文学插画类。' },
   { name: '澳大利亚年度绘本奖', original: 'CBCA Picture Book of the Year', country: 'AU', desc: '澳大利亚儿童图书协会年度图书奖中的绘本类奖项。' },
